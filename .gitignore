@@ -1,0 +1,27 @@
+# CRITICAL — Never commit secrets
+.env
+.env.*
+*.env
+secrets.txt
+credentials.txt
+api_keys.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Logs (keep memory/ files but not raw logs)
+*.log
