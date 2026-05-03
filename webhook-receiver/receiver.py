@@ -149,7 +149,7 @@ class WebhookHandler(BaseHTTPRequestHandler):
         """Health check endpoint."""
         self.send_response(200)
         self.end_headers()
-        self.wfile.write(b"Ken Trading Bot Webhook Receiver — OK")
+        self.wfile.write(b"Ken Trading Bot Webhook Receiver - OK")
 
     def do_POST(self):
         if self.path != "/webhook":
