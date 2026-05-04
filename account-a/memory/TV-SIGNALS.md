@@ -5,6 +5,7 @@
 ## Signal Log Format
 | Date | Time | Account | Ticker | Indicator | Signal | Close | Timeframe | Status |
 |------|------|---------|--------|-----------|--------|-------|-----------|--------|
+| 2026-05-04 | 08:31 UTC | A | 2840 | CTO Line | STRONG_BEAR | 3300 | D | ⚠️ UNRECOGNIZED TICKER — not a US stock; verify webhook config |
 
 ## Active Partial Signals (Account B — awaiting confirmation)
 *Signals waiting for second indicator confirmation within 30-day window*
@@ -38,4 +39,3 @@
 - BEAR_BAND + BX_BEAR = HIGH CONVICTION SELL
 - Single signal alone = log and monitor, no action
 - Signal older than 30 days without confirmation = EXPIRED
-| 2026-05-04 | 08:31 UTC | A | 2840 | ? | STRONG_BEAR | 3300 | D | NEW |

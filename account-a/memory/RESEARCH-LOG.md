@@ -36,7 +36,8 @@ Daily pre-market research entries appended here.
 - DVN: composite 60/100 (macro:75 tech:60 sent:52 cong:52 crowd:50) — SKIP
 - RTX: composite 61/100 (macro:72 tech:62 sent:52 cong:60 crowd:50) — SKIP
 - NVDA: composite 59/100 (macro:70 tech:55 sent:55 cong:58 crowd:50) — SKIP (RSI ~71, extended at ATH)
-**Trade ideas:** None — all candidates below 70 threshold. No CTO signals active.
+**CTO Signals:** ⚠️ STRONG_BEAR received 08:31 UTC on ticker "2840" (close: 3300, daily) — UNRECOGNIZED US ticker; likely 2840.HK (SPDR Gold HK-listed ETF) or misconfigured webhook. No US position to evaluate. Flag for Ken to verify webhook config.
+**Trade ideas:** None — all candidates below 70 threshold. STRONG_BEAR signal on unknown ticker does not unlock buys.
 **Watch list:** OXY/DVN if CTO STRONG_BULL fires on energy pullback; RTX on continued Iran escalation with CTO confirm; NVDA on RSI reset to <50
 **Risk factors:**
 - Hormuz closure risk → oil >$130 = stagflation shock, equity sell-off
