@@ -40,3 +40,4 @@
 - Single signal alone = log and monitor, no action
 - Signal older than 30 days without confirmation = EXPIRED
 | 2026-05-04 | 20:01 UTC | A | QCOM | ? | BULLISH_FLIP | 168.4 | D | NEW |
+| 2026-05-04 | 20:01 UTC | A | GDX | ? | STRONG_BEAR | 85.66 | D | NEW |
