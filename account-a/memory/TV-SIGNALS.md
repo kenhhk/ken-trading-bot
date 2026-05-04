@@ -42,3 +42,4 @@
 | 2026-05-04 | 20:01 UTC | A | QCOM | ? | BULLISH_FLIP | 168.4 | D | NEW |
 | 2026-05-04 | 20:01 UTC | A | GDX | ? | STRONG_BEAR | 85.66 | D | NEW |
 | 2026-05-04 | 20:03 UTC | A | TEVA | ? | STRONG_BULL | 35.38 | D | NEW |
+| 2026-05-04 | 20:16 UTC | A | SFBQF | ? | BULLISH_FLIP | 1.45 | D | NEW |
