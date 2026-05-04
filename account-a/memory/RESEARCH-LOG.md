@@ -45,3 +45,32 @@ Daily pre-market research entries appended here.
 - S&P at ATH 7,230 with geopolitical tail risk = limited upside buffer
 - VIX rising (up 2.2%) — options market beginning to price in event risk
 **Decision:** HOLD — no candidates reach the 70 CEO score minimum; no CTO signals; chasing oil-spike gap-ups on day 1 violates discipline. Patience > activity.
+
+---
+
+### 2026-05-04 — Pre-market Research (Run 2)
+**Account:** Equity $25,000 | Cash $25,000 | Buying power $50,000 | Positions: 0 | Open orders: 0 | Day trades: 0
+**Market:** WTI ~$103 (+3.0%) | S&P futures +0.07% | VIX 16.55 | Mode: **NORMAL** (<20) | Min CEO score: 70 | Max position: 2%
+**Sector rotation:** GAINING: XLE (+21–22% YTD, Hormuz/oil), XLB (Materials), XLP (Staples), XLI (Industrials) | LAGGING: XLRE (Real Estate); XLK mixed but AI capex momentum returning
+**Catalysts:**
+1. US-Iran conflict — Hormuz blockade; UAE intercepted Iranian cruise missiles; oil +3%
+2. S&P 500 at ATH 7,230; AI capex boom driving tech/semis
+3. TSN earnings beat ($0.87 vs $0.78 est, +2.5% pre-mkt); NCLH guidance cut -5.5%; PLTR reports AH tonight
+**Earnings today:** TSN (beat, +2.5%), NCLH (miss, -5.5%), L (Loews) | AH: PLTR — do not trade before results
+**Economic calendar:** No major releases today. Week: JOLTS (May 5), ADP (mid-week), NFP Friday May 8
+**Sentiment:** AAII Bears 49.8% / Bulls 32.1% | Fear & Greed 66.6 (Greed) | VIX 16.55 | Put/call: unknown
+**Contrarian bonus:** NOT triggered — F&G 66.6 (need <25), VIX 16.55 (need 35–49), AAII bears ~50% (need >50%)
+**CTO Signals:** ⚠️ STRONG_BEAR on "2840" (08:31 UTC) — UNRECOGNIZED US ticker; no US positions to evaluate
+**CEO Scores:**
+- MSFT: composite 65/100 (macro:75 tech:65 sent:48 cong:75 cto:50) — SKIP (Gottheimer $750K congress buy helps but below 70; no CTO signal)
+- OXY: composite 58/100 (macro:78 tech:62 sent:48 cong:44 cto:50) — SKIP
+- RTX: composite 57/100 (macro:72 tech:62 sent:48 cong:45 cto:50) — SKIP
+- TSN: composite 51/100 (macro:55 tech:60 sent:48 cong:40 cto:50) — SKIP (gap-up on earnings; oil raises input costs)
+**Trade ideas:** None — all candidates below 70 threshold
+**Watch list:** MSFT on CTO BULLISH_FLIP + CEO ≥ 70; OXY/DVN if CTO STRONG_BULL fires; RTX on continued escalation + CTO confirm; PLTR post-earnings tomorrow if big beat
+**Risk factors:**
+- Hormuz closure → oil >$130 = stagflation shock, equity sell-off
+- S&P at ATH 7,230 with elevated geopolitical tail risk — limited upside buffer
+- VIX 16.55 still rising from lows; options market may be underpricing event risk
+- PLTR AH earnings tonight; NFP Friday May 8 = reduce sizing mid-week
+**Decision:** HOLD — no candidates reach 70 CEO minimum; no CTO bull signals on US tickers; S&P at ATH with Hormuz/oil risk = unfavorable risk/reward for new longs. Patience > activity.
