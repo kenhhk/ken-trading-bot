@@ -80,7 +80,6 @@ Send an email using SMTP with these exact parameters:
 - Body: Include VIX level and mode, WTI price and key catalyst,S&P futures, Sector rotation summary (gaining/losing), CEO scores for all candidates evaluated, Decision (TRADE or HOLD with reason), and Watchlist for tomorrow
 Keep email under 20 lines.
 If any position is already -7%+ pre-market, add "⚠️ URGENT:" prefix to subject line.
-Do NOT send to phone number. Email only for this step.
 
 STEP 8 — COMMIT AND PUSH (mandatory):
 Run these git commands:
