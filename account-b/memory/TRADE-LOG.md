@@ -12,7 +12,7 @@ No positions. Bot launching. Baseline set.
 | Ticker | Shares | Entry | Current | Unrealized P&L | Stop |
 |--------|--------|-------|---------|----------------|------|
 | — | — | — | — | — | — |
-**Notes:** No open positions. No THT signals received. Account B in cash, awaiting first confirmed dual-indicator entry signal.
+**Notes:** No open positions. No pending THT signals. Account B in cash, awaiting first confirmed dual-indicator entry signal. EOD routine confirmed.
 
 ---
 *Format for each trade entry:*
