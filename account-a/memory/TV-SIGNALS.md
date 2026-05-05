@@ -44,3 +44,4 @@
 | 2026-05-04 | 20:03 UTC | A | TEVA | CTO Line | STRONG_BULL | 35.38 | D | EVALUATED 2026-05-05 — CEO 66/100 (<70); Q2 earnings 05/06/2026 = skip today; re-evaluate post-print if CEO ≥70 |
 | 2026-05-04 | 20:16 UTC | A | SFBQF | CTO Line | BULLISH_FLIP | 1.45 | D | EVALUATED 2026-05-05 — OTC penny stock; SoftBank Corp (Japan); not US stock; SKIP |
 | 2026-05-04 | 21:01 UTC | A | SILVER | CTO Line | STRONG_BEAR | 72.735 | D | EVALUATED 2026-05-05 — not a stock (commodity/futures); SKIP |
+| 2026-05-05 | 20:01 UTC | A | NET | ? | STRONG_BULL | 244.43 | D | NEW |
