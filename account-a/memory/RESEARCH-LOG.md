@@ -79,38 +79,50 @@ Daily pre-market research entries appended here.
 
 ### 2026-05-05 — Pre-market Research
 **Account:** Equity $25,000 | Cash $25,000 (100%) | Buying power $50,000 | Positions: 0 | Open orders: 0 | Day trades: 0
-**Market:** WTI $101.62 | S&P futures -0.03% (7,227.75) | VIX 18.24 (open 17.38) | Mode: **NORMAL** (<20) | Min CEO score: 70 | Max position: 2% ($500)
+**Market:** WTI $101.62–$107.01 (+3% Hormuz risk) | S&P futures -0.03% (7,227.75) | VIX 18.24 (+7.4% from 16.99) | Mode: **NORMAL** (<20) | Min CEO score: 70 | Max position: 2% ($500)
 **Sector rotation:** GAINING: XLE (Energy +22% YTD — Hormuz/oil), XLI (Industrials +16%), XLP (Consumer Defensive +13.3%), XLB (Materials) | LAGGING: XLK (Tech), XLRE (Real Estate); Value outperforming Growth in 2026
 **Catalysts:**
 1. Strait of Hormuz closure ongoing — WTI holding >$100; Iran/Middle East tensions persist
-2. Earnings season strong: 63% of S&P 500 reported, blended EPS growth 27.1%
+2. Earnings season strong: 63% of S&P 500 reported, blended EPS growth 27.1%; PLTR AH beat (Rev $1.63B vs $1.54B est, EPS $0.33 vs $0.28 est, guidance raised)
 3. Economic data due today: ISM Services PMI (Apr) 10am, JOLTS Job Openings (Mar) 10am, S&P Global PMI Services 9:45am
 **Earnings today:** Pre-market: NCLH (beat EPS, missed rev, -6.5%), TSN, L (Loews) | After close: PLTR, AMD, ANET, SMCI, OXY — heavy AH earnings load; avoid new semi/AI positions ahead of results
 **Economic calendar:** ISM Services PMI (Apr) 10:00am | JOLTS Job Openings (Mar) 10:00am | S&P Global PMI Services Final (Apr) 9:45am | New Home Sales (Mar) 10:00am
-**Sentiment:** AAII Bulls 38.1% / Bears ~39.7% (spread -1.6%) | Fear & Greed 66.6 (Greed) | QCOM P/C 0.86 | TEVA P/C 0.62 | Contrarian bonus: NOT triggered (F&G 66.6, VIX 18.24, AAII bears <50%)
+**Sentiment:** AAII Bulls 38.1% / Bears ~39.7% | Fear & Greed 66.6 (Greed) | QCOM P/C 0.86 | TEVA P/C 0.62 | Contrarian bonus: NOT triggered (F&G 66.6, VIX 18.24, AAII bears <50%)
 **CTO Signals (NEW — 2026-05-04 AH):**
-- QCOM: BULLISH_FLIP @ $168.40 → +15 CTO boost
-- TEVA: STRONG_BULL @ $35.38 → +25 CTO boost
+- QCOM: BULLISH_FLIP @ $168.40 → +15 CTO boost; stock ~$179 post-earnings surge
+- TEVA: STRONG_BULL @ $35.38 → +25 CTO boost; Q1 beat (EPS $0.53 vs $0.12 est); ⚠️ Q2 earnings 05/06/2026 tomorrow
 - GDX: STRONG_BEAR @ $85.66 → block buys; trigger sell eval (no position held)
-- SFBQF @ $1.45: BULLISH_FLIP — ⚠️ UNRECOGNIZED US ticker (foreign OTC), skip
-- SILVER @ $72.735: STRONG_BEAR — commodity, not a stock per rules, skip
+- SFBQF @ $1.45: BULLISH_FLIP — OTC penny stock; SoftBank Corp (Japan); not US stock; SKIP
+- SILVER @ $72.735: STRONG_BEAR — commodity/futures, not a stock per rules; SKIP
 **CEO Scores:**
-- TEVA: composite 63/100 (macro:65 tech:75 sent:55 cong:50 cto:75) — WATCH, not TRADE (< 70 threshold; Q2 earnings 05/06/2026 tomorrow = buying into earnings risk; re-evaluate post-print)
-- QCOM: composite 59/100 (macro:65 tech:62 sent:55 cong:50 cto:65) — WATCH (BULLISH_FLIP after -4.6% sell-the-news; cheap at 17x fwd P/E vs sector 35x; automotive +38% YoY; needs price stabilization)
-- OXY: composite 60/100 (macro:65 tech:65 sent:55 cong:55 cto:50) — SKIP (no CTO signal; earnings AH today)
-**Trade ideas:** None — no candidates exceed 70 CEO threshold; multiple heavy AH earnings create sector-level uncertainty for new semi/tech entries
-**Watch list for tomorrow:**
-- TEVA: post-earnings entry if Q2 beats + CTO signal holds + CEO ≥ 70
-- QCOM: monitor for stabilization above $165; BULLISH_FLIP confirms if price follows through
+- TEVA: composite 66/100 (macro:70 tech:82 sent:52 cong:50 cto:75) — SKIP (<70; STRONG_BULL + earnings beat compelling but F&G greed + no congress + Q2 earnings tomorrow = unacceptable risk; re-evaluate post-print 05/06)
+- QCOM: composite 60/100 (macro:65 tech:62 sent:52 cong:50 cto:65) — SKIP (<70; extended +42% past month, RSI overextended, needs stabilization above $165; spread ~8.7%)
+- PLTR: composite 61/100 (macro:65 tech:72 sent:52 cong:50 cto:50) — SKIP (<70; massive AH beat but no CTO signal; buying gap-up without CTO confirm violates discipline; spread ~10.2%)
+- OXY: composite 60/100 (macro:65 tech:65 sent:52 cong:55 cto:50) — SKIP (no CTO signal; earnings AH today)
+**Trade ideas:** None — no candidates exceed 70 CEO threshold; multiple AH earnings create gap risk; TEVA untouchable until post-earnings
+**Watch list for 2026-05-06:**
+- TEVA: post-Q2 earnings entry if beats + CTO STRONG_BULL holds + CEO ≥ 70 (target $41.75, duvakitug pipeline)
+- QCOM: monitor for stabilization above $165; BULLISH_FLIP confirms if price follows through; cheap at 17x fwd P/E
+- PLTR: if CTO BULLISH_FLIP fires post-gap; gap-up expected on 85% revenue growth
 - OXY/DVN: if energy sector extends and CTO STRONG_BULL fires
-- PLTR: post-AH results; if strong beat, evaluate tomorrow morning
 **Risk factors:**
 - Strait of Hormuz closure → oil >$130 = stagflation shock, equity sell-off
 - Heavy AH earnings today (PLTR, AMD, ANET, SMCI, OXY) = after-hours gap risk
-- ISM Services miss could shift rate cut expectations
-- VIX rising 17.38→18.24 — options market pricing in modest uncertainty
+- ISM Services miss could shift rate cut expectations; JOLTS data = labor market read
+- VIX rising 16.99→18.24 (+7.4%) — options market pricing in increasing uncertainty
 - S&P 500 at/near ATH 7,230 with unresolved geopolitical tail risk = limited upside buffer
-**Decision:** HOLD — all candidates below 70 CEO minimum; TEVA reports earnings tomorrow (skip); QCOM needs stabilization; heavy AH earnings load today; Hormuz risk unresolved. Patience > activity.
+**Decision:** HOLD — all candidates below 70 CEO minimum; TEVA reports Q2 earnings tomorrow (skip); QCOM needs stabilization; heavy AH earnings load; Hormuz risk unresolved. Week count: 0/50. Patience > activity.
+
+---
+
+### 2026-05-05 — Market-Open Execution
+**Routine:** market-open.md executed per instructions
+**Trades this week:** 0/50
+**Live state:** Equity $25,000 | Cash $25,000 | Positions: 0 | Open orders: 0 | Day trades: 0
+**Buy-side gate results:** All candidates failed CEO score check (TEVA 66, QCOM 60, PLTR 61 — all <70 minimum)
+**Quotes checked:** TEVA bid/ask spread ~25% (pre-market stale), QCOM ~8.7%, PLTR ~10.2% — all >2% threshold (after-hours quotes)
+**Action:** HOLD — no orders placed
+**Notification:** None (no trades executed)
 
 ---
 
@@ -122,8 +134,8 @@ Daily pre-market research entries appended here.
 **Step 6 — TV Signal review (5 signals from 2026-05-04):**
 - QCOM BULLISH_FLIP ($168.4): Bull thesis intact — record auto revenue +38% YoY, AI edge computing leadership, hyperscaler chip deal ahead of schedule. Stock surged to ~$179 post-earnings. CEO score evaluation needed before any buy; **WATCH-TOMORROW**
 - GDX STRONG_BEAR ($85.66): ETF — not tradeable per rules. No position. No action.
-- TEVA STRONG_BULL ($35.38): Bull thesis intact — Q1 2026 massive beat (EPS $0.53 vs $0.12 est, Rev $3.98B vs $3.79B est), 11 consecutive growth quarters, duvakitug IBD pipeline, avg analyst target $41.75 (+17%). **WATCH-TOMORROW**
-- SFBQF BULLISH_FLIP ($1.45): ⚠️ FLAG — suspect ticker; OTC/pink sheet, not a standard US exchange stock. Flagged for Ken to verify webhook config.
+- TEVA STRONG_BULL ($35.38): Bull thesis intact — Q1 2026 massive beat (EPS $0.53 vs $0.12 est, Rev $3.98B vs $3.79B est), 11 consecutive growth quarters, duvakitug IBD pipeline, avg analyst target $41.75 (+17%). ⚠️ Q2 earnings tomorrow 05/06 — DO NOT BUY TODAY. **WATCH-TOMORROW post-print**
+- SFBQF BULLISH_FLIP ($1.45): ⚠️ FLAG — OTC/pink sheet, foreign company (SoftBank Corp Japan), not a US exchange stock. Flagged for Ken to verify webhook config.
 - SILVER STRONG_BEAR ($72.735): ⚠️ FLAG — not a valid US stock ticker (commodity/futures). No action. Flagged for Ken to verify webhook config.
 **Action taken:** None — no trades, no exits, no stop adjustments.
-**Watchlist for 2026-05-05 open:** QCOM (BULLISH_FLIP, run CEO score), TEVA (STRONG_BULL, run CEO score); both need CEO ≥ 70 and full entry checklist before any order.
+**Watchlist for 2026-05-06 open:** TEVA post-Q2 earnings (if beat + CEO ≥70); QCOM if stabilizes + CEO ≥70; PLTR if CTO BULLISH_FLIP fires on gap-up
