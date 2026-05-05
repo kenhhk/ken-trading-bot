@@ -74,3 +74,19 @@ Daily pre-market research entries appended here.
 - VIX 16.55 still rising from lows; options market may be underpricing event risk
 - PLTR AH earnings tonight; NFP Friday May 8 = reduce sizing mid-week
 **Decision:** HOLD — no candidates reach 70 CEO minimum; no CTO bull signals on US tickers; S&P at ATH with Hormuz/oil risk = unfavorable risk/reward for new longs. Patience > activity.
+
+---
+
+### 2026-05-05 — Midday Scan
+**Positions:** 0 open | **Open orders:** 0 | **Cash:** $25,000 (100%)
+**Step 3 — Cut losers:** N/A (no positions)
+**Step 4 — Tighten stops:** N/A (no positions)
+**Step 5 — Thesis checks:** N/A (no positions)
+**Step 6 — TV Signal review (5 signals from 2026-05-04):**
+- QCOM BULLISH_FLIP ($168.4): Bull thesis intact — record auto revenue +38% YoY, AI edge computing leadership, hyperscaler chip deal ahead of schedule. Stock surged to ~$179 post-earnings. CEO score evaluation needed before any buy; **WATCH-TOMORROW**
+- GDX STRONG_BEAR ($85.66): ETF — not tradeable per rules. No position. No action.
+- TEVA STRONG_BULL ($35.38): Bull thesis intact — Q1 2026 massive beat (EPS $0.53 vs $0.12 est, Rev $3.98B vs $3.79B est), 11 consecutive growth quarters, duvakitug IBD pipeline, avg analyst target $41.75 (+17%). **WATCH-TOMORROW**
+- SFBQF BULLISH_FLIP ($1.45): ⚠️ FLAG — suspect ticker; OTC/pink sheet, not a standard US exchange stock. Flagged for Ken to verify webhook config.
+- SILVER STRONG_BEAR ($72.735): ⚠️ FLAG — not a valid US stock ticker (commodity/futures). No action. Flagged for Ken to verify webhook config.
+**Action taken:** None — no trades, no exits, no stop adjustments.
+**Watchlist for 2026-05-05 open:** QCOM (BULLISH_FLIP, run CEO score), TEVA (STRONG_BULL, run CEO score); both need CEO ≥ 70 and full entry checklist before any order.

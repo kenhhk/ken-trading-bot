@@ -39,8 +39,8 @@
 - BEAR_BAND + BX_BEAR = HIGH CONVICTION SELL
 - Single signal alone = log and monitor, no action
 - Signal older than 30 days without confirmation = EXPIRED
-| 2026-05-04 | 20:01 UTC | A | QCOM | ? | BULLISH_FLIP | 168.4 | D | NEW |
-| 2026-05-04 | 20:01 UTC | A | GDX | ? | STRONG_BEAR | 85.66 | D | NEW |
-| 2026-05-04 | 20:03 UTC | A | TEVA | ? | STRONG_BULL | 35.38 | D | NEW |
-| 2026-05-04 | 20:16 UTC | A | SFBQF | ? | BULLISH_FLIP | 1.45 | D | NEW |
-| 2026-05-04 | 21:01 UTC | A | SILVER | ? | STRONG_BEAR | 72.735 | D | NEW |
+| 2026-05-04 | 20:01 UTC | A | QCOM | CTO Line | BULLISH_FLIP | 168.4 | D | WATCH-TOMORROW — bull thesis intact; AI edge + auto record; stock ~$179 post-earnings surge; evaluate entry at open |
+| 2026-05-04 | 20:01 UTC | A | GDX | CTO Line | STRONG_BEAR | 85.66 | D | N/A — ETF, not tradeable per rules; no position held |
+| 2026-05-04 | 20:03 UTC | A | TEVA | CTO Line | STRONG_BULL | 35.38 | D | WATCH-TOMORROW — bull thesis intact; Q1 beat (EPS $0.53 vs $0.12 est); duvakitug pipeline; target $41.75; evaluate entry at open |
+| 2026-05-04 | 20:16 UTC | A | SFBQF | CTO Line | BULLISH_FLIP | 1.45 | D | ⚠️ FLAG — unrecognized ticker (OTC/pink sheet?); not a standard US exchange stock; verify webhook config |
+| 2026-05-04 | 21:01 UTC | A | SILVER | CTO Line | STRONG_BEAR | 72.735 | D | ⚠️ FLAG — not a valid US stock ticker (commodity/futures?); no action; verify webhook config |
