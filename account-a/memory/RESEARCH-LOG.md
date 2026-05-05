@@ -262,3 +262,36 @@ Daily pre-market research entries appended here.
 - NFP Friday May 9 = avoid overcommitting mid-week; cap at 1–2 positions if any pass threshold
 - S&P futures +0.4% but underlying geopolitical tail risk (Hormuz) remains unresolved
 **Decision:** HOLD — all candidates below 70 CEO minimum; OXY/AMD defer to post-AH results; QCOM new hyperscaler catalyst notable but insufficient to overcome tech sector rotation + guidance risk; TEVA price action bearish since CTO signal. Week count: 0/50. Patience > activity.
+
+---
+
+### 2026-05-05 — Pre-market Research (Run 4)
+**Account:** Equity $25,000 | Cash $25,000 (100%) | Buying power $50,000 | Positions: 0 | Open orders: 0 | Day trades: 0
+**Market:** WTI $102.65–$104.40 (Iran/UAE ceasefire holding, easing from $105+) | S&P futures slightly positive | VIX 18.29 | Mode: **NORMAL** (<20) | Min CEO score: 70 | Max position: 2% ($500)
+**Sector rotation:** GAINING: XLE (Energy +21% YTD), XLB (Materials +17%), XLI (Industrials +12%), XLP (Staples +15%) | LAGGING: XLY (Consumer Discretionary), XLRE (Real Estate) | Value outperforming Growth; AI capex driving selective institutional tech inflows ($12B+ Q2 2026)
+**Catalysts:**
+1. ⚠️ TEVA Q1 2026 earnings beat (pre-market today): EPS $0.53 vs $0.48E (+10.4%), Rev $4.0B vs $3.81BE; stock +7.53% to ~$34; 5 major analyst upgrades (Piper Sandler, BofA, UBS, JPMorgan, Goldman Sachs); STRONG_BULL CTO active
+2. Iran/UAE ceasefire holding (Hegseth confirmed) → WTI easing to $102.65; Hormuz tail risk diminishing but not resolved
+3. PLTR Q1 beat (AH May 4): Rev $1.633B vs $1.54BE (+85% YoY), EPS $0.33 vs $0.28E; FY2026 guidance +71%; +2.3% pre-market; AI government platform leadership
+**Earnings today:** TEVA (beat: EPS $0.53 vs $0.48E, Rev $4.0B vs $3.81BE, +7.53% pre-mkt) | ON Semiconductor | Fabrinet | IAC
+**Economic calendar:** ISM Services PMI (Apr) 10:00am ET | JOLTS Job Openings (Mar) 10:00am ET | S&P Global Services PMI Final (Apr) 9:45am ET | No CPI/PPI/FOMC today
+**Sentiment:** AAII Bulls 38.1% / Bears ~39.7% (net-bearish, 12th elevated-bear week) | Fear & Greed: 62 (Greed) | VIX 18.29 (rising trend: 16.99→18.24→18.29) | TEVA P/C: 0.62
+**Contrarian bonus:** NOT triggered — F&G 62 (need <25), AAII bears ~40% (need >50%), VIX 18.29 (need 35–49)
+**Congressional trades:** No notable new buys identified last 7 days
+**CTO Signals (active):**
+- TEVA: STRONG_BULL @ $35.38 (May 4 AH) → +25 CEO boost; Q1 beat this morning confirms thesis; stock ~$34 (buying BELOW signal price = favorable)
+- QCOM: BULLISH_FLIP @ $168.40 (May 4 AH) → +15 CEO boost; stock ~$168 (at signal level, testing Fib support)
+- GDX: STRONG_BEAR (ETF — not tradeable per rules)
+**CEO Scores:**
+- TEVA: composite 83/100 (macro:65 tech:72 sent:55 cong:40, CTO STRONG_BULL +25) — **BUY** (≥70; Q1 beat + 5 analyst upgrades + STRONG_BULL + entry below signal price = all gates pass)
+- PLTR: composite 64/100 (macro:65 tech:80 sent:60 cong:50 crowd:55) — WATCH (no CTO signal; below 70 threshold despite monster earnings)
+- QCOM: composite 69/100 (macro:65 tech:55 sent:55 cong:42, CTO BULLISH_FLIP +15) — WATCH (1 pt below 70; CEO sold $1.8M + soft Android Q3 guidance = insufficient)
+**Trade ideas:**
+1. TEVA — Q1 beat + STRONG_BULL CTO; entry $34.00 limit; stop 10% trail → hard cut $31.62 (-7%); target $40.00; R:R 2.52:1; position 14 shares @ $34 = $476 (1.9% equity); CEO 83/100
+**Risk factors:**
+- TEVA gap-fill risk: buying into earnings gap; use limit only; allow open to settle before fill
+- Hormuz closure ongoing → oil re-acceleration risk; VIX spike possible if ceasefire breaks
+- VIX rising trend (may breach 20 = Elevated Caution, raises threshold to 75)
+- ISM Services + JOLTS at 10am ET could move markets if weak print
+- S&P at/near ATH 7,200 with geopolitical tail risk = limited upside buffer
+**Decision:** TRADE — TEVA CEO 83/100 exceeds 70 threshold; all 9 buy-side gates pass; STRONG_BULL CTO confirmed by Q1 earnings beat; R:R 2.52:1; entry $34.00 limit at market open. Week count: 0/50 → 1/50 after fill.
