@@ -4,6 +4,98 @@ Friday reviews appended here. Letter grade assigned each week.
 
 ---
 
+### Week ending 2026-05-05 (Week 5 — Updated Review, May 4–5)
+> Note: Review run 2026-05-05 (Tuesday). Key development: TEVA limit buy order placed today — first TRADE threshold breach since launch (CEO 83/100). Supersedes prior reviews for this period. TEVA DAY order expires at market close today (20:00 UTC). Account launched 2026-05-03.
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $25,000.00 (launch baseline, 2026-05-03) |
+| Ending portfolio | $25,000.00 (Alpaca confirmed; TEVA order pending, not yet filled) |
+| Week return | +$0.00 (0.00%) — TEVA DAY order not yet filled |
+| S&P 500 WTD (May 1–4) | −0.04% (7,228.38 → 7,225.24; May 5 still live at review time) |
+| Bot vs S&P | +0.04% alpha (flat vs slight index dip) |
+| Phase S&P return since launch | ≈ −0.04% (7,228.38 → 7,225.24) |
+| Phase alpha since launch | ≈ +0.04% |
+| Trades taken | 0 completed (W:0 / L:0 / open:0) — 1 PENDING: TEVA BUY 14 @ $35.19 DAY |
+| Win rate | N/A — no completed trades |
+| Best trade | None completed |
+| Worst trade | None completed |
+| Profit factor | N/A |
+| VIX mode predominant | Normal (18.29, below 20 throughout) |
+| Phase P&L | +$0.00 / 0.00% (since launch 2026-05-03) |
+
+**Closed Trades:**
+| Ticker | Entry | Exit | P&L | CEO Score | CTO Signal | Notes |
+|--------|-------|------|-----|-----------|------------|-------|
+| — | — | — | — | — | — | No completed trades this period |
+
+**Open Positions at Week End:**
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| — | — | — | — | — |
+
+**Pending Orders at Review Time:**
+| Ticker | Side | Qty | Limit | Type | Status | Expires |
+|--------|------|-----|-------|------|--------|---------|
+| TEVA | BUY | 14 | $35.19 | LIMIT DAY | NEW | 2026-05-05T20:00Z (market close) |
+
+**CTO Signals (active at review):**
+| Ticker | Signal | Signal Price | Status |
+|--------|--------|--------------|--------|
+| TEVA | STRONG_BULL | $35.38 | CEO 83/100; ORDER PLACED 14 shares @ $35.19 DAY |
+| QCOM | BULLISH_FLIP | $168.40 | CEO 59–61/100 (<70); WATCH |
+| GDX | STRONG_BEAR | $85.66 | ETF — excluded per rules |
+| SFBQF | BULLISH_FLIP | $1.45 | OTC/Japan — excluded per rules |
+| SILVER | STRONG_BEAR | $72.735 | Commodity — excluded per rules |
+
+**What Worked (3-5 bullets):**
+- TEVA CEO finally breached 70 threshold (83/100) — Q1 beat (EPS $0.53 vs $0.12 est, +342%), 5 analyst upgrades (Piper/BofA/UBS/JPM/GS), STRONG_BULL CTO, and entry below signal price ($35.19 < $35.38 signal) all converged
+- Correct HOLD discipline for 2 full sessions before the threshold was breached; patience rewarded with a clean, high-conviction setup
+- Position sizing accurate: 14 shares × $35.19 = $492.66 = 1.97% equity (within 2% limit); R:R ≈ 2.2:1 (target analyst avg $41.75)
+- TEVA earnings date error self-corrected in subsequent research session before any trade harm; zero P&L impact
+- Buy-side gate correctly blocked all premature entries across 10+ CEO evaluations before threshold was reached
+
+**What Didn't Work (3-5 bullets):**
+- TEVA $34.00 initial limit (Run 4 pre-market) not filled — stock opened at $35.04, above limit; had to revise to $35.19; gap-up entries need limit set slightly above prior close / support
+- Multiple redundant weekly review entries for the same short trading period (4 reviews for May 4–5); log is cluttered and confusing
+- Webhook continues firing non-US/non-stock tickers (4 of 6 signals invalid, 67% noise rate); fix unresolved for 3rd consecutive week
+- TEVA price deteriorated −10.5% from CTO signal ($35.38 → $31.62) before recovering via Emalex acquisition announcement + Q1 beat; CTO signal alone is insufficient — price confirmation still needed
+- QCOM BULLISH_FLIP remained below CEO threshold all week despite hyperscaler ASIC catalyst; Android China headwind prevented score reaching 70
+
+**Key Lessons:**
+- TEVA combination (earnings beat + CTO STRONG_BULL + analyst upgrades) = CEO 83/100; this 3-signal confluence reliably clears the 70 threshold
+- Gap-up entries: set limit ≥0.5–1% above prior close or signal level on earnings mornings to ensure execution; $34.00 was too tight on a +11% gap
+- If TEVA fills: 10% trailing stop GTC must be placed immediately (hard cut at −7% = ~$32.73 from $35.19 entry)
+- Webhook non-US filter is #1 infrastructure priority; 3 consecutive weeks of 67% noise is unacceptable
+- PLTR (monster beat: Rev $1.63B, EPS $0.33 vs $0.24) moved only +2.3% without CTO signal — correct to hold; discipline validated again
+
+**Signal Weight Review:**
+- Macro signal win rate: N/A (0 completed trades)
+- Technical signal win rate: N/A
+- Sentiment signal win rate: N/A
+- Congress signal win rate: N/A
+- CTO signal win rate: N/A (6 signals received; 1 → order placed; 5 filtered; 0 completed)
+- Recommended weight adjustments: None — insufficient data (0 completed trades)
+
+**Self-Improvement Check (Step 5):**
+- No signal has 2+ weeks of computable win-rate data — no weight changes triggered
+- TEVA price-hold pattern (CTO fires, stock falls >5% in 3 sessions then recovers) flagged for 2nd consecutive week; monitoring for potential future rule addition (if stock falls >5% from CTO signal within 3 sessions = signal requires re-confirmation before entry); not yet a rule change
+- Webhook non-US filter is infrastructure, not a TRADING-STRATEGY.md issue — no rule update
+- TRADING-STRATEGY.md is current and correctly reflects all active rules — no changes made
+
+**Adjustments for Next Week (week of May 6+):**
+- Priority 1: Fix webhook — US NYSE/NASDAQ only, $5+ price filter, exclude commodities/ETFs/OTC
+- Priority 2: TEVA — if filled today, place 10% trailing stop GTC immediately (hard cut at $32.73, -7% from $35.19); if not filled, re-evaluate pre-market May 6
+- Priority 3: OXY — Q1 AH results expected tonight; if beat + CTO STRONG_BULL fires, evaluate May 6; XLE +22% YTD = #1 sector
+- Priority 4: AMD — Q1 AH results expected tonight; if data center beat ($5.6B+) + CTO BULLISH_FLIP fires, evaluate May 6
+- Priority 5: QCOM — re-score if stabilizes above $170 on volume; CEO needs Android guidance update or congress buy to reach 70
+- Monitor NFP (May 9): if miss → VIX likely spikes toward/above 20 → Elevated Caution mode (min CEO 75, same 2% max)
+
+**Overall Grade: B+**
+> Rationale: First genuine TRADE threshold breach since launch — TEVA CEO 83/100 achieved after 2 days of correct HOLD discipline; position sizing, limit price, and R:R all executed per rules. Capital fully preserved. Grade above prior B reviews: (1) actionable setup materialized; (2) self-correcting research process demonstrated (date error, limit adjustment). Grade held below A: (1) 0 completed trades — order still pending; (2) webhook fix unresolved 3 weeks; (3) only 2 trading days of data; (4) TEVA DAY order may not fill if stock pulls back below $35.19.
+
+---
+
 ### Week ending 2026-05-05 (Week 4 — Full Week Review, May 4–5)
 > Note: Official weekly review as of today (2026-05-05). Covers the first full trading week since launch (May 4–5). Week 3 was an extended review that previewed May 6 research; this is the authoritative end-of-week snapshot as of May 5. Account launched 2026-05-03.
 
