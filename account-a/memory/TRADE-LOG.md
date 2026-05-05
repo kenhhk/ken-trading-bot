@@ -112,3 +112,14 @@ Buy order ID: 87c74d60-0f98-4edf-aa7a-43ca788babe8 | Trailing stop order ID: 830
 | TEVA | 14 | $35.19 | $35.855 | +$9.31 (+1.89%) | 10% trail / $32.37 hard |
 
 **Notes:** Trailing stop HWM $35.965 (order ID 8306052e). Week count 1/50. Watchlist: QCOM (CEO 69/100 — 1 below threshold; re-score on consolidation + CTO confirm); OXY/AMD post-AH earnings print. Tomorrow: confirm VIX tier; check QCOM CEO re-score; await fresh CTO signals pre-market.
+
+---
+
+## May 05 — EOD Snapshot (Day 2) [Daily Summary]
+**Portfolio:** $25,006.30 | **Cash:** $24,507.34 (98.0%) | **Day P&L:** +$6.30 (+0.03%) | **Phase P&L:** +$6.30 (+0.03%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TEVA | 14 | $35.19 | $35.64 | +$0.29 (+0.82%) | +$6.30 (+1.28%) | $32.37 (10% trail, HWM $35.965) |
+
+**Notes:** TEVA entered today — CEO 83/100, STRONG_BULL CTO, Q1 beat + Emalex acquisition catalyst. Trailing stop GTC active (order 8306052e). New AH TV signals received: NET STRONG_BULL $244.43, DXYZ STRONG_BULL $38.31, PTON STRONG_BULL $5.18 — require CEO scoring pre-market tomorrow. Tomorrow (05/06): pre-market CEO scoring on NET/DXYZ/PTON; rescore QCOM on any consolidation; rescore TEVA post-day confirm; confirm VIX tier before any new entry.
