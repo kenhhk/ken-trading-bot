@@ -344,3 +344,19 @@ Daily pre-market research entries appended here.
 **Action taken:** None — no positions to cut/adjust; pending TEVA order unchanged (thesis intact, price ~$0.07 above limit).
 **Notification:** None (no action taken per Step 7 rules).
 **Note:** TEVA order at $35.19 may fill if price pulls back slightly before close. If filled: 14 shares × $35.19 = $492.66 (1.97% equity — within 2% max). Stop-loss GTC order must be placed immediately on fill (10% trail → effective stop ~$31.67).
+
+---
+
+### 2026-05-05 — Market-Open Execution (Run 2)
+**Routine:** market-open.md executed per instructions
+**Trades this week:** 0/50 | **Live state:** Equity $25,000 | Cash $25,000 | Positions: 0 | Open orders: 0 | Day trades: 0
+**VIX mode:** NORMAL (18.29) | Min CEO: 70 | Max position: 2% ($500)
+**Candidates from RESEARCH-LOG Run 4 + Midday Scan 2:**
+- TEVA (CEO 83/100, STRONG_BULL CTO): Spread 0.057% ✓; all 8 buy-side gates passed → LIMIT ORDER PLACED
+  - Order: 14 shares @ $35.19 (day), ID: 87c74d60 | Bid $35.26 / Ask $35.28 at placement
+  - Recalculated limit: midpoint $35.23 × 0.999 = $35.19 (same as prior cancelled order)
+  - Pending fill as of 14:51 UTC; trailing stop to be placed immediately upon fill
+- QCOM (CEO 69/100): Spread 2.36% >2% threshold AND CEO <70 → SKIP
+- OXY/AMD: Defer (AH earnings today)
+**Action:** TEVA limit buy order placed — pending fill (day order, expires 20:00 UTC)
+**Next step:** Upon TEVA fill → place 10% trailing stop GTC immediately; log trade; notify Ken
