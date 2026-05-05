@@ -47,3 +47,14 @@ No positions. Bot launching. Baseline set.
 | — | — | — | — | — | — | — |
 
 **Notes:** No trades, no positions. All TV signals evaluated and dispositioned: QCOM CEO 60/100 (below 70 threshold, extended +42% past month — skip/watch); TEVA CEO 66/100 (below 70 threshold, earnings 05/06 tomorrow — re-evaluate post-print); GDX ETF (not tradeable per rules); SFBQF OTC penny stock (skip); SILVER commodity (skip). Account confirmed 100% cash. Tomorrow: re-evaluate TEVA post-earnings if CEO ≥70 and signal still valid; rescore QCOM on any consolidation; await new CTO signals pre-market.
+
+---
+
+## May 05 — EOD Snapshot (Day 2) [EOD Final]
+**Portfolio:** $25,000.00 | **Cash:** $25,000.00 (100%) | **Day P&L:** +$0.00 (+0.00%) | **Phase P&L:** +$0.00 (+0.00%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — |
+
+**Notes:** No trades, no positions. Account 100% cash. All signals from Mon 05/04 evaluated and dispositioned (QCOM skip, TEVA skip pre-earnings, GDX/SFBQF/SILVER ineligible). Tomorrow (05/06): rescore TEVA post-earnings print; rescore QCOM if consolidation; await fresh CTO signals pre-market; confirm VIX tier before any entry.
