@@ -71,16 +71,16 @@ Append this format:
 **Risk factors:** [key risks]
 **Decision:** TRADE or HOLD — [reason]
 
-STEP 7 — Notification (ALWAYS send):
-Send email to $NOTIFY_EMAIL. The subject line must be EXACTLY: "Trading Bot pre-market [DATE]" where [DATE] is today's date in Mountain Time in YYYY-MM-DD format. No other subject format is acceptable.
-- VIX level and mode
-- WTI price and key catalyst
-- Sector rotation summary (gaining/losing)
-- CEO scores for all candidates evaluated
-- Decision: TRADE or HOLD with reason
-- Watchlist for tomorrow
+STEP 7 — Send pre-market email (ALWAYS):
+Send an email using SMTP with these exact parameters:
+- SMTP server: smtp.gmail.com port 587
+- From: $SMTP_USER
+- To: $NOTIFY_EMAIL (kenhhk@gmail.com)
+- Subject: Trading Bot pre-market [today's date in MT as YYYY-MM-DD]
+- Body: Include VIX level and mode, WTI price and key catalyst,S&P futures, Sector rotation summary (gaining/losing), CEO scores for all candidates evaluated, Decision (TRADE or HOLD with reason), and Watchlist for tomorrow
 Keep email under 20 lines.
 If any position is already -7%+ pre-market, add "⚠️ URGENT:" prefix to subject line.
+Do NOT send to phone number. Email only for this step.
 
 STEP 8 — COMMIT AND PUSH (mandatory):
 Run these git commands:
