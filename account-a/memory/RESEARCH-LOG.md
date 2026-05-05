@@ -314,6 +314,25 @@ Daily pre-market research entries appended here.
 
 ---
 
+### 2026-05-05 — Pre-market Research
+**Account:** equity $25,000 | cash $25,000 (100%) | buying power $49,507 | positions: 0 | open orders: 1 (TEVA $35.19 DAY — stale, cancel before new entry)
+**Market:** WTI $102.65 (-3.0%) | S&P futures ±0% (flat) | VIX 18.29 | Mode: **NORMAL** (<20) | Min CEO: 70 | Max position: 2% ($500)
+**Sector rotation:** Leading: XLI (+12.86% YTD), XLF (+11.5%), XLE (+8.2%), Materials/gold | Lagging: XLK (-4.98% YTD); value > growth; small-cap outperforming
+**Catalysts:** (1) Iran ceasefire talks → WTI -3%; (2) AMD Q1 earnings AH May 5 (expected $9.89B rev, data center focus); (3) TEVA Q1 beat + Emalex acquisition → multiple analyst upgrades
+**Earnings today:** PRM pre-market (minor); no major pre-open reporters
+**Economic calendar:** No major releases today (NFP/CPI later in month)
+**CEO Scores:**
+- TEVA: composite 83/100 (macro:65 tech:73 sent:70 cong:45 + CTO STRONG_BULL +25) — **BUY** | price ~$37.35 (52-wk high), Q1 beat EPS $0.53 vs $0.48, Emalex NDA acquisition, GS PT $50 / JPM PT $40
+- QCOM: composite 66/100 (macro:65 tech:60 sent:55 cong:45 + CTO BULLISH_FLIP +15) — **SKIP** | weak Q3 guidance (-7% YoY), China Android headwinds; score below 70 threshold
+- OXY: composite 46/100 (macro:55 tech:50 sent:55 cong:45 + no CTO) — **SKIP** | oil -3% on Iran talks, no CTO signal
+- AMD: composite 52/100 (macro:63 tech:55 sent:65 cong:45 + no CTO) — **SKIP/WATCH** | extended +59% YTD, "priced for perfection"; wait for CTO signal post-earnings
+**Trade ideas:**
+- TEVA: entry $37.40 limit, stop $34.78 (-7%), target $50.00 (GS PT), R:R 4.85:1, catalyst Q1 beat + Emalex acquisition + 5 analyst upgrades + CTO STRONG_BULL | 13 shares = $486.20 (1.94% equity) | ⚠️ cancel stale $35.19 DAY order first
+**Risk factors:** TEVA extended +18.6% in 2 days since signal (buying at gap highs); S&P flat (no broad tailwind); AMD post-earnings print could redirect AI flows; Iran situation fluid
+**Decision:** TRADE — TEVA CEO 83/100 exceeds 70 threshold; all 9 buy-side gates pass; 13 shares @ $37.40 limit; cancel stale $35.19 order first
+
+---
+
 ### 2026-05-05 — Midday Scan (Run 3)
 **Positions:** 0 open | **Open orders:** 1 (TEVA limit buy 14 shares @ $35.19, day order, expires EOD) | **Cash:** $25,000 (100%) | **VIX:** ~17.6 | Mode: **NORMAL** (<20)
 **Step 3 — Cut losers:** N/A (no positions)
