@@ -46,3 +46,4 @@
 | 2026-05-04 | 21:01 UTC | A | SILVER | CTO Line | STRONG_BEAR | 72.735 | D | EVALUATED 2026-05-05 — not a stock (commodity/futures); SKIP |
 | 2026-05-05 | 20:01 UTC | A | NET | ? | STRONG_BULL | 244.43 | D | NEW |
 | 2026-05-05 | 20:03 UTC | A | DXYZ | ? | STRONG_BULL | 38.31 | D | NEW |
+| 2026-05-05 | 20:05 UTC | A | PTON | ? | STRONG_BULL | 5.18 | D | NEW |
