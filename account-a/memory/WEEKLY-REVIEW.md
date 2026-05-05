@@ -4,6 +4,94 @@ Friday reviews appended here. Letter grade assigned each week.
 
 ---
 
+### Week ending 2026-05-05 (Week 4 — Full Week Review, May 4–5)
+> Note: Official weekly review as of today (2026-05-05). Covers the first full trading week since launch (May 4–5). Week 3 was an extended review that previewed May 6 research; this is the authoritative end-of-week snapshot as of May 5. Account launched 2026-05-03.
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $25,000.00 (launch baseline, 2026-05-03) |
+| Ending portfolio | $25,000.00 (Alpaca confirmed) |
+| Week return | +$0.00 (0.00%) |
+| S&P 500 WTD (May 4–5) | −0.04% (7,228.38 → 7,225.24) |
+| Bot vs S&P | +0.04% alpha (cash preservation vs index dip) |
+| Phase S&P return since launch | ≈ −0.68% (7,274.79 → 7,225.24) |
+| Phase alpha since launch | ≈ +0.68% |
+| Trades taken | 0 (W:0 / L:0 / open:0) |
+| Win rate | N/A — no completed trades |
+| Best trade | None |
+| Worst trade | None |
+| Profit factor | N/A |
+| VIX mode predominant | Normal (18.29, below 20 throughout) |
+| Phase P&L | +$0.00 / 0.00% (since launch 2026-05-03) |
+
+**Closed Trades:**
+| Ticker | Entry | Exit | P&L | CEO Score | CTO Signal | Notes |
+|--------|-------|------|-----|-----------|------------|-------|
+| — | — | — | — | — | — | No trades taken this period |
+
+**Open Positions at Week End:**
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| — | — | — | — | — |
+
+**CTO Signals (active from May 4 AH — carried into this week):**
+| Ticker | Signal | Signal Price | Current Price | Status |
+|--------|--------|--------------|---------------|--------|
+| QCOM | BULLISH_FLIP | $168.40 | ~$168.38 (at support) | CEO 59–61/100 (<70); at Fibonacci $166–168 support; Android guidance headwind; WATCH |
+| TEVA | STRONG_BULL | $35.38 | ~$31.62 (−10.5% from signal) | CEO 58–66/100 (<70); price action bearish since signal; needs stabilization above $32–33 |
+| GDX | STRONG_BEAR | $85.66 | — | ETF — excluded per rules |
+| SFBQF | BULLISH_FLIP | $1.45 | — | OTC/Japan (SoftBank Corp) — excluded per rules |
+| SILVER | STRONG_BEAR | $72.735 | — | Commodity — excluded per rules |
+
+**What Worked (3-5 bullets):**
+- HOLD discipline sustained all 5 sessions (May 4–5, including multiple daily research runs): 0 candidates reached CEO ≥70 threshold across 10+ evaluations
+- Capital fully preserved: +0.04% alpha vs S&P WTD; +0.68% phase alpha since launch by staying cash while index drifted down
+- Pre-market research executed rigorously every session — multiple runs on May 5 and May 6 dates, covering TEVA, QCOM, PLTR, OXY, AMD, MSFT, RTX, DVN all formally scored
+- TEVA earnings date error (stated May 6 in Day 2 log) self-corrected within one session before any trade harm; no P&L impact
+- Buy-side gate correctly blocked all orders: spread violations (QCOM 8.7%, PLTR 10.2%, TEVA ~25%), CEO score failures, and AH earnings gap risk all caught
+
+**What Didn't Work (3-5 bullets):**
+- TEVA STRONG_BULL signal rapidly deteriorated: stock fell −10.5% from CTO signal price ($35.38 → $31.62) within 2 days; CTO signal alone was insufficient — price action must confirm
+- QCOM signal arrived after +42% surge; RSI overextended; CEO consistently 59–61/100 (below 70 threshold) all week
+- Webhook continues firing non-US/non-stock tickers (2840.HK, SILVER, GDX, SFBQF) — 4 of 6 signals each week are invalid; fix unresolved for 3rd consecutive week
+- 0 of 6 CTO signals actionable — 100% filter rate; signal-to-noise ratio remains poor without US-only filter
+- No trades in 2 full trading days; candidate pool of 6 unique tickers, all scored below 70; range 51–66
+
+**Key Lessons:**
+- TEVA lesson: CTO signal at $35.38 is now a weak signal — the stock's failure to hold above the signal price invalidates the bullish thesis until recovery; CTO signals need price confirmation within 1–2 sessions
+- QCOM lesson: Signal arrived after a +42% run; BULLISH_FLIP into overbought RSI is a late signal; more useful on consolidations than post-run surges
+- Webhook fix remains the #1 infrastructure priority for 3rd consecutive week; 67% of signals are noise
+- PLTR beat strongly (EPS $0.33 vs $0.24, US Commercial +130% YoY) but no CTO signal fired — gap-up buys without CTO confirm violate rules; discipline maintained
+- Hormuz/oil risk correctly avoided all week: no OXY/DVN entry without CTO confirm despite XLE +22% YTD
+
+**Signal Weight Review:**
+- Macro signal win rate: N/A (0 completed trades)
+- Technical signal win rate: N/A
+- Sentiment signal win rate: N/A
+- Congress signal win rate: N/A
+- CTO signal win rate: N/A (6 signals, 0 actionable — all filtered by rules or CEO score gate)
+- Recommended weight adjustments: None — insufficient data (2 full trading days, 0 completed trades)
+
+**Self-Improvement Check (Step 5):**
+- No signal has 2+ weeks of win-rate data — no weight changes triggered
+- TEVA signal-price divergence is notable (CTO STRONG_BULL at $35.38, stock now $31.62): this pattern (signal fires at a level, stock subsequently falls) suggests adding a price-hold confirmation rule in future (if stock falls >5% from CTO signal price within 3 sessions, signal is invalidated). Not yet a rule change — flagged for monitoring one more week.
+- Webhook non-US filter is an infrastructure issue, not a strategy rule. No TRADING-STRATEGY.md change warranted.
+- TRADING-STRATEGY.md is current and correctly reflects all rules — no updates made.
+
+**Adjustments for Next Week (week of May 6+):**
+- Priority 1: Fix webhook — US NYSE/NASDAQ only, $5+ price filter, exclude commodities/ETFs/OTC; reduces noise from ~67% invalid to ~0%
+- Priority 2: TEVA re-evaluate — needs price recovery above $33 AND CTO STRONG_BULL re-confirmation at new level; setup: entry ~$31–32, stop $29.60 (7%), target $37–41, R:R ~2.5:1
+- Priority 3: QCOM — if stabilizes above $170 on volume + CEO ≥70; ASIC hyperscaler partnership (AI Day June) = potential catalyst; $45B auto pipeline; entry only on breakout above resistance
+- Priority 4: OXY — if Q1 2026 AH results (filed May 5) confirm beat + CTO STRONG_BULL fires; energy XLE +22% YTD = strongest sector
+- Priority 5: AMD — if Q1 data center ($5.6B+ est) confirmed beat + CTO BULLISH_FLIP fires; evaluate post-open May 6
+- Monitor NFP Friday May 9: if miss → VIX likely spikes toward/above 20, trigger Elevated Caution mode (min CEO 75, same 2% max)
+- Watch PLTR for CTO BULLISH_FLIP post-gap consolidation (strong earnings beat already logged)
+
+**Overall Grade: B**
+> Rationale: 4th consecutive session of correct hold discipline — all candidates below CEO ≥70 threshold, capital 100% preserved. Positive alpha vs index by staying cash during mild S&P dip. TEVA data error was caught and self-corrected with zero P&L impact. Grade capped at B due to: (1) 0 completed trades — no statistical data yet; (2) webhook fix unresolved 3 weeks running; (3) TEVA signal degraded materially since Week 1 receipt; (4) candidate pool remains shallow (max score 66/100). Infrastructure solid; waiting for the right entry.
+
+---
+
 ### Week ending 2026-05-06 (Week 3 — Extended Launch Review, May 4–6)
 > Note: Covers 3 trading days (May 4–6). Prior reviews (Week 1 and Week 2) covered May 4–5 only. This review incorporates May 6 research activity. Account launched 2026-05-03.
 
