@@ -10,8 +10,8 @@ Friday reviews appended here.
 | Starting portfolio | $25,000.00 (launch baseline 2026-05-03) |
 | Ending portfolio | $25,000.00 |
 | Week return | $0.00 (0.00%) |
-| S&P 500 week | ~+0.14% (Mon −0.41%, Tue +0.55%; 7,230.12 → ~7,240.37; partial 2-day week) |
-| Bot vs S&P | −0.14% alpha (held cash while market recovered) |
+| S&P 500 week | +0.32% (Mon −0.41%, Tue +0.73%; 7,230.12 → 7,253.18; partial 2-day week) |
+| Bot vs S&P | −0.32% alpha (held cash while market recovered) |
 | Active positions | 0 |
 | Partial signals awaiting confirmation | 0 |
 | Signals expired this week | 0 |
