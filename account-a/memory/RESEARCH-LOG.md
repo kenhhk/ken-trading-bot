@@ -77,6 +77,43 @@ Daily pre-market research entries appended here.
 
 ---
 
+### 2026-05-05 — Pre-market Research
+**Account:** Equity $25,000 | Cash $25,000 (100%) | Buying power $50,000 | Positions: 0 | Open orders: 0 | Day trades: 0
+**Market:** WTI $101.62 | S&P futures -0.03% (7,227.75) | VIX 18.24 (open 17.38) | Mode: **NORMAL** (<20) | Min CEO score: 70 | Max position: 2% ($500)
+**Sector rotation:** GAINING: XLE (Energy +22% YTD — Hormuz/oil), XLI (Industrials +16%), XLP (Consumer Defensive +13.3%), XLB (Materials) | LAGGING: XLK (Tech), XLRE (Real Estate); Value outperforming Growth in 2026
+**Catalysts:**
+1. Strait of Hormuz closure ongoing — WTI holding >$100; Iran/Middle East tensions persist
+2. Earnings season strong: 63% of S&P 500 reported, blended EPS growth 27.1%
+3. Economic data due today: ISM Services PMI (Apr) 10am, JOLTS Job Openings (Mar) 10am, S&P Global PMI Services 9:45am
+**Earnings today:** Pre-market: NCLH (beat EPS, missed rev, -6.5%), TSN, L (Loews) | After close: PLTR, AMD, ANET, SMCI, OXY — heavy AH earnings load; avoid new semi/AI positions ahead of results
+**Economic calendar:** ISM Services PMI (Apr) 10:00am | JOLTS Job Openings (Mar) 10:00am | S&P Global PMI Services Final (Apr) 9:45am | New Home Sales (Mar) 10:00am
+**Sentiment:** AAII Bulls 38.1% / Bears ~39.7% (spread -1.6%) | Fear & Greed 66.6 (Greed) | QCOM P/C 0.86 | TEVA P/C 0.62 | Contrarian bonus: NOT triggered (F&G 66.6, VIX 18.24, AAII bears <50%)
+**CTO Signals (NEW — 2026-05-04 AH):**
+- QCOM: BULLISH_FLIP @ $168.40 → +15 CTO boost
+- TEVA: STRONG_BULL @ $35.38 → +25 CTO boost
+- GDX: STRONG_BEAR @ $85.66 → block buys; trigger sell eval (no position held)
+- SFBQF @ $1.45: BULLISH_FLIP — ⚠️ UNRECOGNIZED US ticker (foreign OTC), skip
+- SILVER @ $72.735: STRONG_BEAR — commodity, not a stock per rules, skip
+**CEO Scores:**
+- TEVA: composite 63/100 (macro:65 tech:75 sent:55 cong:50 cto:75) — WATCH, not TRADE (< 70 threshold; Q2 earnings 05/06/2026 tomorrow = buying into earnings risk; re-evaluate post-print)
+- QCOM: composite 59/100 (macro:65 tech:62 sent:55 cong:50 cto:65) — WATCH (BULLISH_FLIP after -4.6% sell-the-news; cheap at 17x fwd P/E vs sector 35x; automotive +38% YoY; needs price stabilization)
+- OXY: composite 60/100 (macro:65 tech:65 sent:55 cong:55 cto:50) — SKIP (no CTO signal; earnings AH today)
+**Trade ideas:** None — no candidates exceed 70 CEO threshold; multiple heavy AH earnings create sector-level uncertainty for new semi/tech entries
+**Watch list for tomorrow:**
+- TEVA: post-earnings entry if Q2 beats + CTO signal holds + CEO ≥ 70
+- QCOM: monitor for stabilization above $165; BULLISH_FLIP confirms if price follows through
+- OXY/DVN: if energy sector extends and CTO STRONG_BULL fires
+- PLTR: post-AH results; if strong beat, evaluate tomorrow morning
+**Risk factors:**
+- Strait of Hormuz closure → oil >$130 = stagflation shock, equity sell-off
+- Heavy AH earnings today (PLTR, AMD, ANET, SMCI, OXY) = after-hours gap risk
+- ISM Services miss could shift rate cut expectations
+- VIX rising 17.38→18.24 — options market pricing in modest uncertainty
+- S&P 500 at/near ATH 7,230 with unresolved geopolitical tail risk = limited upside buffer
+**Decision:** HOLD — all candidates below 70 CEO minimum; TEVA reports earnings tomorrow (skip); QCOM needs stabilization; heavy AH earnings load today; Hormuz risk unresolved. Patience > activity.
+
+---
+
 ### 2026-05-05 — Midday Scan
 **Positions:** 0 open | **Open orders:** 0 | **Cash:** $25,000 (100%)
 **Step 3 — Cut losers:** N/A (no positions)
