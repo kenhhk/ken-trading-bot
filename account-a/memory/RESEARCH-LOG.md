@@ -311,3 +311,17 @@ Daily pre-market research entries appended here.
 **Action taken:** None — no positions, no exits, no stop changes.
 **Notification:** None (no action taken).
 **Watchlist for 2026-05-06 open:** TEVA (Emalex catalyst + STRONG_BULL active + CEO 83/100 from Run 4 if still valid — closest to ready); OXY post-print if Q1 beats + CTO STRONG_BULL fires; AMD post-print if data center beat + CTO fires; QCOM re-score on any further extension above $170.
+
+---
+
+### 2026-05-05 — Midday Scan (Run 3)
+**Positions:** 0 open | **Open orders:** 1 (TEVA limit buy 14 shares @ $35.19, day order, expires EOD) | **Cash:** $25,000 (100%) | **VIX:** ~17.6 | Mode: **NORMAL** (<20)
+**Step 3 — Cut losers:** N/A (no positions)
+**Step 4 — Tighten stops:** N/A (no positions)
+**Step 5 — Thesis checks (TEVA pending order):**
+- TEVA STRONG_BULL @ $35.38: Thesis INTACT. Q1 beat confirmed (EPS $0.53, Rev $4.0B). Emalex acquisition ($700M, NDA-ready CNS asset) on track. AUSTEDO surging +41% YoY. Duvakitug Phase 2b robust efficacy data. Olanzapine LAI NDA accepted by FDA. Analyst avg target $41.75. No negative news, no FDA warnings, no legal surprises. Opioid settlements fully resolved. **No thesis break — order stands.**
+- Live quote: bid $35.24 / ask $35.27 — limit buy at $35.19 is $0.05–$0.08 below market; not yet filled. Day order expires EOD.
+**Step 6 — TV Signal review:** No new CTO signals received today. Active signals unchanged: TEVA STRONG_BULL (active), QCOM BULLISH_FLIP (active). No BEARISH_FLIP or STRONG_BEAR on any held/pending tickers.
+**Action taken:** None — no positions to cut/adjust; pending TEVA order unchanged (thesis intact, price ~$0.07 above limit).
+**Notification:** None (no action taken per Step 7 rules).
+**Note:** TEVA order at $35.19 may fill if price pulls back slightly before close. If filled: 14 shares × $35.19 = $492.66 (1.97% equity — within 2% max). Stop-loss GTC order must be placed immediately on fill (10% trail → effective stop ~$31.67).
