@@ -295,3 +295,19 @@ Daily pre-market research entries appended here.
 - ISM Services + JOLTS at 10am ET could move markets if weak print
 - S&P at/near ATH 7,200 with geopolitical tail risk = limited upside buffer
 **Decision:** TRADE — TEVA CEO 83/100 exceeds 70 threshold; all 9 buy-side gates pass; STRONG_BULL CTO confirmed by Q1 earnings beat; R:R 2.52:1; entry $34.00 limit at market open. Week count: 0/50 → 1/50 after fill.
+
+---
+
+### 2026-05-05 — Midday Scan (Run 2)
+**Positions:** 0 open | **Open orders:** 0 | **Cash:** $25,000 (100%) | **VIX:** 17.62 (-3.66% today) | Mode: **NORMAL** (<20) | Min CEO: 70 | Max position: 2% ($500)
+**Step 3 — Cut losers:** N/A (no positions)
+**Step 4 — Tighten stops:** N/A (no positions)
+**Step 5 — Thesis checks:** N/A (no positions)
+**Step 6 — TV Signal review (no new signals today):**
+- **TEVA STRONG_BULL @ $35.38 (May 4 AH):** Bull thesis INTACT and strengthened. Stock gapped up +11.2% to $35.04 open (prev close $31.5) on Emalex Biosciences acquisition announcement (NDA-ready first-in-class neuroscience therapy). Q1 2026 beat confirmed (EPS $0.53, Rev $4.0B). Pre-market Run 4 TRADE decision ($34.00 limit) not executed — stock opened above limit price at $35.04; no fill. **WATCH-TOMORROW — re-score with acquisition catalyst; stock at $35.04 just below signal $35.38; re-evaluate entry above signal or on pullback to $33–34.**
+- **QCOM BULLISH_FLIP @ $168.40 (May 4 AH):** Bull thesis intact. Stock ~$177 (+6.3% above signal). Q2 2026 results already beat (Apr 29, rev $11.7B record EPS $3.41). Argus raised PT to $220 (Buy). **WATCH-TOMORROW — re-score; above-signal price action confirms momentum.**
+- **GDX STRONG_BEAR @ $85.66:** ETF, not tradeable. No action.
+**Earnings AH today:** OXY ($0.62 EPS est, Q1 oil $69.91/bbl realized) + AMD (est $9.84B rev, $1.28 EPS) — no new positions in energy/semis until tomorrow post-print.
+**Action taken:** None — no positions, no exits, no stop changes.
+**Notification:** None (no action taken).
+**Watchlist for 2026-05-06 open:** TEVA (Emalex catalyst + STRONG_BULL active + CEO 83/100 from Run 4 if still valid — closest to ready); OXY post-print if Q1 beats + CTO STRONG_BULL fires; AMD post-print if data center beat + CTO fires; QCOM re-score on any further extension above $170.
