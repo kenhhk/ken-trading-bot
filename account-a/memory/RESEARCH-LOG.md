@@ -139,3 +139,44 @@ Daily pre-market research entries appended here.
 - SILVER STRONG_BEAR ($72.735): ⚠️ FLAG — not a valid US stock ticker (commodity/futures). No action. Flagged for Ken to verify webhook config.
 **Action taken:** None — no trades, no exits, no stop adjustments.
 **Watchlist for 2026-05-06 open:** TEVA post-Q2 earnings (if beat + CEO ≥70); QCOM if stabilizes + CEO ≥70; PLTR if CTO BULLISH_FLIP fires on gap-up
+
+---
+
+### 2026-05-06 — Pre-market Research
+**Account:** Equity $25,000 | Cash $25,000 (100%) | Buying power $50,000 | Positions: 0 | Open orders: 0 | Day trades: 0
+**Market:** WTI ~$105 (+3% sustained, Hormuz) | S&P futures ~flat (PLTR +2% AH lift offset by uncertainty) | VIX ~18.3 (+7.4% from 16.99) | Mode: **NORMAL** (<20) | Min CEO score: 70 | Max position: 2% ($500)
+**Sector rotation:** GAINING: XLE (Energy +21% YTD), XLB (Materials +17%), XLP (Staples +15%), XLI (Industrials +12%) | LAGGING: XLRE (Real Estate), XLY (Consumer Discretionary) | Value outperforming Growth; AI capex driving selective tech inflows ($12B+ into tech ETFs Q2 2026)
+**Catalysts:**
+1. Strait of Hormuz blockade ongoing — WTI sustained >$100; Iran/US-UAE military exchanges continue
+2. PLTR Q1 2026 beat (AH May 5): Rev $1.63B vs $1.54B est, EPS $0.33 vs $0.24 est (+37.5%), US Commercial +130% YoY; stock +2% only (muted — 46x fwd rev already priced in)
+3. OXY Q1 2026 earnings pre-market today — expected $0.58 EPS beat; YoY decline (-33%); gap risk → avoid
+**Earnings today (pre-market):** OXY ($0.58 EPS est — expected beat, YoY -33%), Sunrun (RUN, -$0.05 EPS est), Perimeter Solutions (PRM), ~449 total
+**Earnings AH May 5 (results pending):** AMD — expected $9.84B rev, $1.28 EPS; no results confirmed in search
+**Economic calendar:** No major releases today. ADP payrolls mid-week; NFP Friday May 9
+**⚠️ CORRECTION — TEVA earnings date error in prior log:** Previous entry stated "Q2 earnings 05/06/2026." This was INCORRECT. TEVA reported Q1 2026 on April 29, 2026 (EPS $0.53 vs $0.12 est, Rev $4.0B vs $3.79B est — massive beat, stock +7.5%). No earnings today. Next report ~July/Aug 2026. Earnings risk for TEVA is CLEARED.
+**Sentiment:** AAII Bulls 37.5% / Bears 31.0% / Neutral 31.5% | Fear & Greed 62 (Greed) | VIX 18.3 | TEVA P/C: 0.62; QCOM P/C: 0.86
+**Contrarian bonus:** NOT triggered — F&G 62 (need <25), AAII bears 31% (need >50%), VIX 18.3 (need 35–49)
+**CTO Signals (active):**
+- TEVA: STRONG_BULL @ $35.38 (May 4 AH) → +25 CTO; Q1 beat already in; thesis intact
+- QCOM: BULLISH_FLIP @ $168.40 (May 4 AH) → +15 CTO; stock pulled back to signal level, testing $166–168 support; weak June-Q guidance (Android demand)
+- GDX: STRONG_BEAR (ETF — not tradeable per rules)
+**CEO Scores:**
+- TEVA: composite 66/100 (macro:72 tech:82 sent:52 cong:50 cto:75) — SKIP (<70; STRONG_BULL intact + earnings cleared, but greed market + no congress buys keeps score below threshold; strongest candidate)
+- QCOM: composite 59/100 (macro:65 tech:62 sent:52 cong:50 cto:65) — SKIP (<70; weak June-Q Android guidance; pulled back to support but insufficient catalysts without congress or CTO upgrade)
+- PLTR: composite 56/100 (macro:65 tech:58 sent:52 cong:50 cto:50) — SKIP (<70; muted earnings reaction; no CTO signal; 46x fwd rev too rich without signal)
+- OXY: composite 60/100 (macro:78 tech:62 sent:52 cong:50 cto:50) — SKIP (earnings pre-market today = gap risk; no CTO signal regardless)
+- AMD: DEFER — Q1 2026 AH results (May 5) unconfirmed; no CTO signal; evaluate post-open
+**Trade ideas (if any):** None — no candidates exceed 70 CEO threshold
+**Watch list for 2026-05-07:**
+- TEVA: closest at 66/100; needs congressional buy or sentiment shift to reach 70; STRONG_BULL still active; target $41.75 (+18% from ~$35.38); entry ~$35–36, stop ~$32.30 (7% below entry), target $41.75, R:R ~2.1:1
+- OXY/DVN: if post-earnings beat + CTO STRONG_BULL fires; energy sector momentum strong (XLE +21% YTD)
+- AMD: post-open evaluation if Q1 beat confirmed + CTO BULLISH_FLIP or STRONG_BULL fires
+- PLTR: if CTO BULLISH_FLIP fires on stabilization post-gap
+**Risk factors:**
+- Hormuz closure → oil >$130 = stagflation shock, equity sell-off risk
+- VIX rising trend (16.99→18.24→18.29) — options market pricing increasing uncertainty
+- OXY earnings gap risk today
+- AMD Q1 results unknown — potential semis sector impact
+- NFP Friday May 9 = avoid sizing up mid-week
+- S&P at ATH 7,230 with unresolved geopolitical tail risk = limited upside buffer
+**Decision:** HOLD — all candidates below 70 CEO minimum; TEVA closest at 66 but greed market + no congress support keeps it below threshold; OXY untouchable today (earnings); AMD unconfirmed; Hormuz risk unresolved. Week count: 0/50. Patience > activity.
