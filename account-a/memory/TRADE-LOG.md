@@ -25,3 +25,14 @@ No positions. Bot launching. Baseline set.
 | — | — | — | — | — | — | — |
 
 **Notes:** No positions held. No trades placed. TV signals received after Monday close: QCOM BULLISH_FLIP ($168.40), TEVA STRONG_BULL ($35.38), GDX STRONG_BEAR ($85.66). SFBQF and SILVER signals flagged as non-US tickers — webhook config issue, Ken to verify. Tomorrow: pre-market CEO scoring on QCOM + TEVA; check VIX tier for position sizing before any entry.
+
+---
+
+## May 05 — EOD Snapshot (Day 2) [Final]
+**Portfolio:** $25,000.00 | **Cash:** $25,000.00 (100%) | **Day P&L:** +$0.00 (+0.00%) | **Phase P&L:** +$0.00 (+0.00%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — |
+
+**Notes:** No trades today. No positions. Account fully in cash. Pending TV signals: QCOM BULLISH_FLIP ($168.40) and TEVA STRONG_BULL ($35.38) require CEO scoring before entry. GDX STRONG_BEAR ($85.66) noted — no short action per strategy (long-only). SFBQF/SILVER ticker config issue still open (Ken to verify webhook). Tomorrow: CEO scoring on QCOM + TEVA pre-market; confirm VIX tier and check sector momentum before any buy.
