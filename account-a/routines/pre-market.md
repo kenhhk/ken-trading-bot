@@ -72,7 +72,7 @@ Append this format:
 **Decision:** TRADE or HOLD — [reason]
 
 STEP 7 — Notification (ALWAYS send):
-Send email to $NOTIFY_EMAIL with subject "Trading Bot pre-market [DATE]" containing:
+Send email to $NOTIFY_EMAIL. The subject line must be EXACTLY: "Trading Bot pre-market [DATE]" where [DATE] is today's date in Mountain Time in YYYY-MM-DD format. No other subject format is acceptable.
 - VIX level and mode
 - WTI price and key catalyst
 - Sector rotation summary (gaining/losing)
