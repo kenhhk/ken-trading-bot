@@ -71,9 +71,16 @@ Append this format:
 **Risk factors:** [key risks]
 **Decision:** TRADE or HOLD — [reason]
 
-STEP 7 — Notification (silent unless urgent):
-Only send email if: a held position is already -7%+ pre-market, thesis broke overnight, or major geo event.
-If urgent: send email to $NOTIFY_EMAIL with subject "URGENT: Acct-A Pre-Market Alert" via SMTP.
+STEP 7 — Notification (ALWAYS send):
+Send email to $NOTIFY_EMAIL with subject "Trading Bot pre-market [DATE]" containing:
+- VIX level and mode
+- WTI price and key catalyst
+- Sector rotation summary (gaining/losing)
+- CEO scores for all candidates evaluated
+- Decision: TRADE or HOLD with reason
+- Watchlist for tomorrow
+Keep email under 20 lines.
+If any position is already -7%+ pre-market, add "⚠️ URGENT:" prefix to subject line.
 
 STEP 8 — COMMIT AND PUSH (mandatory):
 Run these git commands:
