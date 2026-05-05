@@ -58,3 +58,14 @@ No positions. Bot launching. Baseline set.
 | — | — | — | — | — | — | — |
 
 **Notes:** No trades, no positions. Account 100% cash. All signals from Mon 05/04 evaluated and dispositioned (QCOM skip, TEVA skip pre-earnings, GDX/SFBQF/SILVER ineligible). Tomorrow (05/06): rescore TEVA post-earnings print; rescore QCOM if consolidation; await fresh CTO signals pre-market; confirm VIX tier before any entry.
+
+---
+
+## May 05 — EOD Snapshot (Day 2) [Daily Summary v5]
+**Portfolio:** $25,000.00 | **Cash:** $25,000.00 (100%) | **Day P&L:** +$0.00 (+0.00%) | **Phase P&L:** +$0.00 (+0.00%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — |
+
+**Notes:** No trades, no positions. Account 100% cash. Alpaca confirmed: equity $25,000, cash $25,000, 0 positions, 0 open orders. TV signals 05/04 fully dispositioned (QCOM CEO 60 skip; TEVA CEO 66 skip pre-earnings; GDX/SFBQF/SILVER ineligible). Tomorrow (05/06): rescore TEVA immediately post-Q2 earnings print — if CEO ≥70 and signal still valid, enter; rescore QCOM on any consolidation below $175; await fresh CTO signals pre-market; confirm VIX tier before any entry.
