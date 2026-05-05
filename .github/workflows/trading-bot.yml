@@ -116,7 +116,7 @@ jobs:
         with:
           node-version: '22'
       - name: Install Claude Code
-        run: npm install -g @anthropic-api/claude-code
+        run: npm install -g @anthropic-ai/claude-code
       - name: Run Midday Scan
         run: |
           claude --dangerously-skip-permissions -p "Run the midday scan routine. Read and follow all instructions in account-b/routines/midday.md exactly as written, executing every step in order."
