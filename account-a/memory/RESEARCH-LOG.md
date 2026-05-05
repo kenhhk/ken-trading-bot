@@ -222,3 +222,43 @@ Daily pre-market research entries appended here.
 - NFP Friday May 9 = avoid overcommitting mid-week; max 1–2 positions if any pass threshold
 - S&P at ATH with unresolved Hormuz tail risk = limited upside buffer
 **Decision:** HOLD — all candidates below 70 CEO minimum; TEVA technicals deteriorated (-11% since signal); QCOM at support but guidance headwind; OXY/AMD results unconfirmed; greed market + no congress catalyst = unfavorable risk/reward. Week count: 0/50. Patience > activity.
+
+---
+
+### 2026-05-05 — Pre-market Research (Run 3)
+**Account:** Equity $25,000 | Cash $25,000 (100%) | Buying power $50,000 | Positions: 0 | Open orders: 0 | Day trades: 0
+**Market:** WTI $102.65 (-2.75%, US-Iran ceasefire holding; Brent $112.90) | S&P futures +0.4% | VIX 18.29 | Mode: **NORMAL** (<20) | Min CEO score: 70 | Max position: 2% ($500)
+**Sector rotation:** GAINING: XLE (Energy +22% YTD), XLB (Materials +22% YTD), XLI (Industrials +16%), XLP (Staples +13%) | LAGGING: XLK (Tech, cooling post-AI run), XLC (Comms), XLY (Consumer Discretionary), XLF (Financials) | Smart money rotating into tangible-economy (energy/materials/industrials) from speculative tech/AI
+**Catalysts:**
+1. US-Iran ceasefire holding → WTI easing ($102.65 from $105.57); S&P futures +0.4%
+2. AI infrastructure race: QCOM confirms custom hyperscaler ASIC partnership (multi-gen opp, details AI Day June); Meta $13B DC expansion; Anthropic $1.5B Wall Street JV
+3. OXY + AMD both report Q1 results AH tonight; TEVA earnings risk cleared (Q1 April 29, next ~Jul/Aug)
+**Earnings today (AH):** OXY (est. $0.58 EPS, $5.64B rev; Q1 realized oil $69.91/bbl strong), AMD (est. $9.84B rev, $1.28 EPS, data center $5.6B est; options pricing 8% move)
+**Economic calendar:** No major macro releases today. NFP Friday May 9 — avoid building new positions late week
+**Sentiment:** AAII Bears 42.8% (elevated >31% hist avg, 12th consecutive elevated week) / Bulls 31.7% / Neutral 25.5% | F&G ~Greed (est 60-62 based on prior session) | VIX 18.29 (rising trend: 16.99→18.24→18.29)
+**Contrarian bonus:** NOT triggered — AAII bears 42.8% (need >50%), F&G est ~62 (need <25), VIX 18.29 (need 35–49)
+**Congressional trades:** No notable new buys identified in last 7 days
+**CTO Signals (active):**
+- QCOM: BULLISH_FLIP @ $168.40 (May 4 AH) → new hyperscaler ASIC catalyst; stock ~$168.38 (AT signal level, Fibonacci 0.618 support)
+- TEVA: STRONG_BULL @ $35.38 (May 4 AH) → stock ~$31.62 (DOWN ~10.5% from signal; bearish price action)
+- GDX: STRONG_BEAR (ETF — not tradeable per rules)
+**CEO Scores:**
+- QCOM: composite 61/100 (macro:70 tech:63 sent:58 cong:45 cto:75) — SKIP (<70; hyperscaler ASIC partnership = compelling new catalyst; at Fibonacci $166–168 support; but tech sector lagging + Android China Q3 guidance headwind + 42% April run still extended; no congress catalyst)
+- TEVA: composite 59/100 (macro:68 tech:55 sent:58 cong:45 cto:75) — SKIP (<70; earnings risk cleared; STRONG_BULL active; but price -10.5% from CTO signal = bearish price action; needs stabilization first)
+- OXY: composite 62/100 (macro:80 tech:65 sent:58 cong:45 cto:50) — DEFER (earnings AH tonight; energy #1 sector +22% YTD; Q1 realized oil $69.91/bbl strong; no CTO signal yet; wait for post-report setup)
+- AMD: DEFER (Q1 AH results tonight; data center $5.6B est = key print; 74% April surge = high bar; no CTO signal; evaluate tomorrow)
+**Trade ideas (if any):** None — no candidates exceed 70 CEO threshold
+**Watch list for 2026-05-06:**
+- OXY: if Q1 beats + CTO STRONG_BULL fires; entry ~$58–60, stop ~$54–55 (7% below), target $64–66, R:R ~2:1; energy sector momentum strong
+- AMD: if data center beat ($5.6B+) + CTO BULLISH_FLIP/STRONG_BULL fires; entry at stabilization, stop -7–10%, target per signal
+- TEVA: needs recovery above $33–34 + CTO re-confirmation; entry ~$33, stop ~$30.60, target $41.75 (analyst avg), R:R ~3.5:1; Q1 beat (EPS $0.53 vs $0.12 est) = fundamental strength confirmed
+- QCOM: breakout above $172 on volume + CTO hold = upgraded entry; $45B auto pipeline + hyperscaler ASIC = long-term bull thesis building
+**Risk factors:**
+- Hormuz closure ongoing → oil still >$100; stagflation risk if oil re-accelerates despite ceasefire
+- VIX rising trend (16.99→18.24→18.29) — market pricing increasing tail risk
+- TEVA price deterioration (-10.5% from CTO signal) — thesis weakening; CTO signal may need reset
+- AMD/OXY AH results unknown = gap risk tomorrow morning
+- QCOM: Android China demand weakness in Q3 guidance = near-term headwind despite ASIC upside
+- NFP Friday May 9 = avoid overcommitting mid-week; cap at 1–2 positions if any pass threshold
+- S&P futures +0.4% but underlying geopolitical tail risk (Hormuz) remains unresolved
+**Decision:** HOLD — all candidates below 70 CEO minimum; OXY/AMD defer to post-AH results; QCOM new hyperscaler catalyst notable but insufficient to overcome tech sector rotation + guidance risk; TEVA price action bearish since CTO signal. Week count: 0/50. Patience > activity.
