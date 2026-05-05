@@ -2,6 +2,83 @@
 
 Friday reviews appended here. Letter grade assigned each week.
 
+---
+
+### Week ending 2026-05-05 (Week 1 — Launch Week, Early Review)
+> Note: Bot launched 2026-05-03 (Sunday). This review covers the first 2 trading days (May 4–5). Run on Tuesday May 5 as first weekly review.
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $25,000.00 (Day 0 launch baseline, 2026-05-03) |
+| Ending portfolio | $25,000.00 |
+| Week return | +$0.00 (0.00%) |
+| S&P 500 week | ≈ -0.62% WTD (7,274.79 → ~7,230; week not yet closed) |
+| Bot vs S&P | +0.62% (cash preservation outperformed S&P YTD drawdown) |
+| Trades taken | 0 (W:0 / L:0 / open:0) |
+| Win rate | N/A — no completed trades |
+| Best trade | None |
+| Worst trade | None |
+| Profit factor | N/A |
+| VIX mode predominant | Normal (VIX 16.55–17.0, <20) |
+
+**Closed Trades:**
+| Ticker | Entry | Exit | P&L | CEO Score | CTO Signal | Notes |
+|--------|-------|------|-----|-----------|------------|-------|
+| — | — | — | — | — | — | No trades taken this week |
+
+**Open Positions at Week End:**
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| — | — | — | — | — |
+
+**CTO Signals Received This Week (May 4, post-market):**
+| Ticker | Signal | Close | Action Taken |
+|--------|--------|-------|--------------|
+| 2840 | STRONG_BEAR | 3,300 | ⚠️ UNRECOGNIZED — likely 2840.HK; webhook config issue |
+| QCOM | BULLISH_FLIP | 168.40 | Logged; CEO score evaluation pending May 5 session |
+| GDX | STRONG_BEAR | 85.66 | ⚠️ ETF — excluded by STOCKS ONLY rule |
+| TEVA | STRONG_BULL | 35.38 | Logged; CEO score evaluation pending May 5 session |
+| SFBQF | BULLISH_FLIP | 1.45 | ⚠️ Likely OTC/Canadian — verify if US-listed |
+| SILVER | STRONG_BEAR | 72.74 | ⚠️ Commodity — excluded by STOCKS ONLY rule |
+
+**What Worked (3-5 bullets):**
+- HOLD discipline: All candidates scored below 70 CEO threshold (range 51–65); correct to stay cash
+- Capital preservation: +0.62% relative vs S&P by staying flat during early-week dip
+- Pre-market research process executed correctly on Day 1 (May 4) with two full runs
+- Bot infrastructure validated: Alpaca API, Perplexity, and webhook signal delivery all operational
+- VIX Normal mode rules correctly applied; no chasing gap-ups on oil news
+
+**What Didn't Work (3-5 bullets):**
+- Webhook delivering non-US tickers (2840.HK, SILVER, GDX, SFBQF) — needs whitelist fix
+- No US stock reached CEO threshold ≥70 despite multiple signals; pipeline shallow on Day 1
+- Post-market CTO signals (QCOM BULLISH_FLIP, TEVA STRONG_BULL) arrived after trading day close — no same-day evaluation
+- SFBQF ($1.45) likely penny-stock/OTC — webhook should filter tickers below $5 and non-US exchanges
+
+**Key Lessons:**
+- Configure TradingView webhook to only fire on US-listed stocks (NYSE/NASDAQ) above $5
+- QCOM and TEVA signals from May 4 should be evaluated first thing in May 5 session
+- Oil/energy sector (OXY, DVN) CEO scores consistently below threshold — wait for CTO STRONG_BULL + price pullback before scoring further
+
+**Signal Weight Review:**
+- Macro signal win rate this week: N/A (no trades)
+- Technical signal win rate: N/A
+- Sentiment signal win rate: N/A
+- Congress signal win rate: N/A
+- CTO signal win rate: N/A (6 signals received, 0 acted on — all filtered by rules)
+- Recommended weight adjustments: None — insufficient data (Week 1)
+
+**Adjustments for Next Week:**
+- Evaluate QCOM (BULLISH_FLIP $168.40) and TEVA (STRONG_BULL $35.38) with fresh CEO score on May 5 pre-market
+- Fix webhook: add US-exchange filter, $5+ price filter, exclude commodities/ETFs unless in approved watchlist
+- Monitor NFP data (May 8) — could shift VIX and macro regime
+- Watch for Hormuz/oil escalation → if VIX spikes to 20–34, shift to Elevated Caution mode
+- Target first trades once ≥1 stock reaches CEO score ≥70 with confirmed CTO signal
+
+**Overall Grade: B**
+> Rationale: Correct discipline (zero trades, all candidates below threshold). Infrastructure validated. Relative outperformance vs S&P by staying cash. Deductions for webhook noise (4 of 6 signals invalid) and no alpha generated. Week 1 — insufficient sample for full grading.
+
+---
+
 ## Template
 ### Week ending YYYY-MM-DD (Week N)
 | Metric | Value |
