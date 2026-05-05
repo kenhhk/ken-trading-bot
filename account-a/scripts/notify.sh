@@ -32,7 +32,7 @@ stamp="$(date '+%Y-%m-%d %H:%M %Z')"
 PHONE_DIGITS="${NOTIFY_PHONE//[^0-9]/}"
 # Remove leading 1 if 11 digits
 [[ ${#PHONE_DIGITS} -eq 11 && "${PHONE_DIGITS:0:1}" == "1" ]] && PHONE_DIGITS="${PHONE_DIGITS:1}"
-SMS_GATEWAY="${PHONE_DIGITS}@txt.att.net"
+SMS_GATEWAY="${PHONE_DIGITS}@tmomail.net"
 
 # ── Try to send via Python smtplib (no external deps) ─────────────────────
 send_notification() {
