@@ -91,6 +91,24 @@ No positions. Bot launching. Baseline set.
 - QCOM: CEO 69/100 ✗ (1 below threshold); spread 2.36% >2% ✗ → SKIP
 - OXY: defer (AH earnings today); AMD: defer (AH earnings today)
 
-**PENDING ORDER (not yet filled as of 14:51 UTC):**
-2026-05-05 | TEVA | BUY PENDING | 14 shares | limit $35.19 | stop 10% trail (GTC after fill) | target $40.00 | R:R ~2:1 | catalyst: Q1 beat + Emalex acquisition + STRONG_BULL CTO | CEO score: 83 | CTO: STRONG_BULL @$35.38
-Order ID: 87c74d60-0f98-4edf-aa7a-43ca788babe8 | Expires: 2026-05-05T20:00:00Z (day order)
+**FILLED:**
+2026-05-05 | TEVA | BUY | 14 shares | entry $35.19 | stop 10% trail GTC (stop $32.37, HWM $35.965) | target $40.00 | R:R ~2:1 | catalyst: Q1 beat + Emalex acquisition + STRONG_BULL CTO | CEO score: 83 | CTO: STRONG_BULL @$35.38
+Buy order ID: 87c74d60-0f98-4edf-aa7a-43ca788babe8 | Trailing stop order ID: 8306052e-8f78-4fd7-a079-7208260d6eeb (GTC)
+
+---
+
+## May 05 — Midday Scan (Day 2)
+**Routine:** midday.md | **Positions:** 1 (TEVA) | **Week trades:** 1/50 | **VIX:** ~17.6 (NORMAL) | **Min CEO:** 70
+
+**Step 3 — Cut losers:** TEVA +1.89% ($9.31 unrealized) — no action.
+**Step 4 — Tighten stops:** TEVA +1.89% — below +15% threshold. No tightening.
+**Step 5 — Thesis check (TEVA):** INTACT — no negative news. Q1 beat confirmed (EPS $0.53), Emalex acquisition on track ($700M, ecopipam NDA H2 2026), duvakitug Phase 3 enrolling, AUSTEDO +41% YoY, no FDA warnings, no guidance cuts. Analyst avg target $41.75 (Goldman Sachs $50, UBS $42). No exit trigger.
+**Step 6 — TV Signals:** No new CTO signals today. Active signals: TEVA STRONG_BULL (in position), QCOM BULLISH_FLIP (watch). No BEARISH_FLIP or STRONG_BEAR on any held ticker. No action.
+**Notification:** None — no action taken.
+
+**Open position snapshot:**
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop |
+|--------|--------|-------|---------|----------------|------|
+| TEVA | 14 | $35.19 | $35.855 | +$9.31 (+1.89%) | 10% trail / $32.37 hard |
+
+**Notes:** Trailing stop HWM $35.965 (order ID 8306052e). Week count 1/50. Watchlist: QCOM (CEO 69/100 — 1 below threshold; re-score on consolidation + CTO confirm); OXY/AMD post-AH earnings print. Tomorrow: confirm VIX tier; check QCOM CEO re-score; await fresh CTO signals pre-market.

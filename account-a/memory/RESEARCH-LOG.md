@@ -360,3 +360,16 @@ Daily pre-market research entries appended here.
 - OXY/AMD: Defer (AH earnings today)
 **Action:** TEVA limit buy order placed — pending fill (day order, expires 20:00 UTC)
 **Next step:** Upon TEVA fill → place 10% trailing stop GTC immediately; log trade; notify Ken
+
+---
+
+### 2026-05-05 — Midday Scan (Run 4)
+**Account:** Equity ~$25,009 | Cash ~$24,507 | Positions: 1 (TEVA 14 shares) | Week trades: 1/50 | VIX: ~17.6 | Mode: **NORMAL** (<20) | Min CEO: 70
+**TEVA fill confirmed:** 14 shares @ $35.19 avg; trailing stop GTC placed (10% trail, stop $32.37, HWM $35.965); order ID 8306052e
+**Step 3 — Cut losers:** TEVA +1.89% (+$9.31 unrealized) — no cut needed.
+**Step 4 — Tighten stops:** TEVA +1.89% — below +15% threshold. No tightening.
+**Step 5 — Thesis check (TEVA):** INTACT. No negative news today. Q1 beat (EPS $0.53 vs $0.48 est), Emalex acquisition on track ($700M, ecopipam NDA submission H2 2026), duvakitug Phase 3 enrolling, AUSTEDO +41% YoY, FCF +76% YoY. Goldman Sachs $50 PT, UBS $42 PT. No FDA warnings, no guidance cuts, no sector collapse. No exit trigger.
+**Step 6 — TV Signals:** No new CTO signals today. Active: TEVA STRONG_BULL (in position — hold), QCOM BULLISH_FLIP (watch, CEO 69/100). No BEARISH_FLIP or STRONG_BEAR on any held ticker. No action.
+**Action taken:** None — no trades, no exits, no stop adjustments.
+**Notification:** None (no action taken per Step 7 rules).
+**Watchlist for 2026-05-06:** QCOM (CEO 69/100 — 1 pt below threshold; re-score on stabilization + CTO confirm); OXY/AMD post-AH earnings print tonight; await fresh CTO signals pre-market.
