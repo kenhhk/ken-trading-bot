@@ -373,3 +373,24 @@ Daily pre-market research entries appended here.
 **Action taken:** None — no trades, no exits, no stop adjustments.
 **Notification:** None (no action taken per Step 7 rules).
 **Watchlist for 2026-05-06:** QCOM (CEO 69/100 — 1 pt below threshold; re-score on stabilization + CTO confirm); OXY/AMD post-AH earnings print tonight; await fresh CTO signals pre-market.
+
+---
+
+### 2026-05-06 — Pre-market Research
+**Account:** Equity $25,010.22 | Cash $24,507.34 | BP $49,517.56 | Positions: 1 (TEVA 14 sh) | Open orders: 1 (TEVA trail stop GTC) | Week trades: 1/50
+**Market:** WTI ~$100.3 (-2% on US-Iran deal optimism) | S&P futures +0.1% | VIX 16.73 (-3.7%) | Mode: **NORMAL** (<20) | Min CEO: 70
+**Sector rotation:** XLK regained leadership Mon 5/4 (12.7% YTD). YTD leaders: Energy +21%, Materials +17%, Staples +15%, Industrials +12%. AI/semis re-leading on AMD/INTC/SMCI prints.
+**Catalysts:** (1) AMD +18% pre (Q1 EPS $1.37 vs $1.29; rev $10.25B beat); (2) INTC +6.4% pre on Apple chip rumor; (3) SMCI +15.5% on AI server beat; (4) US-Iran peace deal optimism — oil/yields lower, risk-on.
+**Earnings today:** DIS, UBER, CVS, MAR pre-mkt; NET reports Thu AH (+19% past 6 days); PTON reports 5/7. ~450 reports today.
+**Economic calendar:** No tier-1 release (no CPI/PPI/FOMC/jobs). Fed quiet period absent.
+**CEO Scores:**
+- NET: composite ~57+CTO 25 = ~82 (macro:70 tech:55 sent:50 cong:50 crowd:60) — **SKIP** (earnings 5/7 AH = binary risk; +19% in 6 days extended; 182x fwd P/E; analyst avg PT $231.85 vs current ~$245 = implied downside)
+- DXYZ: composite N/A — **SKIP** (closed-end fund/non-diversified investment company, ~97% premium to NAV per Dec '25 audit; pure SpaceX-IPO momentum speculation; ETF-like vehicle disallowed in spirit of rule 1)
+- PTON: composite ~62+CTO 25 = ~87 — **SKIP** (earnings 5/7 = binary risk; declining revenue & subs; $5 stock; weak fundamentals override CTO signal)
+- 012450: **SKIP** — non-US ticker (Hanwha Aerospace KRX), webhook config issue
+- QCOM (carry): no new signal; still extended post-earnings — defer
+**Trade ideas (if any):** None. All fresh signals have earnings within 24h or speculative valuation.
+**Risk factors:** F&G 67 (Greed) — sentiment frothy; AAII bull-bear -1.6% mildly bearish; multiple binary earnings tomorrow (NET, PTON); US-Iran headline risk (deal could break); AI cohort extension after 3-day rip.
+**TEVA position thesis check:** INTACT. Q1 beat ($0.53 EPS, $3.98B rev), Strong Buy consensus, avg PT $41.75 (+17.7%). Position +2.10% (+$10.36). Trailing stop GTC HWM $36.52, stop $32.868 (10% trail). No tighten — below +15%. No exit trigger.
+**Decision:** **HOLD** — no new entries. TEVA held; trailing stop active. All 3 new CTO signals fail discipline (earnings risk x2, valuation/structural x1).
+**Watchlist for tomorrow (5/7):** NET post-earnings reaction; PTON post-earnings (likely skip regardless); fresh CTO signals; QCOM if consolidates below $175 with new signal.
