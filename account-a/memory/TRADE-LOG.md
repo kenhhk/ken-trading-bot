@@ -141,3 +141,14 @@ Buy order ID: 87c74d60-0f98-4edf-aa7a-43ca788babe8 | Trailing stop order ID: 830
 | TEVA | 14 | $35.19 | $36.34 | +$16.10 (+3.27%) | 10% trail / stop $32.868, HWM $36.52 |
 
 **Notes:** Trailing stop HWM advanced from $35.965 → $36.52 (+1.5% lift since fill). Week count 1/50. Watchlist: fresh CTO signals pre-market; QCOM on consolidation below $175 with new signal.
+
+---
+
+## May 06 — EOD Snapshot (Day 3) [Daily Summary]
+**Portfolio:** $25,014.14 | **Cash:** $24,507.34 (97.97%) | **Day P&L:** +$7.84 (+0.03%) | **Phase P&L:** +$14.14 (+0.06%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TEVA | 14 | $35.19 | $36.20 | +$0.34 (+0.95%) | +$14.14 (+2.87%) | $32.868 (10% trail, HWM $36.52) |
+
+**Notes:** No new trades today. TEVA holding +2.87% unrealized; trail stop HWM advanced $35.965 → $36.52 (+1.5% lift since fill). Thesis intact (Q1 beat reconfirmed; BofA PT $38→$42 Buy; Emalex on track). Week count 1/50. VIX ~16.7 (NORMAL, min CEO 70). New STRONG_BULL TV signals today: ARKG (ETF, ineligible), 012450 KRW (non-US, webhook config issue). Tomorrow (05/07): monitor TEVA thesis; rescore QCOM if consolidation below $175 with new signal; await fresh CTO signals pre-market; confirm VIX tier before any new entry.
