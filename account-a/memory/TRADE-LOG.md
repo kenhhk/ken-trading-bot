@@ -123,3 +123,21 @@ Buy order ID: 87c74d60-0f98-4edf-aa7a-43ca788babe8 | Trailing stop order ID: 830
 | TEVA | 14 | $35.19 | $35.64 | +$0.29 (+0.82%) | +$6.30 (+1.28%) | $32.37 (10% trail, HWM $35.965) |
 
 **Notes:** TEVA entered today — CEO 83/100, STRONG_BULL CTO, Q1 beat + Emalex acquisition catalyst. Trailing stop GTC active (order 8306052e). New AH TV signals received: NET STRONG_BULL $244.43, DXYZ STRONG_BULL $38.31, PTON STRONG_BULL $5.18 — require CEO scoring pre-market tomorrow. Tomorrow (05/06): pre-market CEO scoring on NET/DXYZ/PTON; rescore QCOM on any consolidation; rescore TEVA post-day confirm; confirm VIX tier before any new entry.
+
+---
+
+## May 06 — Midday Scan (Day 3)
+**Routine:** midday.md | **Positions:** 1 (TEVA) | **Open orders:** 1 (TEVA trail stop GTC) | **Week trades:** 1/50 | **Equity:** $25,016.10 | **Cash:** $24,507.34 | **VIX:** ~16.7 (NORMAL) | **Min CEO:** 70
+
+**Step 3 — Cut losers:** TEVA +3.27% (+$16.10 unrealized) — no cut.
+**Step 4 — Tighten stops:** TEVA +3.27% — below +15% threshold. No tightening. (Trail stop HWM $36.52, stop $32.868.)
+**Step 5 — Thesis check (TEVA):** INTACT. Q1 beat reconfirmed (EPS +16.23%, Rev +5.14%). BofA raised PT $38→$42 (Buy). Emalex acquisition on track. Wall Street consensus: undervalued. No negative news, no FDA warnings, no guidance cut. No exit trigger.
+**Step 6 — TV Signals:** No new signals on held ticker. New STRONG_BULL signals received (none on held positions): ARKG @$31.08 (ETF — not tradeable per rules); 012450 @1433000 KRW (non-US, Hanwha Aerospace KRX — webhook config issue). Prior NET/DXYZ/PTON signals already dispositioned in pre-market. No BEARISH_FLIP or STRONG_BEAR on held ticker. No action.
+**Notification:** None — no action taken.
+
+**Open position snapshot:**
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop |
+|--------|--------|-------|---------|----------------|------|
+| TEVA | 14 | $35.19 | $36.34 | +$16.10 (+3.27%) | 10% trail / stop $32.868, HWM $36.52 |
+
+**Notes:** Trailing stop HWM advanced from $35.965 → $36.52 (+1.5% lift since fill). Week count 1/50. Watchlist: fresh CTO signals pre-market; QCOM on consolidation below $175 with new signal.
