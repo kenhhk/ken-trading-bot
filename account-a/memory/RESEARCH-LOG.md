@@ -429,3 +429,15 @@ Daily pre-market research entries appended here.
 **TEVA trail stop update:** HWM advanced overnight $36.72 → $36.99 (+0.7%), stop $33.048 → $33.291. Position +2.56% (+$12.60 unrealized) at $36.09; below +15% tighten threshold.
 **Action:** HOLD — no orders placed. TEVA position + trail stop GTC unchanged.
 **Notification:** None (no trade fired).
+
+---
+
+### 2026-05-07 — Midday Scan
+**Account:** Equity $25,011.13 | Cash $24,507.34 | BP $49,518.47 | Positions: 1 (TEVA 14 sh) | Open orders: 1 (TEVA trail stop GTC) | Week trades: 1/50 | VIX: ~17.4 | Mode: **NORMAL** (<20) | Min CEO: 70
+**Step 3 — Cut losers:** TEVA +2.245% (+$11.06) — no cut.
+**Step 4 — Tighten stops:** TEVA +2.245% — below +15% threshold. No tightening. Trail stop HWM $36.99, stop $33.291 (10% trail).
+**Step 5 — Thesis check (TEVA):** INTACT. Q1 2026 beat confirmed (EPS +16.23%, Rev +5.14%, innovative portfolio +41% YoY). Emalex acquisition ($700M) on track per "Pivot to Growth." FY26 EPS guidance cut to $1.91-$2.11 from $2.57-$2.77 was disclosed alongside Q1 (already in price); analyst PTs RAISED post-cut: Truist $45, UBS $42, Piper $42, Barclays $40, BofA $42 (avg target ~$37.56-$41.75 = +4-16% upside). No FDA warning, no sector collapse, no negative catalyst today. No exit trigger.
+**Step 6 — TV Signals:** No new signals overnight (last 2026-05-06 20:01 ARKG = ETF dispositioned). No BEARISH_FLIP/STRONG_BEAR on held ticker. No action.
+**Action taken:** None — no trades, no exits, no stop adjustments.
+**Notification:** None (no action taken per Step 7 rules).
+**Watchlist for tomorrow (5/8):** NET/COIN/ABNB/CRWV post-earnings reactions; April NFP print (key macro); fresh pre-market CTO signals; QCOM only if consolidates with new signal.

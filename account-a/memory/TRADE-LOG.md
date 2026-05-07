@@ -168,3 +168,21 @@ Buy order ID: 87c74d60-0f98-4edf-aa7a-43ca788babe8 | Trailing stop order ID: 830
 | TEVA | 14 | $35.19 | $36.09 | +$12.60 (+2.56%) | 10% trail / stop $33.291, HWM $36.99 |
 
 **Notes:** TEVA trail stop HWM advanced overnight $36.52 → $36.99 (+1.3% lift), stop lifted $32.868 → $33.291. Position below +15% tighten threshold — no manual stop adjustment. Watchlist for tomorrow (5/8): NET/COIN/ABNB/CRWV post-earnings reactions; April NFP print; fresh pre-market CTO signals; QCOM only if consolidates with new signal.
+
+---
+
+## May 07 — Midday Scan (Day 4)
+**Routine:** midday.md | **Positions:** 1 (TEVA) | **Open orders:** 1 (TEVA trail stop GTC) | **Week trades:** 1/50 | **Equity:** $25,011.13 | **Cash:** $24,507.34 | **VIX:** ~17.4 (NORMAL) | **Min CEO:** 70
+
+**Step 3 — Cut losers:** TEVA +2.245% (+$11.06 unrealized) — no cut.
+**Step 4 — Tighten stops:** TEVA +2.245% — below +15% threshold. No tightening. (Trail stop HWM $36.99, stop $33.291.)
+**Step 5 — Thesis check (TEVA):** INTACT. Q1 beat reconfirmed (EPS +16.23%, Rev +5.14%, innovative portfolio +41% YoY). Emalex acquisition ($700M) on track per Pivot to Growth strategy. Analyst PT raises POST FY guidance cut: Truist $45, UBS $42, Piper $42, Barclays $40, BofA $42. Note: FY26 EPS guidance cut to $1.91-$2.11 from $2.57-$2.77 was disclosed alongside Q1 beat — already digested by market; analysts raised PTs after. Stock above entry, no negative catalyst, no FDA warning, no sector collapse. No exit trigger.
+**Step 6 — TV Signals:** No new signals overnight (latest 2026-05-06 20:01 ARKG, already dispositioned). No BEARISH_FLIP/STRONG_BEAR on held ticker. No action.
+**Notification:** None — no action taken.
+
+**Open position snapshot:**
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop |
+|--------|--------|-------|---------|----------------|------|
+| TEVA | 14 | $35.19 | $35.98 | +$11.06 (+2.245%) | 10% trail / stop $33.291, HWM $36.99 |
+
+**Notes:** Intraday pullback from $36.34 close → $35.98 (-0.99% intraday); trail stop HWM unchanged at $36.99 (only ratchets up). Week count 1/50. Watchlist for tomorrow (5/8): NET/COIN/ABNB/CRWV post-earnings reactions; April NFP print; fresh pre-market CTO signals; QCOM only if consolidates with new signal.
