@@ -49,3 +49,4 @@
 | 2026-05-05 | 20:05 UTC | A | PTON | ? | STRONG_BULL | 5.18 | D | NEW |
 | 2026-05-06 | 06:56 UTC | A | 012450 | ? | STRONG_BULL | 1433000 | D | EVALUATED 2026-05-06 — non-US ticker (Hanwha Aerospace KRX); webhook config issue; SKIP |
 | 2026-05-06 | 20:01 UTC | A | ARKG | ? | STRONG_BULL | 31.08 | D | EVALUATED 2026-05-06 — ETF (ARK Genomic Revolution); not tradeable per rules; SKIP |
+| 2026-05-07 | 20:01 UTC | A | XOVR | ? | STRONG_BULL | 18.88 | D | NEW |
