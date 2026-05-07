@@ -186,3 +186,14 @@ Buy order ID: 87c74d60-0f98-4edf-aa7a-43ca788babe8 | Trailing stop order ID: 830
 | TEVA | 14 | $35.19 | $35.98 | +$11.06 (+2.245%) | 10% trail / stop $33.291, HWM $36.99 |
 
 **Notes:** Intraday pullback from $36.34 close → $35.98 (-0.99% intraday); trail stop HWM unchanged at $36.99 (only ratchets up). Week count 1/50. Watchlist for tomorrow (5/8): NET/COIN/ABNB/CRWV post-earnings reactions; April NFP print; fresh pre-market CTO signals; QCOM only if consolidates with new signal.
+
+---
+
+## May 07 — EOD Snapshot (Day 4) [Daily Summary]
+**Portfolio:** $25,011.48 | **Cash:** $24,507.34 (97.99%) | **Day P&L:** -$2.66 (-0.01%) | **Phase P&L:** +$11.48 (+0.05%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TEVA | 14 | $35.19 | $36.01 | -$0.33 (-0.91%) | +$11.48 (+2.33%) | $33.291 (10% trail, HWM $36.99) |
+
+**Notes:** TEVA modest pullback intraday ($36.34 → $36.01, -0.91%); trail stop HWM unchanged $36.99 (only ratchets up). Thesis intact (Q1 beat, BofA PT $42 Buy, Emalex on track). No new trades. No new TV signals overnight (latest 2026-05-06 20:01 ARKG, dispositioned ineligible). Week count 1/50. VIX ~17.4 (NORMAL, min CEO 70). Tomorrow (05/08): NET/COIN/ABNB/CRWV post-earnings reactions; April NFP print; fresh pre-market CTO signals; QCOM only if consolidates with new signal.
