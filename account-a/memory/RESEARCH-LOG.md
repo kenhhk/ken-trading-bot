@@ -416,3 +416,16 @@ Daily pre-market research entries appended here.
 **TEVA position thesis check:** INTACT. Position +4.23% (+$20.86 unrealized). Barclays raised PT $38→$40 (Overweight). Q1 beat reconfirmed (EPS $0.53 vs $0.12 est; rev $3.98B vs $3.79B est). Strong Buy consensus, avg PT $41.75 (+13.8%). Trailing stop GTC HWM $36.72, stop $33.048 (10% trail). Below +15% — no tighten. No exit trigger.
 **Decision:** **HOLD** — no new entries. TEVA intact, trailing stop GTC active. All TV signals fail discipline (binary earnings risk, structural ineligibility, post-earnings extension). Position discipline > activity in NORMAL/Greed regime.
 **Watchlist for tomorrow (5/8):** NET post-earnings reaction; COIN/ABNB/CRWV post-print; April NFP (key macro print); fresh pre-market CTO signals; QCOM only if consolidates with new signal.
+
+---
+
+### 2026-05-07 — Market-Open Execution
+**Routine:** market-open.md executed per instructions
+**Trades this week:** 1/50 | **Live state:** Equity $25,012.32 | Cash $24,507.34 | BP $49,519.66 | Positions: 1 (TEVA 14 sh) | Open orders: 1 (TEVA trail stop GTC) | Day trades: 0
+**VIX mode:** NORMAL (17.39) | Min CEO: 70 | Max position: 2% ($500)
+**Candidates from RESEARCH-LOG:** None. Pre-market decision = HOLD (NET/PTON/DXYZ/QCOM/ARKG all dispositioned: binary earnings, ETF/structural ineligibility, post-earnings extension).
+**Buy-side gate:** N/A (no candidates)
+**Quote checks:** N/A (no candidates)
+**TEVA trail stop update:** HWM advanced overnight $36.72 → $36.99 (+0.7%), stop $33.048 → $33.291. Position +2.56% (+$12.60 unrealized) at $36.09; below +15% tighten threshold.
+**Action:** HOLD — no orders placed. TEVA position + trail stop GTC unchanged.
+**Notification:** None (no trade fired).
