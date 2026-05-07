@@ -394,3 +394,25 @@ Daily pre-market research entries appended here.
 **TEVA position thesis check:** INTACT. Q1 beat ($0.53 EPS, $3.98B rev), Strong Buy consensus, avg PT $41.75 (+17.7%). Position +2.10% (+$10.36). Trailing stop GTC HWM $36.52, stop $32.868 (10% trail). No tighten — below +15%. No exit trigger.
 **Decision:** **HOLD** — no new entries. TEVA held; trailing stop active. All 3 new CTO signals fail discipline (earnings risk x2, valuation/structural x1).
 **Watchlist for tomorrow (5/7):** NET post-earnings reaction; PTON post-earnings (likely skip regardless); fresh CTO signals; QCOM if consolidates below $175 with new signal.
+
+---
+
+### 2026-05-07 — Pre-market Research
+**Account:** Equity $25,019.53 | Cash $24,507.34 | BP $49,526.87 | Positions: 1 (TEVA 14 sh) | Open orders: 1 (TEVA trail stop GTC) | Week trades: 1/50
+**Market:** WTI ~$93.46 (-2%, US-Iran de-escalation) | S&P futures +0.17% (record close yesterday) | VIX 17.39 | Mode: **NORMAL** (<20) | Min CEO: 70
+**Sector rotation:** Gaining flows — Tech (Nasdaq-100 +14% YTD on AI/cloud/cyber), Industrials (XLI +11% YTD), Energy. Lagging — Consumer Discretionary, Utilities, Healthcare. Q2 ETF flows: +$12B into tech, -$4.5B out of discretionary.
+**Catalysts:** (1) US-Iran peace deal hopes — oil/yields lower, transports/airlines surge (UAL +8%, DAL +7.4%); (2) ADP April private payrolls +109k (strongest since Jan '25); (3) S&P, Nasdaq closed at records yesterday.
+**Earnings today:** Pre-mkt: MCD, SHEL, GILD, MCK, BDX, TPR, MCHP. AH: NET, COIN, ABNB, CRWV, U, DDOG, VST, CELH, PTON. ~579 reports.
+**Economic calendar:** No tier-1 release today. NFP April 5/8; CPI April 5/12.
+**Sentiment:** F&G 68 (Greed, +1.1 vs prior); AAII Bulls 38.1% (-7.9pp; above 37.5% historical avg).
+**CEO Scores:**
+- NET (carry): SKIP — Q1 earnings tonight AH = binary risk; +7.9% Tue pre-print = extended; market pricing ±10.79%; revisit post-print
+- PTON (carry): SKIP — earnings 5/7 = binary; declining revenue/subs; weak fundamentals
+- DXYZ (carry): SKIP — closed-end fund, ~97% premium to NAV; ETF-spirit rule
+- QCOM (carry): SKIP — post-earnings extended (+15.12% session, $20B buyback); now $192.57; no new CTO signal; defer until consolidation
+- ARKG: SKIP — ETF, not tradeable
+**Trade ideas (if any):** None. All TV signals dispositioned; no fresh CTO signals overnight.
+**Risk factors:** F&G 68 (Greed) — frothy; multiple binary AH earnings (NET, COIN, ABNB, PTON); US-Iran headline risk (deal could break); record-high SPX = extended; AAII bulls dropped 7.9pp = positioning shifted bearish week-over-week.
+**TEVA position thesis check:** INTACT. Position +4.23% (+$20.86 unrealized). Barclays raised PT $38→$40 (Overweight). Q1 beat reconfirmed (EPS $0.53 vs $0.12 est; rev $3.98B vs $3.79B est). Strong Buy consensus, avg PT $41.75 (+13.8%). Trailing stop GTC HWM $36.72, stop $33.048 (10% trail). Below +15% — no tighten. No exit trigger.
+**Decision:** **HOLD** — no new entries. TEVA intact, trailing stop GTC active. All TV signals fail discipline (binary earnings risk, structural ineligibility, post-earnings extension). Position discipline > activity in NORMAL/Greed regime.
+**Watchlist for tomorrow (5/8):** NET post-earnings reaction; COIN/ABNB/CRWV post-print; April NFP (key macro print); fresh pre-market CTO signals; QCOM only if consolidates with new signal.
