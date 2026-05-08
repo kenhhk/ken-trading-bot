@@ -441,3 +441,28 @@ Daily pre-market research entries appended here.
 **Action taken:** None — no trades, no exits, no stop adjustments.
 **Notification:** None (no action taken per Step 7 rules).
 **Watchlist for tomorrow (5/8):** NET/COIN/ABNB/CRWV post-earnings reactions; April NFP print (key macro); fresh pre-market CTO signals; QCOM only if consolidates with new signal.
+
+---
+
+### 2026-05-08 — Pre-market Research
+**Account:** Equity $25,016.38 | Cash $24,507.34 (97.97%) | BP $49,523.72 | Positions: 1 (TEVA 14 sh) | Open orders: 1 (TEVA trail stop GTC) | Week trades: 1/50 | Day trades: 0
+**Market:** WTI ~$94.35 | S&P futures +0.5% (Nasdaq +0.8%, Dow +0.3%) | VIX 17.08–17.32 | Mode: **NORMAL** (<20) | Min CEO: 70 | Max position: 2% (~$500)
+**Sector rotation:** Leading YTD: Energy +21%, Materials +17%, Staples +15%, Tech (XLK) +15%, Industrials +12%. Lagging: Consumer Discretionary (XLY) ~flat. Tech rebounding on AI/cloud earnings; rotation toward value (energy/industrials/materials) continues alongside tech strength.
+**Catalysts:**
+- April NFP: 115K vs 65K est (BEAT); unemployment 4.3%; March revised up to 185K — labor market firming
+- US-Iran tensions ongoing; oil ~$94 — moderate but contained
+- Q1 earnings tail: AKAM +27% pre, FROG +16%, GEN +6%, MCHP +3%; CRWV -7%, NET -14%, UPWK -23%, ABNB mixed
+**Earnings today (pre-mkt notable):** AKAM (beat), FROG (beat + raise), MCHP (beat + better Q1 guide), GEN (beat + raise), PPLC. After yesterday close: NET (beat rev/soft Q2 guide → -14%), CRWV (rev beat/heavier capex → -7%), ABNB (rev beat/EPS miss/Iran weakness), COIN
+**Economic calendar:** April NFP already released (BEAT); rest of session quiet — no FOMC/CPI today
+**Sentiment:** AAII bulls 38.3% (slightly above 37.5% historical avg, neutral); CNN F&G 69 = **Greed**; VIX 17.1 = NORMAL. None of the 4 contrarian-bonus conditions met.
+**TV signals (overnight):** XOVR STRONG_BULL @$18.88 — ETF, **INELIGIBLE per rules**. VISA BULLISH_FLIP @$29.52 — does NOT match Visa Inc (V trades ~$318); webhook config/non-US ticker, **SKIP**.
+**CEO Scores:**
+- **TEVA** (held): macro 75, tech 75, sent 55, cong 50, CTO STRONG_BULL active → composite 66/100 — **HOLD** (already in position; thesis intact, Barclays raised PT $38→$40 Overweight 5/6)
+- **MCHP** (semis, post-earnings beat +3%): macro 75, tech 65, sent 60, cong 50, no CTO → composite **62/100 — SKIP** (no momentum confirmation)
+- **GEN** (cybersec, post-earnings +6%): macro 75, tech 60, sent 55, cong 50, no CTO → **60/100 — SKIP**
+- **FROG** (post-earnings +16% extended): macro 75, tech 50, sent 55, cong 50, no CTO → **57/100 — SKIP** (gap-fill risk)
+- **AKAM** (post-earnings +27% extended): macro 75, tech 45, sent 50, cong 50, no CTO → **52/100 — SKIP** (gap risk extreme)
+**Trade ideas:** None. No candidate clears 70 threshold. All non-held names are binary post-earnings without CTO confirmation; entering chase risk.
+**Risk factors:** F&G 69 (Greed) — late-cycle entry hazard for chasing; Iran-US escalation tail risk; post-earnings gap-fill on extended winners; FY guide cuts (e.g., NET -14%) show market punishing soft outlooks.
+**Decision:** **HOLD** — no new entries today. TEVA position + 10% trail stop GTC unchanged. Wait for fresh CTO signals on tradeable US stocks with non-binary catalysts.
+**Watchlist for next session:** MCHP/GEN if they consolidate AND a CTO signal arrives; QCOM only if consolidates below $175 with new signal; TEVA monitoring for +15% threshold to tighten trail to 7%; weekend digestion of Iran headlines.
