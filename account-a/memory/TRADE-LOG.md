@@ -231,3 +231,14 @@ Buy order ID: 87c74d60-0f98-4edf-aa7a-43ca788babe8 | Trailing stop order ID: 830
 | TEVA | 14 | $35.19 | $35.825 | +$8.89 (+1.80%) | 10% trail / stop $33.291, HWM $36.99 |
 
 **Notes:** Intraday pullback from $36.015 open → $35.825 (-0.51% intraday); trail stop HWM unchanged at $36.99 (only ratchets up). Week count 1/50. Watchlist: fresh CTO signals on tradeable US stocks; MCHP/GEN if they consolidate with a new CTO signal; QCOM if consolidates below $175 with new signal; TEVA monitoring for +15% threshold to tighten trail to 7%.
+
+---
+
+## May 08 — EOD Snapshot (Day 5) [Daily Summary]
+**Portfolio:** $25,007.56 | **Cash:** $24,507.34 (97.998%) | **Day P&L:** -$3.92 (-0.016%) | **Phase P&L:** +$7.56 (+0.030%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TEVA | 14 | $35.19 | $35.73 | -$0.28 (-0.78%) | +$7.56 (+1.54%) | $33.291 (10% trail, HWM $36.99) |
+
+**Notes:** TEVA pulled back further intraday ($36.01 prior close → $35.73 close, -0.78%); trail stop HWM unchanged $36.99 (only ratchets up). Below +15% tighten threshold — no manual stop adjustment. Thesis intact (Q1 beat reconfirmed, BofA/UBS/Piper PT $42, Truist $45, Emalex acquisition on track, $500M Sanofi milestone pending). No new trades. No new TV signals on held ticker (XOVR/VISA from 5/7 already dispositioned ineligible). Week count 1/50 — week closed. VIX ~17.1 (NORMAL, min CEO 70). Phase P&L +$7.56 (+0.030%) over 5 days vs S&P 500 baseline. Next session (Mon 05/11): pre-market scoring on fresh CTO signals; MCHP/GEN/QCOM only on consolidation + new CTO signal; TEVA monitoring for +15% threshold to tighten trail to 7%.
