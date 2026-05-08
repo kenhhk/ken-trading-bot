@@ -213,3 +213,21 @@ Buy order ID: 87c74d60-0f98-4edf-aa7a-43ca788babe8 | Trailing stop order ID: 830
 | TEVA | 14 | $35.19 | $36.015 | +$11.55 (+2.34%) | 10% trail / stop $33.291, HWM $36.99 |
 
 **Notes:** TEVA below +15% tighten threshold — no manual stop adjustment. Trail stop HWM unchanged $36.99 (only ratchets up). April NFP beat (115K vs 65K est) lifted S&P futures; F&G 69 (Greed) creates late-cycle entry hazard for chasing post-earnings winners. Watchlist for next session: MCHP/GEN if they consolidate AND a CTO signal arrives; QCOM only if consolidates below $175 with new signal; TEVA monitoring for +15% threshold to tighten trail to 7%.
+
+---
+
+## May 08 — Midday Scan (Day 5)
+**Routine:** midday.md | **Positions:** 1 (TEVA) | **Open orders:** 1 (TEVA trail stop GTC) | **Week trades:** 1/50 | **Equity:** $25,008.89 | **Cash:** $24,507.34 | **VIX:** ~17.1 (NORMAL) | **Min CEO:** 70
+
+**Step 3 — Cut losers:** TEVA +1.80% (+$8.89 unrealized) — no cut.
+**Step 4 — Tighten stops:** TEVA +1.80% — below +15% threshold. No tightening. (Trail stop HWM $36.99, stop $33.291.)
+**Step 5 — Thesis check (TEVA):** INTACT. Q1 2026 beat reconfirmed (post-earnings +75% rally narrative); 2025 full-year revenue +4% to $17.3B, net profit +19.3% to $3.4B. FY26 guidance cut (rev $16.4–16.8B; EPS $2.57–$2.77, 10¢ below consensus) was disclosed alongside Q1 — already digested by market; analyst PTs RAISED post-cut (Truist $45, UBS/Piper/BofA $42, Barclays $40). Pipeline catalysts intact: $500M Sanofi milestone, $10B potential immunology/neurology trials. No FDA warnings, no downgrades, no sector collapse, no negative catalyst today. No exit trigger.
+**Step 6 — TV Signals:** No new signals overnight on held ticker. Latest signals (XOVR STRONG_BULL 5/7, VISA BULLISH_FLIP 5/7) already dispositioned in pre-market (ETF ineligible / webhook config mismatch). No BEARISH_FLIP/STRONG_BEAR on TEVA. No action.
+**Notification:** None — no action taken.
+
+**Open position snapshot:**
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop |
+|--------|--------|-------|---------|----------------|------|
+| TEVA | 14 | $35.19 | $35.825 | +$8.89 (+1.80%) | 10% trail / stop $33.291, HWM $36.99 |
+
+**Notes:** Intraday pullback from $36.015 open → $35.825 (-0.51% intraday); trail stop HWM unchanged at $36.99 (only ratchets up). Week count 1/50. Watchlist: fresh CTO signals on tradeable US stocks; MCHP/GEN if they consolidate with a new CTO signal; QCOM if consolidates below $175 with new signal; TEVA monitoring for +15% threshold to tighten trail to 7%.

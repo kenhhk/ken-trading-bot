@@ -479,3 +479,15 @@ Daily pre-market research entries appended here.
 **TEVA trail stop status:** HWM $36.99, stop $33.291 unchanged from prior session. Position +2.34% (+$11.55 unrealized) at $36.015; below +15% tighten threshold.
 **Action:** HOLD — no orders placed. TEVA position + trail stop GTC unchanged.
 **Notification:** None (no trade fired).
+
+---
+
+### 2026-05-08 — Midday Scan
+**Account:** Equity $25,008.89 | Cash $24,507.34 | BP $49,516.23 | Positions: 1 (TEVA 14 sh) | Open orders: 1 (TEVA trail stop GTC) | Week trades: 1/50 | VIX: ~17.1 | Mode: **NORMAL** (<20) | Min CEO: 70
+**Step 3 — Cut losers:** TEVA +1.80% (+$8.89) — no cut.
+**Step 4 — Tighten stops:** TEVA +1.80% — below +15% threshold. No tightening. Trail stop HWM $36.99, stop $33.291 (10% trail).
+**Step 5 — Thesis check (TEVA):** INTACT. Q1 2026 beat reconfirmed; 2025 full-year revenue +4% to $17.3B, net profit +19.3% to $3.4B. FY26 guidance cut already digested (analyst PTs RAISED post-cut: Truist $45, UBS/Piper/BofA $42, Barclays $40). Pipeline catalysts intact ($500M Sanofi milestone, $10B potential immunology/neurology trials). No FDA warning, no downgrades, no sector collapse, no negative catalyst today. No exit trigger.
+**Step 6 — TV Signals:** No new signals overnight on held ticker. Latest signals (XOVR STRONG_BULL 5/7, VISA BULLISH_FLIP 5/7) already dispositioned in pre-market (ETF ineligible / webhook config mismatch). No BEARISH_FLIP/STRONG_BEAR on TEVA. No action.
+**Action taken:** None — no trades, no exits, no stop adjustments.
+**Notification:** None (no action taken per Step 7 rules).
+**Watchlist for next session:** fresh CTO signals on tradeable US stocks; MCHP/GEN if they consolidate with a new CTO signal; QCOM if consolidates below $175 with new signal; TEVA monitoring for +15% threshold to tighten trail to 7%.
