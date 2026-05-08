@@ -4,6 +4,107 @@ Friday reviews appended here. Letter grade assigned each week.
 
 ---
 
+### Week ending 2026-05-08 (Week 6 — First Full Week, May 4–8)
+> Note: First full 5-day trading week since launch (May 4–8). Account launched 2026-05-03. TEVA position (entered 5/5) held all week; 1 trade total. S&P 500 ripped +2.3% on strong April NFP + 6th consecutive win streak — bot meaningfully lagged the index this week.
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $25,000.00 (Monday 2026-05-04 AM) |
+| Ending portfolio | $25,007.56 (Alpaca confirmed, Friday EOD 2026-05-08) |
+| Week return | +$7.56 (+0.030%) |
+| S&P 500 week | +2.30% (longest weekly win streak since 2024; 6 straight) |
+| Bot vs S&P | −2.27% alpha (significant underperformance) |
+| Phase S&P return since launch (5/3) | ≈ +2.36% (~7,228 → 7,398.93) |
+| Phase alpha since launch | ≈ −2.33% |
+| Trades taken | 1 (W:0 / L:0 / open:1) |
+| Win rate | N/A — no closed trades |
+| Best trade | TEVA +1.54% (open) |
+| Worst trade | None |
+| Profit factor | N/A — no closed trades |
+| VIX mode predominant | Normal (16.7–18.3, below 20 throughout) |
+| Phase P&L | +$7.56 / +0.030% (since launch 2026-05-03) |
+
+**Closed Trades:**
+| Ticker | Entry | Exit | P&L | CEO Score | CTO Signal | Notes |
+|--------|-------|------|-----|-----------|------------|-------|
+| — | — | — | — | — | — | No trades closed this week |
+
+**Open Positions at Week End:**
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| TEVA (14 sh) | $35.19 | $35.73 | +$7.56 (+1.54%) | $33.291 GTC (10% trail, HWM $36.99) |
+
+**CTO Signals Received This Week (16 total):**
+| Date | Ticker | Signal | Disposition |
+|------|--------|--------|-------------|
+| 5/4 | 2840 | STRONG_BEAR | Non-US (HK); webhook config issue |
+| 5/4 | QCOM | BULLISH_FLIP | CEO 60–69 (<70); SKIP/WATCH |
+| 5/4 | GDX | STRONG_BEAR | ETF — ineligible |
+| 5/4 | TEVA | STRONG_BULL | CEO 83 → ENTERED 5/5 @ $35.19 |
+| 5/4 | SFBQF | BULLISH_FLIP | OTC/Japan — ineligible |
+| 5/4 | SILVER | STRONG_BEAR | Commodity — ineligible |
+| 5/5 | NET | STRONG_BULL | Binary earnings (5/7 AH); SKIP |
+| 5/5 | DXYZ | STRONG_BULL | Closed-end fund (~97% premium NAV); SKIP |
+| 5/5 | PTON | STRONG_BULL | Earnings 5/7 + weak fundamentals; SKIP |
+| 5/6 | 012450 | STRONG_BULL | Non-US (KRX, Hanwha); webhook config issue |
+| 5/6 | ARKG | STRONG_BULL | ETF — ineligible |
+| 5/7 | XOVR | STRONG_BULL | ETF — ineligible |
+| 5/7 | VISA | BULLISH_FLIP | Webhook ticker mismatch ($29.52 ≠ V $318) |
+| 5/8 | PINS | BULLISH_FLIP | Late signal (post-close); evaluate Mon |
+| 5/8 | XYLD | BULLISH_FLIP | ETF — ineligible |
+| 5/8 | BLK | STRONG_BULL | Late signal (post-close); evaluate Mon |
+
+Signal yield: 1 of 16 = 6.25% actionable. 9 of 16 (56%) were ineligible (ETFs/non-US/commodities/webhook config). Continued infrastructure problem.
+
+**What Worked (3-5 bullets):**
+- TEVA execution clean: CEO 83/100 (Q1 beat + Emalex acquisition + STRONG_BULL CTO + 5 analyst upgrades), 14 shares × $35.19 = $492.66 (1.97% equity), trailing stop GTC placed immediately on fill (order 8306052e). All 8 buy-side gates passed.
+- TEVA position above water all 4 days held — peaked at +3.27% midday 5/6, finished week +1.54%; trail stop ratcheted up $35.965 → $36.99 (+2.85% lift since fill); thesis intact daily (BofA PT $42, Truist $45, Barclays raised $38→$40).
+- HOLD discipline correctly enforced on all binary post-earnings names: NET (-14% post-print on soft Q2 guide), CRWV (-7%), PTON, COIN, ABNB — bot avoided every blow-up by sticking to the rule.
+- Webhook ineligibility filter correctly caught 9/16 signals at the rule layer (ETFs: GDX, ARKG, XOVR, XYLD; non-US: 2840, 012450, SFBQF; commodity: SILVER; webhook mismatch: VISA). Discipline at the gate worked even though source noise persists.
+- April NFP beat (115K vs 65K est) correctly read as risk-on confirmation; bot did NOT chase post-NFP rally on Friday despite Greed F&G 69 — discipline held.
+
+**What Didn't Work (3-5 bullets):**
+- −2.27% alpha vs S&P this week — by far worst relative performance since launch. Index ripped +2.3% on NFP/Iran de-escalation/AI earnings; bot held 98% cash + a 1.97% TEVA stake = capped upside.
+- TEVA underperformed the broader rally: stock was +2.87% mid-week but pulled back to +1.54% by Friday close while the S&P added another ~1% — single-name swing trade did not capture the broad market beta.
+- Webhook noise problem now in its 4th consecutive week. 9 of 16 signals (56%) ineligible at the rule layer; webhook fix still not deployed despite being flagged Priority 1 in 4 prior reviews.
+- QCOM CEO score crawled to 69/100 on 5/5 (1 below threshold), then post-earnings extended to $192.57 — never gave a clean re-entry; missed +13% move post-buyback announcement (no CTO re-signal).
+- Late-week PINS/BLK CTO signals fired 5/8 20:01 UTC (after Friday close) with no time to disposition into a Friday entry; will consume capacity Monday but NFP/Iran narrative may already be priced in.
+
+**Key Lessons:**
+- In a +2.3% S&P week, holding 98% cash with one 1.97% position is a structural alpha drag — the win-rate-focused gate is producing too few entries during strong-trend regimes; consider whether CEO threshold should adapt to regime (e.g., ≥65 in confirmed risk-on with VIX <18 + S&P at ATH + breadth confirmation). NOT yet a rule change — flagged for second-week confirmation.
+- TEVA worked on entry mechanics (CEO 83, gates pass) but underdelivered on capture vs index — single-name swing in a beta rally is structurally inferior to broader exposure; future wins need to either (a) be higher conviction (size up via multiple positions, not one), or (b) deliver alpha vs the day's S&P move.
+- Webhook fix is Priority 0, not Priority 1 — 4 weeks of 50%+ noise rate is wasting decision capacity; this needs to be done before any further discipline tuning.
+- Binary earnings filter saved real money this week (NET −14%, CRWV −7%, PTON, ABNB miss) — this rule is performing exactly as designed; do not relax it.
+- Late-day Friday CTO signals (PINS, BLK at 20:01 UTC) cannot be acted on same-day — protocol clarity: any signal after market close = Monday pre-market evaluation, not weekend research.
+
+**Signal Weight Review:**
+- Macro signal win rate: N/A (0 closed trades)
+- Technical signal win rate: N/A
+- Sentiment signal win rate: N/A
+- Congress signal win rate: N/A
+- CTO signal win rate: N/A — 16 signals received; 1 entered (TEVA, still open +1.54%); 15 filtered/skipped for cause
+- Recommended weight adjustments: None — insufficient closed-trade data (0 closes; 1 open position; 1 full week)
+
+**Self-Improvement Check (Step 5):**
+- No signal has 2+ weeks of computable closed-trade win-rate data — no weight changes triggered
+- Webhook ineligibility rate: 56% this week, 67% prior weeks → averaging 60%+ noise across 4 weeks → THIS IS NOW A CHRONIC ISSUE; not a strategy rule (infrastructure layer), but flagged for explicit owner action this weekend
+- Alpha gap (−2.27% in a +2.3% S&P week) flagged for monitoring: if a 2nd consecutive week of materially negative alpha during risk-on regimes occurs, propose adaptive CEO threshold rule (e.g., ≥65 when S&P 4-week trend > +5% AND VIX < 18 AND breadth confirmation)
+- TEVA price-hold pattern (CTO at $35.38 → fell −10.5% → recovered post-Emalex catalyst) confirmed in retrospect: signal was correct but lagged catalyst-confirmation timing; no rule change yet
+- TRADING-STRATEGY.md is current and correctly reflects all active rules — no changes made this week
+
+**Adjustments for Next Week (week of May 11+):**
+- Priority 0: Webhook fix — 4-week chronic. Add: NYSE/NASDAQ/AMEX only filter, $5+ price filter, exclude all ETF tickers (GDX, ARKG, XOVR, XYLD, etc.), exclude non-US tickers (2840, 012450, SFBQF, SILVER), reject ticker-mismatch (VISA $29.52 ≠ V $318)
+- Priority 1: TEVA — monitor for +15% threshold (entry $35.19 × 1.15 = $40.47) to tighten trail to 7%; current $35.73 = +1.54% from entry
+- Priority 2: Disposition Friday-late CTO signals (PINS $21.29 BULLISH_FLIP, BLK $1,084.80 STRONG_BULL) Monday pre-market with full CEO scoring
+- Priority 3: QCOM — only re-enter on consolidation below $175 + new CTO signal; current ~$192 = extended; defer
+- Priority 4: Watch for adaptive-CEO regime trigger (S&P at ATH + VIX <18 + Greed F&G + risk-on continuation)
+- Priority 5: NFP follow-through — April beat (115K) + Iran de-escalation supports continued risk-on; CEO scoring should weight macro higher next week if regime persists
+
+**Overall Grade: B−**
+> Rationale: First trade of the system executed cleanly (TEVA: CEO 83, all gates pass, immediate trail stop, position currently +1.54% with thesis intact); discipline held on all binary post-earnings names (NET −14%, CRWV −7% all avoided); webhook filter correctly rejected 9/16 ineligible signals. Grade dropped from B+/B in prior reviews due to: (1) −2.27% alpha vs S&P in a strong risk-on week — significant underperformance; (2) webhook fix still unresolved (4 weeks); (3) only 1 entry across 16 CTO signals = signal capture rate too low for trend-following regime; (4) single-name swing trade structurally lagged a broad-market rally. Capital preserved, mechanics solid, but the absolute return (+0.030%) vs index (+2.30%) is the headline — regime mismatch between bot's discipline and market's beta is the issue to resolve.
+
+---
+
 ### Week ending 2026-05-05 (Week 5 — Updated Review, May 4–5)
 > Note: Review run 2026-05-05 (Tuesday). Key development: TEVA limit buy order placed today — first TRADE threshold breach since launch (CEO 83/100). Supersedes prior reviews for this period. TEVA DAY order expires at market close today (20:00 UTC). Account launched 2026-05-03.
 
