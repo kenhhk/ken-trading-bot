@@ -466,3 +466,16 @@ Daily pre-market research entries appended here.
 **Risk factors:** F&G 69 (Greed) — late-cycle entry hazard for chasing; Iran-US escalation tail risk; post-earnings gap-fill on extended winners; FY guide cuts (e.g., NET -14%) show market punishing soft outlooks.
 **Decision:** **HOLD** — no new entries today. TEVA position + 10% trail stop GTC unchanged. Wait for fresh CTO signals on tradeable US stocks with non-binary catalysts.
 **Watchlist for next session:** MCHP/GEN if they consolidate AND a CTO signal arrives; QCOM only if consolidates below $175 with new signal; TEVA monitoring for +15% threshold to tighten trail to 7%; weekend digestion of Iran headlines.
+
+---
+
+### 2026-05-08 — Market-Open Execution
+**Routine:** market-open.md executed per instructions
+**Trades this week:** 1/50 | **Live state:** Equity $25,011.55 | Cash $24,507.34 | BP $49,518.89 | Positions: 1 (TEVA 14 sh) | Open orders: 1 (TEVA trail stop GTC) | Day trades: 0
+**VIX mode:** NORMAL (~17.1) | Min CEO: 70 | Max position: 2% (~$500)
+**Candidates from RESEARCH-LOG:** None — pre-market decision = HOLD (MCHP 62, GEN 60, FROG 57, AKAM 52 all below 70; XOVR ETF/ineligible; VISA webhook ticker mismatch). NET/COIN/ABNB binary post-earnings without CTO signals.
+**Buy-side gate:** N/A (no candidates)
+**Quote checks:** N/A (no candidates)
+**TEVA trail stop status:** HWM $36.99, stop $33.291 unchanged from prior session. Position +2.34% (+$11.55 unrealized) at $36.015; below +15% tighten threshold.
+**Action:** HOLD — no orders placed. TEVA position + trail stop GTC unchanged.
+**Notification:** None (no trade fired).

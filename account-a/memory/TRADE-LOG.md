@@ -197,3 +197,19 @@ Buy order ID: 87c74d60-0f98-4edf-aa7a-43ca788babe8 | Trailing stop order ID: 830
 | TEVA | 14 | $35.19 | $36.01 | -$0.33 (-0.91%) | +$11.48 (+2.33%) | $33.291 (10% trail, HWM $36.99) |
 
 **Notes:** TEVA modest pullback intraday ($36.34 → $36.01, -0.91%); trail stop HWM unchanged $36.99 (only ratchets up). Thesis intact (Q1 beat, BofA PT $42 Buy, Emalex on track). No new trades. No new TV signals overnight (latest 2026-05-06 20:01 ARKG, dispositioned ineligible). Week count 1/50. VIX ~17.4 (NORMAL, min CEO 70). Tomorrow (05/08): NET/COIN/ABNB/CRWV post-earnings reactions; April NFP print; fresh pre-market CTO signals; QCOM only if consolidates with new signal.
+
+---
+
+## May 08 — Market-Open Execution (Day 5)
+**Routine:** market-open.md | **Week trades:** 1/50 | **Open positions:** 1 (TEVA) | **VIX:** ~17.1 (NORMAL) | **Min CEO:** 70 | **Equity:** $25,011.55 | **Cash:** $24,507.34
+
+**Candidates evaluated:** None — pre-market decision = HOLD. CEO scores below 70: MCHP 62, GEN 60, FROG 57, AKAM 52 (all post-earnings extended without CTO signals); XOVR STRONG_BULL ineligible (ETF); VISA BULLISH_FLIP ticker mismatch (Visa Inc trades ~$318, webhook config issue).
+
+**Action:** No buy orders placed. TEVA position + trail stop GTC unchanged.
+
+**Open position snapshot:**
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop |
+|--------|--------|-------|---------|----------------|------|
+| TEVA | 14 | $35.19 | $36.015 | +$11.55 (+2.34%) | 10% trail / stop $33.291, HWM $36.99 |
+
+**Notes:** TEVA below +15% tighten threshold — no manual stop adjustment. Trail stop HWM unchanged $36.99 (only ratchets up). April NFP beat (115K vs 65K est) lifted S&P futures; F&G 69 (Greed) creates late-cycle entry hazard for chasing post-earnings winners. Watchlist for next session: MCHP/GEN if they consolidate AND a CTO signal arrives; QCOM only if consolidates below $175 with new signal; TEVA monitoring for +15% threshold to tighten trail to 7%.
