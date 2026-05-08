@@ -24,6 +24,28 @@ Friday reviews appended here.
 **Key Lessons:** Inaugural week (2 trading days only, Mon–Tue). System online, webhook receiver active. Account B correctly waiting for dual-indicator THT confirmation. Cannot act without signals; patience is the strategy.
 **Overall Grade: A** *(correct behavior — no signals, no action; minor underperformance is unavoidable without entry signals)*
 
+---
+
+### Week ending 2026-05-08 (Week 2)
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $25,000.00 |
+| Ending portfolio | $25,000.00 |
+| Week return | $0.00 (0.00%) |
+| S&P 500 week | +2.3% (six straight winning weeks; close 7,398.93 Fri) |
+| Bot vs S&P | −2.30% alpha |
+| Active positions | 0 |
+| Partial signals awaiting confirmation | 0 |
+| Signals expired this week | 0 |
+| THT signal accuracy to date | N/A (0 signals since inception) |
+| Trades opened this week | 0 |
+| Trades closed this week | 0 |
+
+**What Worked:** Capital preserved. Strategy discipline held — zero entries without confirmed THT dual-indicator signals. No false starts on Account A's CTO chatter.
+**What Didn't Work:** Full week in cash during a +2.3% S&P rally produced material underperformance (−2.30% alpha). Account B's TV-SIGNALS active partial signals table remained empty all week — no THT Fair Value Bands or BX Trender alerts received from the webhook.
+**Key Lessons:** Two consecutive weeks with zero THT signals received. Long-term THT signals are inherently sparse (weekly/monthly bar closes) but verify webhook routing for THT Fair Value Bands + BX Trender alerts is live and pointed at the receiver. Patience remains correct under the rules; cannot trade without dual confirmation. Flag for Ken: confirm TradingView THT alerts are configured and firing.
+**Overall Grade: A** *(correct behavior — no signals, no action; underperformance is unavoidable while awaiting first dual-indicator confirmation)*
+
 ## Template
 ### Week ending YYYY-MM-DD (Week N)
 | Metric | Value |
