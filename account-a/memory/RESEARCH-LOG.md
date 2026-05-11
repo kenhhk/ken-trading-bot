@@ -491,3 +491,33 @@ Daily pre-market research entries appended here.
 **Action taken:** None — no trades, no exits, no stop adjustments.
 **Notification:** None (no action taken per Step 7 rules).
 **Watchlist for next session:** fresh CTO signals on tradeable US stocks; MCHP/GEN if they consolidate with a new CTO signal; QCOM if consolidates below $175 with new signal; TEVA monitoring for +15% threshold to tighten trail to 7%.
+
+---
+
+### 2026-05-11 — Pre-market Research
+**Account:** Equity $25,011.62 | Cash $24,507.34 (97.98%) | BP $49,518.96 | Positions: 1 (TEVA 14 sh @ $36.02, +$11.62 / +2.36%) | Open orders: 1 (TEVA trail stop GTC) | Week trades: 0/50 (new week) | Day trades: 0
+**Market:** WTI ~$96.83 (+1% on Iran tensions, prev $95.42) | S&P futures -0.09% pre-mkt (SPX -0.12%, NDX -0.34%, RUT +0.76% post-open) | VIX 17.19 | Mode: **NORMAL** (<20) | Min CEO: 70 | Max position: 2% (~$500)
+**Sector rotation:** Leading YTD: Energy +21%, Materials +17%, Staples +15%, Industrials +12%, Tech (XLK) +15%, Defense/semis strong. Lagging: Consumer Discretionary (XLY ~flat), REITs, Utilities. Q2 flows: +$12B into tech ETFs, -$4.5B out of XLY. RUT +0.76% on open = broadening tape into small caps.
+**Catalysts:**
+- Trump rejected Iran peace proposal as "totally unacceptable" → oil +1% to $96+, war premium back in
+- Last Fri April NFP +115K beat (vs 65K est) still tailwind; secular bull thesis intact
+- INTC +5.7% (preliminary Apple chip-manufacturing deal — WSJ); MRNA +7.5% (hantavirus vax dev); MNDY +26% (Q1 beat + AI Work Platform)
+- Options-expiration week ahead: CPI Tue/Wed, PPI, retail sales Thurs, Trump China trip end of week
+**Earnings today (pre-mkt notable):** MNDY (beat +26%), MOS (miss -$0.19), CEG (rev beat +1%), CRCL (mixed +1%), POET (+14.3% ahead of 5/14 earnings). 220 reports scheduled today.
+**Economic calendar:** NAR Existing Home Sales 10:00 ET; SCE Housing Survey 11:00; CPI tomorrow 5/12 08:30 (KEY); PPI Wed; Retail Sales Thurs
+**Sentiment:** AAII bulls 38.3% (above 37.5% avg, 3rd time in 12 wks), bears 33.3%, bull-bear spread +5.4%; CNN F&G 67-68 = **Greed**; VIX 17.19 NORMAL. None of 4 contrarian-bonus conditions met (no bears>50%, F&G not <25, VIX not 35-49, no put/call >1.2 data).
+**TV signals (overnight 5/8 20:01 UTC):**
+- **PINS** BULLISH_FLIP @$21.29 — US stock, eligible; PINS reported Q1 5/8 — signal price reflects post-earnings move, binary gap risk
+- **XYLD** BULLISH_FLIP @$40.58 — Global X Covered Call ETF, **INELIGIBLE per rules** (no ETFs)
+- **BLK** STRONG_BULL @$1084.80 — US stock, but share price $1084 > 2% max position cap (~$500), **INELIGIBLE per sizing** (cannot buy 1 share within position limit)
+**CEO Scores:**
+- **TEVA** (held): macro 75, tech 70, sent 55, cong 50, CTO STRONG_BULL active (carryover) → composite 67/100 — **HOLD** (already in position; Barclays $40 OW reaffirmed 5/7, Goldman $50, avg PT $41.75/Strong Buy)
+- **PINS** (post-earnings 5/8): macro 70, tech 62 (BULLISH_FLIP just triggered post-earnings), sent 55, cong 50, CTO BULLISH_FLIP +15 → composite **69/100 — SKIP** (below 70; binary post-earnings + chase risk with F&G 67 Greed)
+- **BLK** (asset mgr STRONG_BULL): score moot — share price $1084.80 exceeds 2% max position ($500); cannot size — **INELIGIBLE/SKIP**
+- **XYLD**: ETF — **INELIGIBLE/SKIP**
+- **MNDY** (post-earnings +26% extended): macro 70, tech 45 (extreme gap, chase risk), sent 50, cong 50, no CTO → composite **53/100 — SKIP**
+- **INTC** (Apple chip deal +5.7%): macro 70, tech 60, sent 55, cong 55, no CTO → composite **60/100 — SKIP** (no CTO confirmation, binary news pop)
+**Trade ideas:** None. No candidate clears 70 threshold.
+**Risk factors:** Trump Iran rejection re-escalates war premium (oil +1%); F&G 67 Greed = late-cycle chase hazard; CPI tomorrow = key binary event for week (positioning risk); options-expiration week → elevated intraday volatility; BLK signal unactionable due to share price > max position size (recurring issue with mega-cap signals).
+**Decision:** **HOLD** — no new entries today. TEVA position + 10% trail stop GTC unchanged. Wait for CPI print Tue and CTO signals on affordable US stocks with non-binary catalysts.
+**Watchlist for next session:** PINS if it consolidates after gap and CEO re-scores ≥70 with second confirmation; INTC if Apple deal followed by CTO signal; CPI reaction Tue (favor adds if cool print + sector breadth); TEVA monitoring for +15% threshold to tighten trail to 7%; rescan for fresh CTO signals at affordable share prices.
