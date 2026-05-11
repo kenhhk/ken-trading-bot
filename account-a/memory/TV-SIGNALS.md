@@ -54,3 +54,4 @@
 | 2026-05-08 | 20:01 UTC | A | PINS | ? | BULLISH_FLIP | 21.29 | D | NEW |
 | 2026-05-08 | 20:01 UTC | A | XYLD | ? | BULLISH_FLIP | 40.58 | D | NEW |
 | 2026-05-08 | 20:01 UTC | A | BLK | ? | STRONG_BULL | 1084.8 | D | NEW |
+| 2026-05-11 | 20:01 UTC | A | QFIN | ? | STRONG_BEAR | 13.19 | D | NEW |
