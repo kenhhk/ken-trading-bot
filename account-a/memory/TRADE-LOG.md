@@ -260,3 +260,14 @@ Buy order ID: 87c74d60-0f98-4edf-aa7a-43ca788babe8 | Trailing stop order ID: 830
 | TEVA | 14 | $35.19 | $35.84 | +$9.10 (+1.847%) | 10% trail / stop $33.291, HWM $36.99 |
 
 **Notes:** TEVA intraday +$0.11 from prior close ($35.73 → $35.84, +0.31%); trail stop HWM unchanged at $36.99 (only ratchets up). Week count 0/50 (fresh week). Watchlist: CPI print Tue 5/12 08:30 ET (key binary event); PINS if consolidates after Q1 gap + re-score ≥70 with second confirmation; INTC if Apple deal followed by CTO signal; TEVA monitoring for +15% threshold to tighten trail to 7%; QFIN STRONG_BEAR logged as buy-block.
+
+---
+
+## May 11 — EOD Snapshot (Day 6) [Daily Summary]
+**Portfolio:** $25,009.11 | **Cash:** $24,507.34 (97.99%) | **Day P&L:** +$1.55 (+0.0062%) | **Phase P&L:** +$9.11 (+0.0364%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TEVA | 14 | $35.19 | $35.84 | +$0.11 (+0.31%) | +$9.11 (+1.85%) | $33.291 (10% trail, HWM $36.99) |
+
+**Notes:** No new trades today (Mon, new week — week count 0/50). TEVA modestly higher ($35.73 → $35.84 close, +0.31%); trail stop HWM unchanged at $36.99 (only ratchets up). Below +15% tighten threshold — no manual stop adjustment. Thesis intact (Q1 2026 beat reconfirmed, innovative portfolio +41% YoY, Rim Labs/Emalex $700M acquisition on track, $500M Sanofi milestone pending, analyst PTs Truist $45 / UBS-Piper-BofA $42). New TV signal today: QFIN STRONG_BEAR @ $13.19 (not held — logged as buy-block). VIX ~17.2 (NORMAL, min CEO 70). Tomorrow (05/12): CPI print 08:30 ET (key binary event — defer entries pre-print); pre-market scoring on fresh CTO signals; PINS only on consolidation + re-score ≥70 with second confirmation; INTC if Apple deal followed by CTO signal; TEVA monitoring for +15% threshold to tighten trail to 7%.
