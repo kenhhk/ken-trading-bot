@@ -242,3 +242,21 @@ Buy order ID: 87c74d60-0f98-4edf-aa7a-43ca788babe8 | Trailing stop order ID: 830
 | TEVA | 14 | $35.19 | $35.73 | -$0.28 (-0.78%) | +$7.56 (+1.54%) | $33.291 (10% trail, HWM $36.99) |
 
 **Notes:** TEVA pulled back further intraday ($36.01 prior close → $35.73 close, -0.78%); trail stop HWM unchanged $36.99 (only ratchets up). Below +15% tighten threshold — no manual stop adjustment. Thesis intact (Q1 beat reconfirmed, BofA/UBS/Piper PT $42, Truist $45, Emalex acquisition on track, $500M Sanofi milestone pending). No new trades. No new TV signals on held ticker (XOVR/VISA from 5/7 already dispositioned ineligible). Week count 1/50 — week closed. VIX ~17.1 (NORMAL, min CEO 70). Phase P&L +$7.56 (+0.030%) over 5 days vs S&P 500 baseline. Next session (Mon 05/11): pre-market scoring on fresh CTO signals; MCHP/GEN/QCOM only on consolidation + new CTO signal; TEVA monitoring for +15% threshold to tighten trail to 7%.
+
+---
+
+## May 11 — Midday Scan (Day 6)
+**Routine:** midday.md | **Positions:** 1 (TEVA) | **Open orders:** 1 (TEVA trail stop GTC) | **Week trades:** 0/50 (new week) | **Equity:** $25,009.10 | **Cash:** $24,507.34 | **VIX:** ~17.2 (NORMAL) | **Min CEO:** 70
+
+**Step 3 — Cut losers:** TEVA +1.847% (+$9.10 unrealized) — no cut.
+**Step 4 — Tighten stops:** TEVA +1.847% — below +15% threshold. No tightening. (Trail stop HWM $36.99, stop $33.291.)
+**Step 5 — Thesis check (TEVA):** INTACT. Q1 2026 beat reconfirmed (revenue ~$4B, adj EBITDA >$1B +2% YoY, non-GAAP EPS $0.53, FCF ~$200M; innovative portfolio +41% YoY). Pivot to growth strategy validated. Rim Labs Biosciences acquisition ($700M cash, neuroscience/Tourette's) integrated into pipeline; >$10B peak sales potential intact; 11 biosimilars launched targeting $800M revenue by 2027. No FDA warnings, no downgrades, no sector collapse, no negative catalyst today. No exit trigger.
+**Step 6 — TV Signals:** New signal 2026-05-11 20:01 UTC QFIN STRONG_BEAR @ $13.19 — NOT a held ticker; STRONG_BEAR blocks any QFIN buys; no exit action required. No BEARISH_FLIP/STRONG_BEAR on held ticker (TEVA). No action.
+**Notification:** None — no action taken.
+
+**Open position snapshot:**
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop |
+|--------|--------|-------|---------|----------------|------|
+| TEVA | 14 | $35.19 | $35.84 | +$9.10 (+1.847%) | 10% trail / stop $33.291, HWM $36.99 |
+
+**Notes:** TEVA intraday +$0.11 from prior close ($35.73 → $35.84, +0.31%); trail stop HWM unchanged at $36.99 (only ratchets up). Week count 0/50 (fresh week). Watchlist: CPI print Tue 5/12 08:30 ET (key binary event); PINS if consolidates after Q1 gap + re-score ≥70 with second confirmation; INTC if Apple deal followed by CTO signal; TEVA monitoring for +15% threshold to tighten trail to 7%; QFIN STRONG_BEAR logged as buy-block.

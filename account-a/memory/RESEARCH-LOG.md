@@ -521,3 +521,15 @@ Daily pre-market research entries appended here.
 **Risk factors:** Trump Iran rejection re-escalates war premium (oil +1%); F&G 67 Greed = late-cycle chase hazard; CPI tomorrow = key binary event for week (positioning risk); options-expiration week → elevated intraday volatility; BLK signal unactionable due to share price > max position size (recurring issue with mega-cap signals).
 **Decision:** **HOLD** — no new entries today. TEVA position + 10% trail stop GTC unchanged. Wait for CPI print Tue and CTO signals on affordable US stocks with non-binary catalysts.
 **Watchlist for next session:** PINS if it consolidates after gap and CEO re-scores ≥70 with second confirmation; INTC if Apple deal followed by CTO signal; CPI reaction Tue (favor adds if cool print + sector breadth); TEVA monitoring for +15% threshold to tighten trail to 7%; rescan for fresh CTO signals at affordable share prices.
+
+---
+
+### 2026-05-11 — Midday Scan
+**Account:** Equity $25,009.10 | Cash $24,507.34 | BP $49,516.44 | Positions: 1 (TEVA 14 sh) | Open orders: 1 (TEVA trail stop GTC) | Week trades: 0/50 | VIX: ~17.2 | Mode: **NORMAL** (<20) | Min CEO: 70
+**Step 3 — Cut losers:** TEVA +1.847% (+$9.10) — no cut.
+**Step 4 — Tighten stops:** TEVA +1.847% — below +15% threshold. No tightening. Trail stop HWM $36.99, stop $33.291 (10% trail).
+**Step 5 — Thesis check (TEVA):** INTACT. Q1 2026 beat reconfirmed (rev ~$4B, adj EBITDA >$1B +2% YoY, non-GAAP EPS $0.53, FCF ~$200M, innovative portfolio +41% YoY). Pivot to growth validated; Rim Labs Biosciences acquisition ($700M, neuroscience/Tourette's) integrated; >$10B peak sales potential intact; 11 biosimilars launched targeting $800M rev by 2027. No FDA warning, no downgrade, no sector collapse, no negative catalyst today. No exit trigger.
+**Step 6 — TV Signals:** New signal 2026-05-11 20:01 UTC QFIN STRONG_BEAR @ $13.19 — NOT a held ticker; STRONG_BEAR blocks any QFIN buys; no exit action required. No BEARISH_FLIP/STRONG_BEAR on TEVA. No action.
+**Action taken:** None — no trades, no exits, no stop adjustments.
+**Notification:** None (no action taken per Step 7 rules).
+**Watchlist for next session:** CPI print Tue 5/12 08:30 ET (key binary event); PINS if consolidates after Q1 gap + re-score ≥70 with second confirmation; INTC if Apple deal followed by CTO signal; TEVA monitoring for +15% threshold to tighten trail to 7%; QFIN STRONG_BEAR logged as buy-block; fresh CTO signals on affordable US stocks.
