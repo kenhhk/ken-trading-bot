@@ -291,3 +291,21 @@ Buy order ID: 87c74d60-0f98-4edf-aa7a-43ca788babe8 | Trailing stop order ID: 830
 | TEVA | 14 | $35.19 | $35.30 | +$1.54 (+0.31%) | 10% trail / stop $33.291, HWM $36.99 |
 
 **Notes:** TEVA -1.51% intraday on hot-CPI tape ($35.84 → $35.30) but still above entry; trail stop HWM unchanged $36.99 (only ratchets up). Below +15% tighten threshold ($40.47) — no manual stop adjustment. Thesis intact (Strong Buy avg PT $41.75 / +17.66% upside; defensive pharma OK in hot-CPI tape). Week count 0/50. Watchlist for midday/next session: PPI Wed 5/13 08:30 (cool = breadth bid, hot = compounded hawkishness); PINS only if reclaims $21.29 with second CTO confirmation and CEO ≥70; INTC only on pullback to $115–120 with fresh CTO signal; TEVA monitoring for +15% threshold to tighten trail to 7%; ZURVY/QFIN STRONG_BEAR logged as buy-blocks; fresh CTO signals on affordable (<$200) US common stocks.
+
+---
+
+## May 12 — Midday Scan (Day 7)
+**Routine:** midday.md | **Positions:** 1 (TEVA) | **Open orders:** 1 (TEVA trail stop GTC) | **Week trades:** 0/50 | **Equity:** $25,008.68 | **Cash:** $24,507.34 | **BP:** $49,516.02 | **VIX:** ~18.4 (NORMAL <20) | **Min CEO:** 70
+
+**Step 3 — Cut losers:** TEVA +1.762% (+$8.68 unrealized) — no cut.
+**Step 4 — Tighten stops:** TEVA +1.762% — below +15% threshold ($40.47). No tightening. (Trail stop HWM $36.99, stop $33.291.)
+**Step 5 — Thesis check (TEVA):** INTACT. Perplexity scan confirms no negative catalysts, no FDA actions, no downgrades, no thesis-breaking developments today (5/12). Q1 2026 beat narrative (rev ~$4B, innovative portfolio +41% YoY, post-earnings +75% rally) intact; Strong Buy avg PT $41.75 / +17.66% upside; defensive pharma OK on hot-CPI tape. No exit trigger.
+**Step 6 — TV Signals:** New signal 2026-05-12 20:01 UTC PG STRONG_BEAR @ $143.93 — NOT a held ticker; STRONG_BEAR blocks any PG buys (logged as buy-block); no exit action required. No BEARISH_FLIP/STRONG_BEAR on held ticker (TEVA). No action.
+**Notification:** None — no action taken.
+
+**Open position snapshot:**
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop |
+|--------|--------|-------|---------|----------------|------|
+| TEVA | 14 | $35.19 | $35.81 | +$8.68 (+1.762%) | 10% trail / stop $33.291, HWM $36.99 |
+
+**Notes:** TEVA recovered from market-open low ($35.30 → $35.81 midday, +1.44% intraday rebound) on defensive bid amid hot-CPI tape; trail stop HWM unchanged $36.99 (only ratchets up). Week count 0/50. VIX 18.4 (NORMAL, min CEO 70). Watchlist for next session: PPI print Wed 5/13 08:30 ET (cool = breadth bid, hot = compounded hawkishness); PINS only on reclaim $21.29 + second CTO confirmation + CEO ≥70; INTC only on pullback to $115–120 + fresh CTO signal; TEVA monitoring for +15% threshold ($40.47) to tighten trail to 7%; PG/QFIN/ZURVY STRONG_BEAR logged as buy-blocks; fresh CTO signals on affordable (<$200) US common stocks.

@@ -563,3 +563,16 @@ Daily pre-market research entries appended here.
 **Risk factors:** Hot CPI = repricing of Fed cut expectations (hawkish); VIX +7% rising; oil $101+ + Hormuz closure = sustained inflation pressure; F&G 66 Greed + AAII bulls above avg = late-cycle chase hazard on extended winners (INTC); PPI Wed + Retail Sales Thurs = back-to-back binary macro prints; PINS lawsuit overhang; TV signal flow weighted to ineligible (ETFs/mega-cap/OTC).
 **Decision:** **HOLD** — no new entries today. TEVA position + 10% trail stop GTC unchanged. Hot CPI + rising VIX + extended winners on Greed sentiment = unfavorable entry tape. Wait for PPI Wed and CTO signals on affordable, non-extended US stocks.
 **Watchlist for next session:** PPI Wed 5/13 08:30 (cool print = breadth bid, hot print = compounded hawkishness); Retail Sales Thurs 5/14; PINS only if it reclaims $21.29 with a SECOND CTO confirmation and CEO ≥70; INTC only on a pullback to $115–120 with a fresh CTO signal; TEVA monitoring for +15% threshold ($40.47) to tighten trail to 7%; fresh CTO signals on affordable (<$200 share) US common stocks; ZURVY/QFIN STRONG_BEAR logged as buy-blocks.
+
+---
+
+### 2026-05-12 — Midday Scan
+**Account:** Equity $25,008.68 | Cash $24,507.34 (97.998%) | BP $49,516.02 | Positions: 1 (TEVA 14 sh @ $35.81, +$8.68 / +1.762%) | Open orders: 1 (TEVA trail stop GTC) | Week trades: 0/50 | VIX: ~18.4 | Mode: **NORMAL** (<20) | Min CEO: 70
+**Step 3 — Cut losers:** TEVA +1.762% (+$8.68) — no cut.
+**Step 4 — Tighten stops:** TEVA +1.762% — below +15% threshold ($40.47). No tightening. Trail stop HWM $36.99, stop $33.291 (10% trail).
+**Step 5 — Thesis check (TEVA):** INTACT. Perplexity confirms no negative catalysts, no FDA actions, no downgrades on 5/12. Q1 2026 beat narrative reconfirmed; Strong Buy avg PT $41.75 / +17.66% upside; defensive pharma bid on hot-CPI tape favors TEVA. No FDA warning, no sector collapse. No exit trigger.
+**Step 6 — TV Signals:** New signal 2026-05-12 20:01 UTC PG STRONG_BEAR @ $143.93 — NOT a held ticker; STRONG_BEAR blocks any PG buys (logged as buy-block); no exit action required. No BEARISH_FLIP/STRONG_BEAR on held ticker (TEVA). No action.
+**Action taken:** None — no trades, no exits, no stop adjustments.
+**Notification:** None (no action taken per Step 7 rules).
+**Intraday tape:** TEVA recovered $35.30 mkt-open low → $35.81 midday (+1.44% intraday) on defensive pharma bid amid hot-CPI hawkish tape. VIX 18.4 (rising but still NORMAL). PPI Wed 5/13 08:30 is the next binary macro print.
+**Watchlist for next session:** PPI print Wed 5/13 08:30 ET (cool = breadth bid, hot = compounded hawkishness); Retail Sales Thurs 5/14; PINS only on reclaim $21.29 + second CTO confirmation + CEO ≥70; INTC only on pullback to $115–120 + fresh CTO signal; TEVA monitoring for +15% threshold ($40.47) to tighten trail to 7%; PG/QFIN/ZURVY STRONG_BEAR logged as buy-blocks; fresh CTO signals on affordable (<$200) US common stocks.
