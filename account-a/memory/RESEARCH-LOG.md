@@ -533,3 +533,33 @@ Daily pre-market research entries appended here.
 **Action taken:** None — no trades, no exits, no stop adjustments.
 **Notification:** None (no action taken per Step 7 rules).
 **Watchlist for next session:** CPI print Tue 5/12 08:30 ET (key binary event); PINS if consolidates after Q1 gap + re-score ≥70 with second confirmation; INTC if Apple deal followed by CTO signal; TEVA monitoring for +15% threshold to tighten trail to 7%; QFIN STRONG_BEAR logged as buy-block; fresh CTO signals on affordable US stocks.
+
+---
+
+### 2026-05-12 — Pre-market Research
+**Account:** Equity $24,999.51 | Cash $24,507.34 (98.03%) | BP $49,506.85 | Positions: 1 (TEVA 14 sh @ $35.155, -$0.49 / -0.099%) | Open orders: 1 (TEVA trail stop GTC) | Week trades: 0/50 | Day trades: 0
+**Market:** WTI ~$101.35 (+3% Mon, war premium, Hormuz effectively closed) | S&P futures DOWN pre-CPI / fell post-print (NDX -0.8%, SPX -0.5%, Dow -0.4%) | VIX 18.41 (+7.1% intraday) | Mode: **NORMAL** (<20) | Min CEO: 70 | Max position: 2% (~$500)
+**Sector rotation:** Leading YTD: Energy +21% (oil tailwind), Materials +17%, Staples +15%, Industrials +11–12%, Tech (XLK) up but mixed on hot CPI. Lagging: Consumer Discretionary, REITs, Utilities. Q2 flows: +$12B into tech ETFs, -$4.5B out of XLY. Today's CPI rotation: defensives + energy bid, growth/megacap tech sold.
+**Catalysts:**
+- **April CPI HOT** (released 08:30 ET today): +0.6% MoM headline, +3.8% YoY (largest since May 2023); core +0.4% MoM (vs +0.3% est), +2.8% YoY — hawkish for Fed, energy 40% of monthly increase
+- Iran/Strait of Hormuz still effectively closed; Trump rejected ceasefire; WTI $101+
+- Big movers: PLUG +11% (Q4 profit progress), HIMS -14% (Q1 surprise loss, GLP-1 pivot), QUBT +27% (rev jump), JD +2.2% pre-mkt (Q1 beat)
+- INTC ~$130–150 (+175% YTD, +6% pre-mkt Mon on Apple foundry deal); SK Hynix talks add second potential foundry customer
+**Earnings today (188 reports scheduled):** Pre-mkt: JD (beat), QBTS, LAAC, TME. After hrs: cyber/SaaS mid-cap cluster.
+**Economic calendar:** **CPI 08:30 ET — DONE, HOT**; PPI Wed 5/13 08:30; Retail Sales Thurs 5/14 08:30; Trump China trip end of week
+**Sentiment:** AAII bulls 38.3% (above 37.5% avg, 3rd time in 12 wks), bears 33.3%, neutral 28.7% (bears -6.7 pp); CNN F&G **66 (Greed)**; VIX 18.41 NORMAL but rising. **None of 4 contrarian-bonus conditions met** (no bears>50%, F&G not <25, VIX not 35–49, no put/call >1.2 data).
+**TV signals (overnight 5/11 20:16 UTC):**
+- **GLO** BULLISH_FLIP @$0.83 — Clough Global Opportunities Fund (closed-end fund / ETF-like); **INELIGIBLE per rules** (no ETFs); penny price irrelevant
+- **ZURVY** STRONG_BEAR @$35.07 — Zurich Insurance OTCMKTS ADR; OTC/foreign, low liquidity; STRONG_BEAR also blocks any buys; **INELIGIBLE/SKIP**
+- Carryovers still active: PINS BULLISH_FLIP 5/8 (now $20.62, broke below signal), BLK STRONG_BULL 5/8 (still $1000+ share price → exceeds 2% cap), QFIN STRONG_BEAR 5/11 (buy-block in place)
+**CEO Scores:**
+- **TEVA** (held): macro 65, tech 60 (-1.9% intraday on hot CPI day), sent 55, cong 50, CTO STRONG_BULL active (carryover) → composite **64/100 — HOLD** (already in position; thesis intact, Strong Buy avg PT $41.75 / +17.66% upside; defensive pharma OK in hot-CPI tape)
+- **PINS** (post-earnings, now consolidating below signal): macro 60, tech 55 ($20.62 < $21.29 signal level, broken support), sent 50 (class action lawsuit overhang, deadline 5/29), cong 50, CTO BULLISH_FLIP +15 → composite **62/100 — SKIP** (signal level broken; lawsuit overhang; hot CPI day not entry-friendly)
+- **INTC** (Apple foundry deal, +175% YTD): macro 60, tech 55 (extended +175%, late-cycle chase), sent 60, cong 55, no CTO signal → composite **58/100 — SKIP** (no CTO confirmation; chase risk extreme; 3-share max within 2% cap = poor expected utility)
+- **BLK** (STRONG_BULL carryover): share price >$1000 exceeds 2% max position ($500) — **INELIGIBLE/SKIP** (sizing constraint)
+- **GLO**: ETF/CEF — **INELIGIBLE/SKIP**
+- **ZURVY**: OTC foreign ADR + STRONG_BEAR — **INELIGIBLE/SKIP** (buy-block)
+**Trade ideas:** None. No candidate clears 70 threshold on a hot-CPI / hawkish-tape day.
+**Risk factors:** Hot CPI = repricing of Fed cut expectations (hawkish); VIX +7% rising; oil $101+ + Hormuz closure = sustained inflation pressure; F&G 66 Greed + AAII bulls above avg = late-cycle chase hazard on extended winners (INTC); PPI Wed + Retail Sales Thurs = back-to-back binary macro prints; PINS lawsuit overhang; TV signal flow weighted to ineligible (ETFs/mega-cap/OTC).
+**Decision:** **HOLD** — no new entries today. TEVA position + 10% trail stop GTC unchanged. Hot CPI + rising VIX + extended winners on Greed sentiment = unfavorable entry tape. Wait for PPI Wed and CTO signals on affordable, non-extended US stocks.
+**Watchlist for next session:** PPI Wed 5/13 08:30 (cool print = breadth bid, hot print = compounded hawkishness); Retail Sales Thurs 5/14; PINS only if it reclaims $21.29 with a SECOND CTO confirmation and CEO ≥70; INTC only on a pullback to $115–120 with a fresh CTO signal; TEVA monitoring for +15% threshold ($40.47) to tighten trail to 7%; fresh CTO signals on affordable (<$200 share) US common stocks; ZURVY/QFIN STRONG_BEAR logged as buy-blocks.
