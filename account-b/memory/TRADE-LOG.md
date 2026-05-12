@@ -69,5 +69,14 @@ No positions. Bot launching. Baseline set.
 **Action:** No trades. No HIGH CONVICTION BUY candidates — Active Partial Signals table for Account B is empty. THT dual-indicator confirmation required (both within 30 days). Continuing to wait.
 
 ---
+
+### 2026-05-12 — EOD Snapshot
+**Portfolio:** $25,000.00 | **Cash:** $25,000.00 | **Day P&L:** +$0.00 (+0.00%) | **Phase P&L:** +$0.00 (+0.00%)
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop |
+|--------|--------|-------|---------|----------------|------|
+| — | — | — | — | — | — |
+**Notes:** No open positions. No pending THT signals (Active Partial Signals table empty). Account B fully in cash. Awaiting first dual-indicator confirmation (both THT indicators within 30 days) before any entry.
+
+---
 *Format for each trade entry:*
 *Date | Ticker | Side | Shares | Entry | Stop | Target | Indicator Combo | CEO Score*
