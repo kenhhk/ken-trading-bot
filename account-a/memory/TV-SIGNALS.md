@@ -57,3 +57,4 @@
 | 2026-05-11 | 20:01 UTC | A | QFIN | CTO Line | STRONG_BEAR | 13.19 | D | EVALUATED 2026-05-11 midday — not a held ticker; STRONG_BEAR blocks buys per signal ref; no exit action required |
 | 2026-05-11 | 20:16 UTC | A | GLO | ? | BULLISH_FLIP | 0.83 | D | NEW |
 | 2026-05-11 | 20:16 UTC | A | ZURVY | ? | STRONG_BEAR | 35.07 | D | NEW |
+| 2026-05-12 | 20:01 UTC | A | PG | ? | STRONG_BEAR | 143.93 | D | NEW |
