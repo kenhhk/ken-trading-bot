@@ -271,3 +271,23 @@ Buy order ID: 87c74d60-0f98-4edf-aa7a-43ca788babe8 | Trailing stop order ID: 830
 | TEVA | 14 | $35.19 | $35.84 | +$0.11 (+0.31%) | +$9.11 (+1.85%) | $33.291 (10% trail, HWM $36.99) |
 
 **Notes:** No new trades today (Mon, new week — week count 0/50). TEVA modestly higher ($35.73 → $35.84 close, +0.31%); trail stop HWM unchanged at $36.99 (only ratchets up). Below +15% tighten threshold — no manual stop adjustment. Thesis intact (Q1 2026 beat reconfirmed, innovative portfolio +41% YoY, Rim Labs/Emalex $700M acquisition on track, $500M Sanofi milestone pending, analyst PTs Truist $45 / UBS-Piper-BofA $42). New TV signal today: QFIN STRONG_BEAR @ $13.19 (not held — logged as buy-block). VIX ~17.2 (NORMAL, min CEO 70). Tomorrow (05/12): CPI print 08:30 ET (key binary event — defer entries pre-print); pre-market scoring on fresh CTO signals; PINS only on consolidation + re-score ≥70 with second confirmation; INTC if Apple deal followed by CTO signal; TEVA monitoring for +15% threshold to tighten trail to 7%.
+
+---
+
+## May 12 — Market-Open Execution (Day 7)
+**Routine:** market-open.md | **Week trades:** 0/50 | **Open positions:** 1 (TEVA) | **VIX:** 18.41 rising (NORMAL <20) | **Min CEO:** 70 | **Equity:** $25,001.54 | **Cash:** $24,507.34 | **BP:** $49,508.88
+
+**Candidates evaluated:** None cleared 70 threshold per pre-market RESEARCH-LOG. TEVA (held) 64; PINS 62 (signal level broken, lawsuit overhang); INTC 58 (no CTO, +175% YTD chase risk); BLK (STRONG_BULL carryover) ineligible — $1000+ share exceeds 2% cap ($500); GLO ETF/CEF ineligible; ZURVY OTC ADR + STRONG_BEAR ineligible.
+
+**Macro tape:** April CPI HOT (+0.6% MoM / +3.8% YoY headline, core +0.4% MoM / +2.8% YoY — biggest headline since May 2023, energy 40% of monthly increase); S&P futures fell post-print (NDX -0.8%, SPX -0.5%); VIX +7.1% intraday to 18.41 (rising but still NORMAL); WTI $101+ on Hormuz closure; defensives + energy bid, growth/megacap tech sold.
+
+**Buy-side gate result:** No candidates passed CEO ≥70 threshold; macro tape (hot CPI + rising VIX + extended winners on F&G 66 Greed) unfavorable for entries; PPI Wed 5/13 + Retail Sales Thurs 5/14 = back-to-back binary prints ahead. No buy orders placed.
+
+**Action:** No buy orders placed. TEVA position + 10% trail stop GTC unchanged.
+
+**Open position snapshot:**
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop |
+|--------|--------|-------|---------|----------------|------|
+| TEVA | 14 | $35.19 | $35.30 | +$1.54 (+0.31%) | 10% trail / stop $33.291, HWM $36.99 |
+
+**Notes:** TEVA -1.51% intraday on hot-CPI tape ($35.84 → $35.30) but still above entry; trail stop HWM unchanged $36.99 (only ratchets up). Below +15% tighten threshold ($40.47) — no manual stop adjustment. Thesis intact (Strong Buy avg PT $41.75 / +17.66% upside; defensive pharma OK in hot-CPI tape). Week count 0/50. Watchlist for midday/next session: PPI Wed 5/13 08:30 (cool = breadth bid, hot = compounded hawkishness); PINS only if reclaims $21.29 with second CTO confirmation and CEO ≥70; INTC only on pullback to $115–120 with fresh CTO signal; TEVA monitoring for +15% threshold to tighten trail to 7%; ZURVY/QFIN STRONG_BEAR logged as buy-blocks; fresh CTO signals on affordable (<$200) US common stocks.
