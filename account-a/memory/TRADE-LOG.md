@@ -309,3 +309,14 @@ Buy order ID: 87c74d60-0f98-4edf-aa7a-43ca788babe8 | Trailing stop order ID: 830
 | TEVA | 14 | $35.19 | $35.81 | +$8.68 (+1.762%) | 10% trail / stop $33.291, HWM $36.99 |
 
 **Notes:** TEVA recovered from market-open low ($35.30 → $35.81 midday, +1.44% intraday rebound) on defensive bid amid hot-CPI tape; trail stop HWM unchanged $36.99 (only ratchets up). Week count 0/50. VIX 18.4 (NORMAL, min CEO 70). Watchlist for next session: PPI print Wed 5/13 08:30 ET (cool = breadth bid, hot = compounded hawkishness); PINS only on reclaim $21.29 + second CTO confirmation + CEO ≥70; INTC only on pullback to $115–120 + fresh CTO signal; TEVA monitoring for +15% threshold ($40.47) to tighten trail to 7%; PG/QFIN/ZURVY STRONG_BEAR logged as buy-blocks; fresh CTO signals on affordable (<$200) US common stocks.
+
+---
+
+## May 12 — EOD Snapshot (Day 7) [Daily Summary]
+**Portfolio:** $25,008.68 | **Cash:** $24,507.34 (97.997%) | **Day P&L:** -$0.43 (-0.0017%) | **Phase P&L:** +$8.68 (+0.0347%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TEVA | 14 | $35.19 | $35.81 | -$0.03 (-0.084%) | +$8.68 (+1.762%) | $33.291 (10% trail, HWM $36.99) |
+
+**Notes:** No new trades today. TEVA essentially flat on close (-$0.03 / -0.084% vs $35.84 prior); intraday recovered from CPI-print open low ($35.30 → $35.81 close, +1.44%) on defensive pharma bid amid hot-CPI tape. Trail stop HWM unchanged $36.99 (only ratchets up). Below +15% tighten threshold ($40.47) — no manual stop adjustment. Thesis intact (Q1 2026 beat, innovative portfolio +41% YoY, Rim Labs/Emalex $700M acquisition, $500M Sanofi milestone pending, Strong Buy avg PT $41.75 / +17.66% upside). New TV signal today: PG STRONG_BEAR @ $143.93 (not held — logged as buy-block alongside QFIN/ZURVY). Week count 0/50. VIX 18.41 rising but NORMAL (<20, min CEO 70). Buy-side gate held all session — hot CPI (+0.6% MoM headline) + rising VIX + F&G 66 Greed + back-to-back PPI/Retail Sales prints Wed/Thurs argue defer entries. Phase P&L +$8.68 (+0.0347%) over 7 sessions. Tomorrow (05/13): PPI 08:30 ET (key binary — cool = breadth bid, hot = compounded hawkishness, defer entries pre-print); pre-market scoring on fresh CTO signals; PINS only on reclaim $21.29 + second CTO confirmation + CEO ≥70; INTC only on pullback to $115–120 + fresh CTO signal; TEVA monitoring for +15% threshold ($40.47) to tighten trail to 7%; PG/QFIN/ZURVY STRONG_BEAR logged as buy-blocks.
