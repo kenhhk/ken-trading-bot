@@ -355,4 +355,22 @@ Buy order ID: 87c74d60-0f98-4edf-aa7a-43ca788babe8 | Trailing stop order ID: 830
 
 **Notification:** None (no trade fired per Step 8 rules).
 
+---
+
+## May 13 — Midday Scan (Day 8)
+**Routine:** midday.md | **Positions:** 1 (TEVA) | **Open orders:** 1 (TEVA trail stop GTC) | **Week trades:** 0/50 | **Equity:** $25,014.84 | **Cash:** $24,507.34 | **BP:** $49,522.18 | **VIX:** ~18.1 (NORMAL <20) | **Min CEO:** 70
+
+**Step 3 — Cut losers:** TEVA +3.012% (+$14.84 unrealized) — no cut.
+**Step 4 — Tighten stops:** TEVA +3.012% — below +15% threshold ($40.47). No tightening. (Trail stop HWM $36.99, stop $33.291.)
+**Step 5 — Thesis check (TEVA):** INTACT. Perplexity scan finds no fresh negative catalysts today (5/13) — no FDA actions, no lawsuits, no sector downgrades. The "guidance disappointment" cited is from January 2026 (FY2026 guide $16.4–$16.8B), already priced in months ago. Recent bullish signals: Barclays PT raised to $40 (5/8); Piper Sandler Overweight reiterated (5/3); Q4 2025 rev $4.7B (+11% YoY, 9% above est, $500M Sanofi milestone); innovative portfolio >$1B quarterly; Emalex $700M acquisition on track; ~$10B late-stage immunology/neurology pipeline. No exit trigger.
+**Step 6 — TV Signals:** Two new signals today — (a) 2026-05-13 20:01 UTC VSEC STRONG_BEAR @ $180.41 (NOT held; STRONG_BEAR blocks any VSEC buys; logged as buy-block); (b) 2026-05-13 20:16 UTC CSU STRONG_BEAR @ $2467.53 (non-US ticker — likely Constellation Software TSX; share price >$2400 also exceeds 2% cap; INELIGIBLE; STRONG_BEAR blocks buys regardless). No BEARISH_FLIP/STRONG_BEAR on held ticker (TEVA). No exit action.
+**Notification:** None — no action taken.
+
+**Open position snapshot:**
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop |
+|--------|--------|-------|---------|----------------|------|
+| TEVA | 14 | $35.19 | $36.25 | +$14.84 (+3.012%) | 10% trail / stop $33.291, HWM $36.99 |
+
+**Notes:** TEVA continued higher into midday ($35.90 mkt-open → $36.25, +0.97% intraday on +$0.44 vs prior close $35.81); trail stop HWM unchanged $36.99 (only ratchets up — current price below HWM, so no ratchet). Week count 0/50. VIX ~18.1 (NORMAL, min CEO 70). Watchlist for next session: Retail Sales print Thurs 5/14 08:30 ET (key binary); Trump-Xi summit 5/14–15 (binary geopolitical); PINS only on reclaim $21.29 + second CTO confirmation + CEO ≥70; INTC only on pullback to $115–120 + fresh CTO signal; TEVA monitoring for +15% threshold ($40.47) to tighten trail to 7%; PG/QFIN/ZURVY/VSEC/CSU STRONG_BEAR logged as buy-blocks (CSU also non-US/non-US-sized); fresh CTO signals on affordable (<$200) US common stocks in leading sectors (energy/industrials/staples).
+
 **Notes:** Week count 0/50 (mid-week). TEVA bid +0.977% intraday on defensive rotation amid hot-PPI hawkish tape. Watchlist: Retail Sales Thurs 5/14 08:30 ET (next macro print); PINS only on reclaim $21.29 + second CTO confirmation + CEO ≥70; INTC only on pullback $115–120 + fresh CTO signal; TEVA monitoring for +15% threshold ($40.47) to tighten trail to 7%; PG/QFIN/ZURVY STRONG_BEAR logged as buy-blocks; SOLUSD crypto signal flagged as INELIGIBLE; fresh CTO signals needed on affordable (<$200) US common stocks in leading sectors (energy/industrials/staples).
