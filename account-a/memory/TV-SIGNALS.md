@@ -59,3 +59,4 @@
 | 2026-05-11 | 20:16 UTC | A | ZURVY | ? | STRONG_BEAR | 35.07 | D | NEW |
 | 2026-05-12 | 20:01 UTC | A | PG | ? | STRONG_BEAR | 143.93 | D | EVALUATED 2026-05-12 midday — not a held ticker; STRONG_BEAR blocks any PG buys per signal ref; no exit action required |
 | 2026-05-13 | 00:00 UTC | A | SOLUSD | ? | BULLISH_FLIP | 94.27 | D | NEW |
+| 2026-05-13 | 20:01 UTC | A | VSEC | ? | STRONG_BEAR | 180.41 | D | NEW |
