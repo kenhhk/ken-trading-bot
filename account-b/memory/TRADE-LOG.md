@@ -90,5 +90,14 @@ No positions. Bot launching. Baseline set.
 **Action:** No held tickers — STEP 3 (-15% cuts), STEP 4 (dual BEAR check), STEP 5 (thesis spot-check) all no-op. Active Partial Signals table empty. Awaiting first THT dual-indicator confirmation.
 
 ---
+
+### 2026-05-13 — EOD Snapshot
+**Portfolio:** $25,000.00 | **Cash:** $25,000.00 | **Day P&L:** +$0.00 (+0.00%) | **Phase P&L:** +$0.00 (+0.00%)
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop |
+|--------|--------|-------|---------|----------------|------|
+| — | — | — | — | — | — |
+**Notes:** No open positions. No pending THT signals (Active Partial Signals table empty). Account B fully in cash. Awaiting first dual-indicator confirmation (both THT indicators within 30 days) before any entry.
+
+---
 *Format for each trade entry:*
 *Date | Ticker | Side | Shares | Entry | Stop | Target | Indicator Combo | CEO Score*
