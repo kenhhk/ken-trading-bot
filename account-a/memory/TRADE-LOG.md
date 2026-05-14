@@ -419,3 +419,14 @@ Buy order ID: 87c74d60-0f98-4edf-aa7a-43ca788babe8 | Trailing stop order ID: 830
 | TEVA | 14 | $35.19 | $35.34 | +$2.10 (+0.426%) | 10% trail / stop $33.291, HWM $36.99 |
 
 **Notification:** None (no trade fired per Step 8 rules).
+
+---
+
+## May 14 — EOD Snapshot (Day 9) [Daily Summary]
+**Portfolio:** $25,000.84 | **Cash:** $24,507.34 (98.026%) | **Day P&L:** -$11.17 (-0.0447%) | **Phase P&L:** +$0.84 (+0.0034%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TEVA | 14 | $35.19 | $35.25 | -$1.00 (-2.759%) | +$0.84 (+0.171%) | $33.291 (10% trail, HWM $36.99) |
+
+**Notes:** No new trades today (Thu, week count 0/50). TEVA sold off intraday ($36.25 prior → $35.25 close, -2.759%) on hot-Retail-Sales hawkish tape + Trump-Xi summit binary risk + sector rotation out of healthcare/defensives back to energy/industrials; still +$0.84 above entry. Trail stop HWM unchanged at $36.99 (only ratchets up — close well below HWM, no ratchet). Below +15% tighten threshold ($40.47) — no manual stop adjustment. Stop $33.291 (5.55% buffer to current) intact. Thesis intact (Q1 2026 beat narrative, Goldman PT $50, JPM/Barclays $40, 12/13 Buy/Strong Buy ratings, Austedo Q1 +41% YoY = $578M, Rim Labs/Emalex $700M acquisition on track, $500M Sanofi milestone pending). Webhook signal received 2026-05-14T20:16 logged in TV-SIGNALS but no exit trigger on held ticker (TEVA). Week count 0/50. VIX ~18.0 (NORMAL <20, min CEO 70). Buy-side gate held all session — hot Retail Sales overhang + binary Trump-Xi summit underway + sector rotation against tech/cons-disc signal candidates (PTON/NET) + aging CTO signals + F&G 66 Greed + SPX record-extension = unfavorable entry tape. Phase P&L +$0.84 (+0.0034%) over 9 sessions — flat to baseline, capital preservation mode validated. Tomorrow (05/15): Trump-Xi summit Day 2 (binary geopolitical close); pre-market scoring on fresh CTO signals; PINS only on reclaim $21.29 + second CTO confirmation + CEO ≥70; INTC only on pullback to $115–120 + fresh CTO signal; TEVA monitoring for +15% threshold ($40.47) to tighten trail to 7%; PG/QFIN/ZURVY/VSEC/CSU STRONG_BEAR logged as buy-blocks; watching for fresh CTO STRONG_BULL/BULLISH_FLIP on US common stocks <$200 in leading sectors (energy/industrials/staples/materials).
