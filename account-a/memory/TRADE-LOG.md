@@ -385,3 +385,37 @@ Buy order ID: 87c74d60-0f98-4edf-aa7a-43ca788babe8 | Trailing stop order ID: 830
 | TEVA | 14 | $35.19 | $36.05 | +$0.24 (+0.66%) | +$12.01 (+2.437%) | $33.291 (10% trail, HWM $36.99) |
 
 **Notes:** No new trades today (Wed, week count 0/50). TEVA modestly higher into close ($35.81 prior → $36.05 close, +0.66%); trail stop HWM unchanged at $36.99 (only ratchets up — close below HWM, no ratchet). Below +15% tighten threshold ($40.47) — no manual stop adjustment. Thesis intact (Q1 2026 beat, innovative portfolio +41% YoY, Rim Labs/Emalex $700M acquisition on track, $500M Sanofi milestone pending, Strong Buy avg PT $41.75 / +17.66% upside; Barclays PT raised to $40 on 5/8). New TV signals today: VSEC STRONG_BEAR @ $180.41 and CSU STRONG_BEAR @ $2467.53 (CSU non-US/exceeds 2% cap regardless; both logged as buy-blocks alongside PG/QFIN/ZURVY). Week count 0/50. VIX ~18.1 (NORMAL <20, min CEO 70). Buy-side gate held all session — hot-PPI hawkish tape + sector rotation against tech/cons-disc + aging CTO signals + F&G 66 Greed + binary Trump-Xi summit overnight (5/14–15) = unfavorable entry tape. Phase P&L +$12.01 (+0.0480%) over 8 sessions. Tomorrow (05/14): Retail Sales 08:30 ET (key binary print); Trump-Xi summit underway 5/14–15 (binary geopolitical); pre-market scoring on fresh CTO signals; PINS only on reclaim $21.29 + second CTO confirmation + CEO ≥70; INTC only on pullback to $115–120 + fresh CTO signal; TEVA monitoring for +15% threshold ($40.47) to tighten trail to 7%; PG/QFIN/ZURVY/VSEC/CSU STRONG_BEAR logged as buy-blocks.
+
+---
+
+## May 14 — Market-Open Execution (Day 9)
+**Routine:** market-open.md | **Week trades:** 0/50 | **Open positions:** 1 (TEVA) | **VIX:** ~18.0 (NORMAL <20) | **Min CEO:** 70 | **Equity:** $25,002.10 | **Cash:** $24,507.34 (98.02%) | **BP:** $49,509.44 | **Day trades:** 0
+
+**Candidates evaluated (pre-market RESEARCH-LOG 2026-05-14):** None cleared CEO ≥70 threshold.
+- **PTON** (CTO STRONG_BULL 5/5, aged 10d): 59/100 — cons-disc lagging sector, oil $101 consumer headwind, aged signal. SKIP.
+- **NET** (CTO STRONG_BULL 5/5, aged 10d): 62/100 — tech sector lagging YTD -3%, aging signal, $244 share = inefficient sizing at 2% cap, F&G Greed chase risk. SKIP.
+- **PINS** (BULLISH_FLIP 5/8, aged 7d): below signal level $21.29, lawsuit overhang. SKIP (no reclaim, no second confirm).
+- **TEVA** (held, re-validate): 73/100 with CTO STRONG_BULL aged +5 — thesis intact (Goldman PT $50, JPM/Barclays $40, 12/13 Buy/Strong Buy; Austedo Q1 +41% YoY = $578M), sized at 2% already, no new buy.
+- **INTC**: 58/100 — no CTO signal, +175% YTD chase risk. SKIP.
+- **BLK** (STRONG_BULL 5/8): $1084.80 exceeds 2% cap. INELIGIBLE per sizing.
+- **DXYZ/XOVR/XYLD/GLO/ARKG**: ETF/CEF. INELIGIBLE per rules.
+- **VISA**: webhook config mismatch ($29.52 ≠ V ~$300). SKIP.
+- **ZURVY/QFIN/PG/VSEC/CSU**: STRONG_BEAR — buy-blocks (none held; CSU also non-US/>cap).
+- **SOLUSD** (5/13 BULLISH_FLIP @ $94.27): crypto. INELIGIBLE per rules.
+- **No fresh CTO STRONG_BULL/BULLISH_FLIP overnight** on US common stocks <$200 in leading sectors (energy/industrials/staples/materials).
+
+**Macro tape:** Retail Sales April 08:30 ET (key binary print — hot = compounded hawkish post-PPI, cool = breadth bid). Hot April PPI overhang (+1.4% MoM headline, 10-mo high Treasury yields). Trump-Xi summit 5/14–15 underway (binary geopolitical with AI/EV/Apple-China crosscurrents — Huang/Musk/Cook accompanying). WTI $101.54 on Hormuz risk. SPX at record close 5/13. Sector rotation OUT of tech/cons-disc INTO energy/industrials/staples continues.
+
+**Buy-side gate result:** No candidates passed CEO ≥70 threshold; hot-PPI hawkish tape + binary Retail Sales 08:30 ET + binary Trump-Xi summit live + sector rotation against tech/cons-disc signal candidates (PTON/NET) + aging CTO signals + F&G 66 Greed + SPX record-extension = unfavorable entry tape. No buy orders placed.
+
+**Quote checks:** N/A (no candidates eligible).
+**TEVA trail stop status:** HWM $36.99, stop $33.291 unchanged. Position +0.426% (+$2.10 unrealized) at $35.34 (down -2.51% intraday from $36.25 prior close, still above entry $35.19); below +15% tighten threshold ($40.47); no manual stop adjustment per rules (market-open routine does not modify stops).
+
+**Action:** HOLD — no orders placed. TEVA position + 10% trail stop GTC unchanged.
+
+**Open position snapshot:**
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop |
+|--------|--------|-------|---------|----------------|------|
+| TEVA | 14 | $35.19 | $35.34 | +$2.10 (+0.426%) | 10% trail / stop $33.291, HWM $36.99 |
+
+**Notification:** None (no trade fired per Step 8 rules).
