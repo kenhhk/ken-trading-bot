@@ -61,3 +61,4 @@
 | 2026-05-13 | 00:00 UTC | A | SOLUSD | ? | BULLISH_FLIP | 94.27 | D | NEW |
 | 2026-05-13 | 20:01 UTC | A | VSEC | ? | STRONG_BEAR | 180.41 | D | EVALUATED 2026-05-13 midday — not a held ticker; STRONG_BEAR blocks any VSEC buys per signal ref; no exit action required |
 | 2026-05-13 | 20:16 UTC | A | CSU | ? | STRONG_BEAR | 2467.53 | D | EVALUATED 2026-05-13 midday — non-US ticker (likely Constellation Software TSX, share >$2400 also exceeds 2% cap $500); INELIGIBLE; STRONG_BEAR blocks buys regardless; no exit action required |
+| 2026-05-14 | 20:01 UTC | A | DUOL | ? | STRONG_BEAR | 109.06 | D | NEW |
