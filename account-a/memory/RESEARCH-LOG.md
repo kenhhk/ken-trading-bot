@@ -623,3 +623,40 @@ Daily pre-market research entries appended here.
 **Intraday tape:** TEVA $35.90 mkt-open → $36.25 midday (+0.97% intraday) on continued defensive pharma bid into hot-PPI hawkish tape. VIX ~18.1 NORMAL. Retail Sales Thurs 5/14 08:30 + Trump-Xi summit 5/14–15 = back-to-back binary events.
 **Watchlist for next session:** Retail Sales Thurs 5/14 08:30 ET (binary); Trump-Xi summit 5/14–15 (geopolitical binary); PINS only on reclaim $21.29 + second CTO confirmation + CEO ≥70; INTC only on pullback to $115–120 + fresh CTO signal; TEVA monitoring for +15% threshold ($40.47) to tighten trail to 7%; PG/QFIN/ZURVY/VSEC/CSU STRONG_BEAR logged as buy-blocks (CSU also non-US/non-US-sized); fresh CTO signals on affordable (<$200) US common stocks in leading sectors (energy/industrials/staples).
 **Watchlist for next session:** Retail Sales Thurs 5/14 08:30 ET (binary print); Trump-Xi summit 5/14–15 (geopolitical binary); CSCO earnings after-close 5/13; PINS only on reclaim $21.29 + SECOND CTO confirmation + CEO ≥70; INTC only on pullback to $115–120 + fresh CTO signal; TEVA monitoring for +15% threshold ($40.47) to tighten trail to 7%; fresh CTO STRONG_BULL/BULLISH_FLIP signals on US common stocks <$200 in leading sectors (energy/industrials/staples preferred per rotation); PG/QFIN/ZURVY STRONG_BEAR logged as buy-blocks.
+
+---
+
+### 2026-05-14 — Pre-market Research
+**Account:** Equity $25,004.76 | Cash $24,507.34 (98.01%) | BP $49,512.10 | Positions: 1 (TEVA 14 sh) | Open orders: 1 (TEVA trail stop GTC, HWM $36.99, stop $33.291) | Day trades: 0 | Week trades: 0/50
+**Market:** WTI $101.54 (-0.5% off $102 peak; still elevated on Hormuz/Mideast risk) | S&P futures ~flat (SPX closed record 5/13 +0.59%, NDX +1.2% on CSCO + Dow >50k) | VIX ~18.0 (NORMAL <20, min CEO 70)
+**Sector rotation:** Leaders YTD — Energy (+22%), Industrials (+12–16%), Materials (+9%), Staples (+13%); Laggards — Tech (-3% YTD reversal of 2025 leadership), Cons-disc (Q2 ETF outflows -$4.5B). Capital rotating from AI/tech into "real economy" stocks (energy/industrials/materials/staples).
+**Catalysts:**
+- Retail Sales April 08:30 ET (key binary — hot = compounded hawkishness post-PPI; cool = breadth bid)
+- Trump-Xi summit 5/14–15 Beijing (bilateral trade/tariffs/AI — binary geopolitical; Huang/Musk/Cook accompanying = AI/EV/Apple-China crosscurrents)
+- Mideast: Iran-US conflict unresolved; Hormuz closure threat keeps oil bid
+**Earnings today:** 249 reports scheduled. Key: AMAT (Applied Materials, AMC); CSCO already reported 5/13 AMC (drove Dow >50k yesterday).
+**Economic calendar:** Retail Sales April 08:30 ET (KEY). Hot April PPI from 5/13 (+1.4% MoM headline = highest since Mar 2022; +6% YoY = highest since Dec 2022; core +1.0% vs +0.4% est) — 10-mo high in Treasury yields persists; hawkish repricing of Fed cuts.
+**Sentiment:** AAII 38.3% bull / 33.3% bear / 28.7% neutral (bullish above hist avg 37.5%, no contrarian extreme); F&G 66 Greed (unchanged from yesterday — late-cycle chase hazard).
+
+**Active CTO signals review (last 30 days):**
+- Fresh 5/13: SOLUSD BULLISH_FLIP (crypto, INELIGIBLE); VSEC STRONG_BEAR / CSU STRONG_BEAR (buy-blocks)
+- 5/12: PG STRONG_BEAR (buy-block)
+- 5/11: GLO BULLISH_FLIP (CEF, INELIGIBLE); ZURVY/QFIN STRONG_BEAR (INELIGIBLE/buy-blocks)
+- 5/8: PINS BULLISH_FLIP @ $21.29 (needs reclaim + 2nd CTO + CEO≥70); XYLD BULLISH_FLIP (ETF); BLK STRONG_BULL @ $1084.80 (>2% cap)
+- 5/7: XOVR BULLISH_FLIP / VISA BULLISH_FLIP @ $29.52 (webhook mismatch)
+- 5/6: ARKG STRONG_BULL (ETF)
+- 5/5: NET STRONG_BULL @ $244.43 (aged 9d, tech lagging, >$200); DXYZ STRONG_BULL (CEF); PTON STRONG_BULL @ $5.18 (aged 9d, cons-disc into lagging sector)
+- 5/4: TEVA STRONG_BULL @ $35.38 (held already)
+- **NO fresh CTO STRONG_BULL signals on US common stocks <$200 in leading sectors (energy/industrials/staples/materials).**
+
+**CEO Scores:**
+- **PTON** (CTO STRONG_BULL aged 10d): composite 47/100 + aged signal +12 = 59/100 (macro:40 tech:55 sent:45 cong:50) — **SKIP** (<70; cons-disc lagging, oil $101 = consumer headwind, aged signal)
+- **NET** (CTO STRONG_BULL aged 10d): composite 50/100 + aged signal +12 = 62/100 (macro:50 tech:55 sent:45 cong:50) — **SKIP** (<70; tech sector lagging YTD -3%, aged signal, $244 share = inefficient sizing at 2% cap)
+- **PINS** (BULLISH_FLIP aged 7d): below signal level $21.29, lawsuit overhang. SKIP (no reclaim, no second confirm).
+- **TEVA** (held, re-validate): composite 68/100 (macro:60 tech:65 sent:55 cong:50) + CTO STRONG_BULL aged 10d (decayed +5) = ~73 — thesis intact (Goldman PT $50, JPM PT $40, Barclays $40, 12/13 analysts Buy/Strong Buy; Austedo Q1 +41% YoY = $578M; Q1 EPS $0.53 vs $0.48 est); already sized at 2%. **HOLD only.**
+- **INTC**: composite 58/100 — no CTO signal; +175% YTD chase risk. **SKIP** unless pullback to $115–120 + fresh CTO signal.
+
+**Trade ideas (if any):** None. No candidate clears CEO ≥70 threshold.
+**Risk factors:** Hot-PPI overhang (10-mo high Treasury yields, hawkish Fed repricing); Retail Sales 08:30 ET binary — hot = compounded hawkish; Trump-Xi summit 5/14–15 binary geopolitical with AI/EV/Apple-China crosscurrents (Huang/Musk/Cook accompanying); Mideast/Hormuz keeps oil $101+ = sticky inflation; F&G 66 Greed + AAII bulls 38.3% above avg = late-cycle chase hazard; SPX at record close 5/13 = breakout but extension risk; sector rotation against tech/cons-disc continues to headwind CTO candidates (PTON/NET).
+**Decision:** **HOLD** — no new entries. TEVA position + 10% trail stop GTC unchanged. Hot-PPI hawkish tape + binary Retail Sales + binary Trump-Xi summit live today + sector rotation against tech/cons-disc + aging CTO signals + F&G 66 Greed = unfavorable entry tape. Defer entries pre-Retail Sales 08:30 ET print. Wait for fresh CTO STRONG_BULL/BULLISH_FLIP on US common stocks <$200 in leading sectors (energy/industrials/staples/materials), or VIX/F&G reset, or post-Retail Sales clarity.
+**Watchlist for next session:** Retail Sales 08:30 ET reaction (hot = defer; cool = breadth bid possible); Trump-Xi summit headlines 5/14–15; AMAT earnings AMC; PINS only on reclaim $21.29 + 2nd CTO + CEO≥70; INTC only on pullback to $115–120 + fresh CTO; TEVA monitoring for +15% threshold ($40.47) to tighten trail to 7%; fresh CTO signals on US common stocks <$200 in leading sectors preferred; PG/QFIN/ZURVY/VSEC/CSU STRONG_BEAR logged as buy-blocks; SOLUSD INELIGIBLE (crypto).
