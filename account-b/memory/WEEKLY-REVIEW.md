@@ -46,6 +46,28 @@ Friday reviews appended here.
 **Key Lessons:** Two consecutive weeks with zero THT signals received. Long-term THT signals are inherently sparse (weekly/monthly bar closes) but verify webhook routing for THT Fair Value Bands + BX Trender alerts is live and pointed at the receiver. Patience remains correct under the rules; cannot trade without dual confirmation. Flag for Ken: confirm TradingView THT alerts are configured and firing.
 **Overall Grade: A** *(correct behavior — no signals, no action; underperformance is unavoidable while awaiting first dual-indicator confirmation)*
 
+### Week ending 2026-05-15 (Week 3)
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $25,000.00 |
+| Ending portfolio | $25,000.00 |
+| Week return | $0.00 (0.00%) |
+| S&P 500 week | +0.3% (Friday −1.2% on Iran-conflict/inflation concerns; index still net +0.3% on week) |
+| Bot vs S&P | −0.30% alpha |
+| Active positions | 0 |
+| Partial signals awaiting confirmation | 0 |
+| Signals expired this week | 0 |
+| THT signal accuracy to date | N/A (0 signals since inception) |
+| Trades opened this week | 0 |
+| Trades closed this week | 0 |
+
+**What Worked:** Capital fully preserved through a volatile week. Discipline held — zero entries without confirmed THT dual-indicator signals. No drawdown on Friday's −1.2% S&P drop.
+**What Didn't Work:** Third consecutive week with zero THT signals received. Active Partial Signals table for Account B remained empty all week — neither THT Fair Value Bands (weekly) nor BX Trender (monthly) alerts have fired since inception. Friday's market drop is the kind of dislocation long-term THT entries thrive on, but with no signal infrastructure firing, Account B cannot participate.
+**Key Lessons:** Three straight weeks at $0 P&L. THT signals are inherently sparse (weekly/monthly bar closes) — May 2026 has had no weekly bar-close BULL_BAND nor monthly BX_BULL on watchlist tickers, which is plausible but warrants verification. RAISING TO KEN: please confirm TradingView THT Fair Value Bands + BX Trender alerts are configured on the target watchlist and pointing at the production webhook. Cumulative alpha drag since inception: ~−2.6% (vs S&P). Patience remains correct under the rules; cannot trade without dual confirmation.
+**Overall Grade: A** *(correct behavior — no signals, no action; system discipline intact; flag raised on signal-source verification)*
+
+---
+
 ## Template
 ### Week ending YYYY-MM-DD (Week N)
 | Metric | Value |
