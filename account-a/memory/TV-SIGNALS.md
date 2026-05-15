@@ -65,3 +65,4 @@
 | 2026-05-14 | 20:16 UTC | A | SOBKY | ? | STRONG_BULL | 14.02 | D | EVALUATED 2026-05-15 midday — likely non-US ADR/OTC (Sumitomo/Sobha); INELIGIBLE per stocks-only rule; SKIP |
 | 2026-05-14 | 23:01 UTC | A | DXY | ? | STRONG_BEAR | 98.869 | D | EVALUATED 2026-05-15 midday — currency index, not a stock; INELIGIBLE |
 | 2026-05-15 | 00:00 UTC | A | ADAUSDT | ? | BULLISH_FLIP | 0.2706 | D | EVALUATED 2026-05-15 midday — crypto (Cardano); INELIGIBLE per stocks-only rule |
+| 2026-05-15 | 20:01 UTC | A | SMCI | ? | STRONG_BULL | 31.03 | D | NEW |
