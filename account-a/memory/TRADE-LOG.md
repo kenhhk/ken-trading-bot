@@ -469,3 +469,31 @@ Buy order ID: 87c74d60-0f98-4edf-aa7a-43ca788babe8 | Trailing stop order ID: 830
 | TEVA | 14 | $35.19 | $33.82 | -$19.18 (-3.893%) | 10% trail / stop $33.291, HWM $36.99 |
 
 **Notification:** None (no trade fired per Step 8 rules).
+
+---
+
+## May 15 — Midday Scan (Day 10)
+**Routine:** midday.md | **Week trades:** 0/50 | **Open positions:** 1 (TEVA) | **VIX:** 17.90 (NORMAL <20) | **Min CEO:** 70 | **Equity:** $24,987.75 | **Cash:** $24,507.34 (98.08%) | **BP:** $49,495.09 | **Day trades:** 0
+
+**Step 3 — Cut losers:** TEVA -2.487% (-$12.25 unrealized) @ $34.315 — above -7% cut threshold (entry $35.19 × 0.93 = $32.73). No cut.
+
+**Step 4 — Tighten stops:** TEVA -2.487% — below +15% threshold ($40.47). No tightening. Trail stop unchanged (HWM $36.99, stop $33.291, Alpaca order 8306052e).
+
+**Step 5 — Thesis check (TEVA):** INTACT. Perplexity scan finds no fresh intraday negative catalysts (no downgrades, no FDA actions, no lawsuits, no pipeline setbacks). Bull thesis reinforced: Q1 2026 beat ($4B rev, >$1B adj EBITDA, EPS $0.53, FCF ~$200M), innovative brands +41% YoY (Austedo $578M), MLX Bioscience $700M cash acquisition (Tourette syndrome late-stage, fully cash-funded, balance-sheet targets unaltered), >$10B peak-sales late-stage pipeline (neuroscience/immunology/respiratory), 11 biosimilars targeting $800M by 2027. No exit trigger.
+
+**Step 6 — TV Signals:** No new BEARISH_FLIP/STRONG_BEAR on held ticker (TEVA). Reviewed pending NEW signals:
+- DUOL STRONG_BEAR 5/14 20:01 @ $109.06 — not held; BUY-BLOCK, no exit action
+- SOBKY STRONG_BULL 5/14 20:16 @ $14.02 — likely non-US ADR/OTC (Sumitomo/Sobha); INELIGIBLE
+- DXY STRONG_BEAR 5/14 23:01 @ $98.869 — currency index, not a stock; INELIGIBLE
+- ADAUSDT BULLISH_FLIP 5/15 00:00 @ $0.2706 — crypto; INELIGIBLE per stocks-only rule
+
+**Intraday tape:** TEVA recovered modestly from open ($33.82 → $34.315, +1.46% intraday off the low) into midday despite broad SPX -0.37% off record close on Powell→Warsh Fed-chair transition today. Warsh first-day messaging in focus through afternoon. VIX 17.90 NORMAL. WTI ~$102.74 (energy bid on China oil deal). Sector rotation against tech/cons-disc continues.
+
+**Action:** HOLD — no orders placed. TEVA position + 10% trail stop GTC unchanged.
+
+**Open position snapshot:**
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop |
+|--------|--------|-------|---------|----------------|------|
+| TEVA | 14 | $35.19 | $34.315 | -$12.25 (-2.487%) | 10% trail / stop $33.291, HWM $36.99 |
+
+**Notification:** None (no action taken per Step 7 rules).
