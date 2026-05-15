@@ -4,6 +4,104 @@ Friday reviews appended here. Letter grade assigned each week.
 
 ---
 
+### Week ending 2026-05-15 (Week 7 — May 11–15)
+> Note: 2nd full 5-day trading week. TEVA position (entered 5/5) carried throughout; 0 new trades. Week dominated by 4 binary macro events: hot CPI (Tue 5/12), hot PPI (Wed 5/13), Retail Sales + Trump-Xi summit (Thu 5/14), Powell→Warsh Fed-chair transition (Fri 5/15). TEVA round-tripped: peaked +3.012% midday 5/13 → closed -2.586% 5/15. Phase P&L turned negative for the first time since launch.
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $25,007.56 (Monday 2026-05-11 AM, Friday 5/8 close) |
+| Ending portfolio | $24,987.26 (Alpaca confirmed, Friday EOD 2026-05-15) |
+| Week return | -$20.30 (-0.0812%) |
+| S&P 500 week | +0.129% (7,398.93 → 7,408.50; SPX hit record 7,501.24 Thu 5/14 then -1.24% Fri 5/15 on Powell→Warsh + Trump-Xi summit) |
+| Bot vs S&P | -0.211% alpha (second consecutive negative-alpha week) |
+| Phase S&P return since launch (5/3) | ≈ +2.49% (~7,228 → 7,408.50) |
+| Phase alpha since launch | ≈ -2.54% |
+| Trades taken | 0 (W:0 / L:0 / open:1 — TEVA carryover) |
+| Win rate | N/A — no closed trades |
+| Best trade | TEVA peak +3.012% intraday 5/13 (open, not realized) |
+| Worst trade | TEVA close -2.586% Friday (open, not realized) |
+| Profit factor | N/A — no closed trades |
+| VIX mode predominant | Normal (17.2–18.41, below 20 throughout) |
+| Phase P&L | -$12.74 / -0.0510% (since launch 2026-05-03) — FIRST NEGATIVE PHASE CLOSE |
+
+**Closed Trades:**
+| Ticker | Entry | Exit | P&L | CEO Score | CTO Signal | Notes |
+|--------|-------|------|-----|-----------|------------|-------|
+| — | — | — | — | — | — | No trades closed this week |
+
+**Open Positions at Week End:**
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| TEVA (14 sh) | $35.19 | $34.28 | -$12.74 (-2.586%) | $33.291 GTC (10% trail, HWM $36.99) — 2.95% buffer to close |
+
+**CTO Signals Received This Week (13 total):**
+| Date | Ticker | Signal | Disposition |
+|------|--------|--------|-------------|
+| 5/11 | QFIN | STRONG_BEAR | Buy-block (not held) |
+| 5/11 | GLO | BULLISH_FLIP | ETF/CEF — INELIGIBLE |
+| 5/11 | ZURVY | STRONG_BEAR | Non-US ADR + buy-block — INELIGIBLE |
+| 5/12 | PG | STRONG_BEAR | Buy-block (not held) |
+| 5/13 | SOLUSD | BULLISH_FLIP | Crypto — INELIGIBLE |
+| 5/13 | VSEC | STRONG_BEAR | Buy-block (not held) |
+| 5/13 | CSU | STRONG_BEAR | Non-US (TSX) + share >$2400 (>2% cap) — INELIGIBLE |
+| 5/14 | DUOL | STRONG_BEAR | Buy-block (not held) |
+| 5/14 | SOBKY | STRONG_BULL | Non-US ADR/OTC — INELIGIBLE |
+| 5/14 | DXY | STRONG_BEAR | Currency index, not a stock — INELIGIBLE |
+| 5/15 | ADAUSDT | BULLISH_FLIP | Crypto — INELIGIBLE |
+| 5/15 | SMCI | STRONG_BULL | Late signal (post-close); evaluate Mon 5/18 |
+| 5/15 | MTPLF | STRONG_BEAR | Non-US/penny stock — INELIGIBLE |
+
+Signal yield: 0 of 13 = 0.0% actionable. 7 of 13 (54%) ineligible at rule layer (crypto/non-US/ETF/currency); 5 of 13 (38%) STRONG_BEAR buy-blocks (no held tickers); 1 of 13 late post-close (SMCI defer). Webhook noise problem now in 5th consecutive week.
+
+**What Worked (3-5 bullets):**
+- Discipline held across 4 binary macro events — hot CPI (5/12, +0.6% MoM headline biggest since May 2023), hot PPI (5/13, 10-mo high Treasury yields), Retail Sales + Trump-Xi summit (5/14), Powell→Warsh Fed-chair transition (5/15) — zero entries through the cluster. Pre-market gate correctly read tape as unfavorable each session.
+- TEVA -7% cut threshold ($32.73) never breached; trail stop $33.291 GTC intact with 2.95% buffer at Friday close ($34.28). Stop-loss machinery worked as designed despite the round-trip.
+- All STRONG_BEAR signals correctly logged as buy-blocks (QFIN/PG/VSEC/CSU/DUOL/ZURVY) — none held, no exit-trigger errors. Buy-block ledger is functioning at the rule layer.
+- Ineligibility filter caught 7/13 signals automatically (crypto: SOLUSD, ADAUSDT; non-US: CSU, SOBKY, MTPLF; currency: DXY; ETF: GLO; oversized: BLK pre-existing) — rules-layer discipline held.
+- Sector-rotation tape read correctly: bot did not chase tech/cons-disc CTO signals (PTON, NET aged 11d, CEO 57–66) as XLK/XLY lagged; energy/staples/industrials led, no CTO signals fired there. No FOMO entries.
+
+**What Didn't Work (3-5 bullets):**
+- TEVA round-tripped: peaked +3.012% intraday 5/13 ($36.25) → closed -2.586% 5/15 ($34.28). Net swing -$27.18 from peak. The 10% trail with +15%-to-tighten threshold gave back ~5.6% of unrealized peak gains; trail mechanic is too wide for a $35–36 swing ticker.
+- Phase P&L turned NEGATIVE for the first time since launch: -$12.74 (-0.0510%). Capital is no longer 100% preserved. Phase alpha vs S&P now -2.54%.
+- Webhook noise: 5th consecutive week of ~100% non-actionable yield (0/13 this week; cumulative 1/51 = 1.96% across 5 weeks). Infrastructure fix not deployed. Flagged Priority 0 last 4 weeks.
+- −0.211% alpha vs S&P this week — second consecutive negative-alpha week. TEVA single-name swing failed to outperform a slightly-positive index that hit a fresh record close mid-week before pulling back.
+- Aging CTO signals (PTON, NET, PINS — 7–11d) decayed without re-confirm; bot correctly did not enter on stale signals, but signal-staleness rule means a +3% PTON or NET week was uncapturable. Cost optionality without giving back capital — defensible but a structural drag in trending tape.
+
+**Key Lessons:**
+- TEVA's round-trip from +3.012% → -2.586% in 3 sessions exposes a flaw in the trail-stop ladder: the +15% threshold to tighten the trail to 7% means we give back ~10% of peak before any tightening kicks in. For a $35 swing ticker, +3% peak → entry round-trip costs ~6% of original equity stake. NOT yet a rule change — flagged for one more week of monitoring. Candidate adjustment: tighten to 7% at +5% gain (not +15%), to lock in profit on swing names that don't trend.
+- Webhook fix is now 5 weeks chronic. 1 of 51 signals (~2%) actionable across the launch period. This is the single largest operational drag on the bot — actionable signal flow is the input to everything; without it, discipline gates can only produce HOLDs.
+- Macro-event clusters (4 binary prints + Fed-chair regime change in 5 days) should pre-emptively raise CEO threshold or pause new entries even on a 70+ score. The bot correctly inferred this from tape reading, but it would be cleaner to formalize: "≥3 binary macro events in a 5-day forward window AND VIX <20 = min CEO 75" (Elevated-Caution-lite).
+- Phase alpha now -2.54% (since launch 5/3) — the negative-alpha trend flagged in Week 6 has confirmed in Week 7. Capital preservation is the floor, but alpha is the mission. Adaptive-CEO threshold (≥65 in strong risk-on with breadth confirmation) needs to be considered before Week 8 review or the underperformance gap will widen with the index.
+- All 4 macro events (CPI/PPI/Retail/Powell-transition) printed in week-7 direction-consistent with hot-inflation/hawkish-regime concerns. The bot's defensive posture was appropriate given the printed data, but the actual S&P response (record close on Thursday) shows the tape priced in / discounted the prints. Tape-reads worked at the macro level; tape's reaction was the surprise.
+
+**Signal Weight Review:**
+- Macro signal win rate: N/A (0 closed trades)
+- Technical signal win rate: N/A
+- Sentiment signal win rate: N/A
+- Congress signal win rate: N/A
+- CTO signal win rate: N/A — 13 signals received this week; 0 actionable; cumulative across 5 weeks: 1 entry (TEVA, still open -2.586%) / 51 signals = ~2.0% actionable, 0% closed-trade data
+- Recommended weight adjustments: None — still insufficient closed-trade data (0 closes; 1 open position 2nd week)
+
+**Self-Improvement Check (Step 5):**
+- No signal has 2+ weeks of computable closed-trade win-rate data → no weight changes triggered
+- Webhook ineligibility rate: ~98% non-actionable across 5 weeks (cumulative 1/51) → CHRONIC INFRASTRUCTURE ISSUE, not a TRADING-STRATEGY.md rule; flagged Priority 0 for Ken
+- Phase alpha turned negative (-2.54% vs S&P since launch): 2nd consecutive week of materially negative alpha during slightly-positive S&P weeks. Threshold reached for Week 6's flagged adaptive-CEO trigger: consider adding rule for "CEO ≥65 acceptable when S&P 4-week trend > +5% AND VIX < 18 AND breadth confirmation." NOT yet implementing — needs Ken's review first.
+- TEVA round-trip pattern (+3% → entry → small drawdown in 3 sessions) flagged for 1-week monitoring: candidate rule = "tighten trail to 7% at +5% gain on sub-$50 swing tickers instead of +15%." Not yet a rule change.
+- TRADING-STRATEGY.md is current and correctly reflects all active rules — no changes made this week. Two rule candidates queued for Week 8 review pending one more week of confirming data.
+
+**Adjustments for Next Week (week of May 18+):**
+- Priority 0: Webhook fix — 5 weeks chronic, single largest operational drag. NYSE/NASDAQ only + $5+ price + exclude crypto/ETF/non-US/currency tickers. Without this fix, actionable signal capacity remains at ~2%.
+- Priority 1: TEVA — trail stop $33.291 with 2.95% buffer at Friday close $34.28; -7% cut threshold $32.73. If gap-down breaks $33.291 on Mon 5/18 open → trail executes. Otherwise: monitor +15% threshold ($40.47) for trail-tighten to 7%; thesis still INTACT (Q1 beat, 12/13 Buy ratings, Goldman PT $50, Austedo Q1 +41% YoY, MLX Bioscience $700M acquisition).
+- Priority 2: Warsh Fed Day-2/3 messaging — primary near-term volatility driver. If VIX breaches 20 on hawkish Warsh first speech → shift to Elevated Caution mode (min CEO 75, same 2% cap).
+- Priority 3: SMCI STRONG_BULL @ $31.03 (new 5/15 post-close) — score Mon 5/18 pre-market. Affordable share price, tech-infra sector; check binary catalyst risk (earnings calendar) and CEO components.
+- Priority 4: Consider adaptive-CEO rule candidate for Ken's review: "CEO ≥65 acceptable when S&P 4-week trend > +5% AND VIX < 18 AND breadth confirmation"; consider trail-stop ladder candidate: "tighten to 7% at +5% gain on sub-$50 swing tickers." Do NOT implement without Ken approval.
+- Priority 5: Watch breadth/sector rotation — if energy/staples lead continues and tech/cons-disc lag persists, CTO STRONG_BULLs in lagging sectors (PTON/NET) should remain SKIPs even at CEO ≥70 by sector-momentum rule.
+
+**Overall Grade: C+**
+> Rationale: Discipline held across the most macro-dense week since launch (4 binary prints in 5 days + Powell→Warsh Fed-chair regime change Friday). TEVA -7% cut threshold and trail stop $33.291 both intact at Friday close with 2.95% buffer — capital preservation mechanics worked as designed. However: (1) phase P&L turned NEGATIVE for the first time since launch (-$12.74 / -0.0510%); (2) phase alpha vs S&P now -2.54%, second consecutive negative-alpha week — the core mission (beat S&P) is failing; (3) TEVA round-tripped from +3.012% to -2.586% in 3 sessions, exposing the wide trail-stop ladder on a $35 swing ticker; (4) 0 of 13 CTO signals actionable, webhook noise now 5 weeks chronic; (5) 0 new entries despite a slightly-positive index week. Grade dropped from B- (Week 6) because: capital is no longer 100% preserved AND the alpha trend is confirmed adverse. Grade held above C because: stops respected, no rule violations, no FOMO chases, no over-trading, every macro event navigated cleanly. Mechanics solid; thesis-execution flat. The structural issue is signal capacity (webhook), not discipline.
+
+---
+
 ### Week ending 2026-05-08 (Week 6 — First Full Week, May 4–8)
 > Note: First full 5-day trading week since launch (May 4–8). Account launched 2026-05-03. TEVA position (entered 5/5) held all week; 1 trade total. S&P 500 ripped +2.3% on strong April NFP + 6th consecutive win streak — bot meaningfully lagged the index this week.
 
