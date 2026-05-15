@@ -67,3 +67,4 @@
 | 2026-05-15 | 00:00 UTC | A | ADAUSDT | ? | BULLISH_FLIP | 0.2706 | D | EVALUATED 2026-05-15 midday — crypto (Cardano); INELIGIBLE per stocks-only rule |
 | 2026-05-15 | 20:01 UTC | A | SMCI | ? | STRONG_BULL | 31.03 | D | NEW |
 | 2026-05-15 | 20:16 UTC | A | MTPLF | ? | STRONG_BEAR | 2.0 | D | NEW |
+| 2026-05-15 | 23:01 UTC | A | SPX/TVC:XAU | ? | STRONG_BULL | 20.47 | D | NEW |
