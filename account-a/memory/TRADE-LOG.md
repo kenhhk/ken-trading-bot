@@ -430,3 +430,42 @@ Buy order ID: 87c74d60-0f98-4edf-aa7a-43ca788babe8 | Trailing stop order ID: 830
 | TEVA | 14 | $35.19 | $35.25 | -$1.00 (-2.759%) | +$0.84 (+0.171%) | $33.291 (10% trail, HWM $36.99) |
 
 **Notes:** No new trades today (Thu, week count 0/50). TEVA sold off intraday ($36.25 prior → $35.25 close, -2.759%) on hot-Retail-Sales hawkish tape + Trump-Xi summit binary risk + sector rotation out of healthcare/defensives back to energy/industrials; still +$0.84 above entry. Trail stop HWM unchanged at $36.99 (only ratchets up — close well below HWM, no ratchet). Below +15% tighten threshold ($40.47) — no manual stop adjustment. Stop $33.291 (5.55% buffer to current) intact. Thesis intact (Q1 2026 beat narrative, Goldman PT $50, JPM/Barclays $40, 12/13 Buy/Strong Buy ratings, Austedo Q1 +41% YoY = $578M, Rim Labs/Emalex $700M acquisition on track, $500M Sanofi milestone pending). Webhook signal received 2026-05-14T20:16 logged in TV-SIGNALS but no exit trigger on held ticker (TEVA). Week count 0/50. VIX ~18.0 (NORMAL <20, min CEO 70). Buy-side gate held all session — hot Retail Sales overhang + binary Trump-Xi summit underway + sector rotation against tech/cons-disc signal candidates (PTON/NET) + aging CTO signals + F&G 66 Greed + SPX record-extension = unfavorable entry tape. Phase P&L +$0.84 (+0.0034%) over 9 sessions — flat to baseline, capital preservation mode validated. Tomorrow (05/15): Trump-Xi summit Day 2 (binary geopolitical close); pre-market scoring on fresh CTO signals; PINS only on reclaim $21.29 + second CTO confirmation + CEO ≥70; INTC only on pullback to $115–120 + fresh CTO signal; TEVA monitoring for +15% threshold ($40.47) to tighten trail to 7%; PG/QFIN/ZURVY/VSEC/CSU STRONG_BEAR logged as buy-blocks; watching for fresh CTO STRONG_BULL/BULLISH_FLIP on US common stocks <$200 in leading sectors (energy/industrials/staples/materials).
+
+---
+
+## May 15 — Market-Open Execution (Day 10)
+**Routine:** market-open.md | **Week trades:** 0/50 | **Open positions:** 1 (TEVA) | **VIX:** 17.90 (NORMAL <20) | **Min CEO:** 70 | **Equity:** $24,980.82 | **Cash:** $24,507.34 (98.10%) | **BP:** $49,488.16 | **Day trades:** 0
+
+**Candidates evaluated (pre-market RESEARCH-LOG 2026-05-15):** None cleared CEO ≥70 threshold.
+- **PTON** (CTO STRONG_BULL aged 11d): 57/100 — cons-disc lagging, Warsh hawkish risk = cons-disc headwind, aged signal, $5 share. SKIP.
+- **NET** (CTO STRONG_BULL aged 11d): 60/100 — broad tech cooling, $244 inefficient sizing at 2% cap, aged signal. SKIP.
+- **PINS** (BULLISH_FLIP aged 8d): below signal level $21.29, lawsuit overhang, no reclaim, no 2nd CTO confirm. SKIP.
+- **TEVA** (held, re-validate): ~68/100 with CTO STRONG_BULL aged 11d (+5 decayed) — thesis intact (5/15 Motley Fool bullish: "highest in nearly a decade", 12/13 Buy/Strong Buy, PT $40.27 avg / $50 high, Austedo Q1 +41% YoY = $578M, $4B rev Q1 beat); already sized at 2%, no new buy.
+- **INTC**: ~58/100 — no CTO, +175% YTD chase risk. SKIP unless pullback to $115–120 + fresh CTO.
+- **CSCO** (no CTO, +13.4% on Q3 beat): earnings gap chase, no CTO trigger. SKIP per rules.
+- **AMAT** (no CTO, +2% AH on Q2 beat): earnings reaction, no CTO trigger. SKIP per rules.
+- **DUOL** (CTO STRONG_BEAR 5/14 @ $109.06): not held; BUY-BLOCK, no exit action.
+- **SOBKY** (CTO STRONG_BULL 5/14 @ $14.02): likely non-US ADR/OTC (Sumitomo/Sobha); INELIGIBLE.
+- **DXY** (CTO STRONG_BEAR 5/14): currency index, not a stock; INELIGIBLE.
+- **ADAUSDT** (BULLISH_FLIP 5/15 00:00 UTC @ $0.2706): crypto; INELIGIBLE per stocks-only rule.
+- **BLK** (STRONG_BULL 5/8 @ $1084.80): >2% cap; INELIGIBLE per sizing.
+- **DXYZ/XOVR/XYLD/GLO/ARKG**: ETF/CEF; INELIGIBLE per rules.
+- **VISA** webhook ticker mismatch ($29.52 ≠ V); SKIP.
+- **PG/QFIN/ZURVY/VSEC/CSU**: STRONG_BEAR — BUY-BLOCKS (CSU also non-US/>cap).
+- **No fresh CTO STRONG_BULL/BULLISH_FLIP overnight** on US common stocks <$200 in leading sectors (energy/industrials/staples/materials).
+
+**Macro tape:** **POWELL→WARSH FED CHAIR TRANSITION TODAY 5/15** = binary regime-change event with hawkish skew (Warsh historically more hawkish/independent). Trump-China summit aftermath ("fantastic" framing but no major agreements; China agreed to buy US oil = energy bid). CSCO Q3 beat ($1.06 EPS, +12% YoY rev $15.84B, stock +13.4%) + AMAT Q2 beat (+2% AH) = brief semi/networking pocket of strength. Empire State Manufacturing 19.6 vs 7.0 est (hot, Apr 2022 high). Initial Claims 211k vs 206k est (slight uptick). Retail Sales April +0.5% vs +0.6% est (slight miss, cool). SPX -0.37% premarket off record close 7,501.24 (5/14). WTI $102.74 (June, +1.55% on China oil deal). VIX 17.90. F&G 66 Greed.
+
+**Buy-side gate result:** No candidates passed CEO ≥70 threshold; Powell→Warsh Fed-chair transition TODAY (binary regime-change with hawkish skew) + SPX -0.37% off record close 7,501 + F&G 66 Greed (no contrarian setup) + sector rotation against tech/cons-disc + aged CTO signals (PTON/NET 11d) + no fresh CTO STRONG_BULL on US common stocks <$200 in leading sectors = unfavorable entry tape. No buy orders placed.
+
+**Quote checks:** N/A (no candidates eligible).
+**TEVA trail stop status:** HWM $36.99, stop $33.291 GTC unchanged (Alpaca order 8306052e). Position -3.893% (-$19.18 unrealized) at $33.82 — above -7% cut threshold (entry $35.19 × 0.93 = $32.73) and above stop $33.291 by 1.59% buffer; below +15% tighten threshold ($40.47); no manual stop adjustment per rules (market-open routine does not modify stops).
+
+**Action:** HOLD — no orders placed. TEVA position + 10% trail stop GTC unchanged.
+
+**Open position snapshot:**
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop |
+|--------|--------|-------|---------|----------------|------|
+| TEVA | 14 | $35.19 | $33.82 | -$19.18 (-3.893%) | 10% trail / stop $33.291, HWM $36.99 |
+
+**Notification:** None (no trade fired per Step 8 rules).
