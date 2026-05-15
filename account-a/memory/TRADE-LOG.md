@@ -497,3 +497,14 @@ Buy order ID: 87c74d60-0f98-4edf-aa7a-43ca788babe8 | Trailing stop order ID: 830
 | TEVA | 14 | $35.19 | $34.315 | -$12.25 (-2.487%) | 10% trail / stop $33.291, HWM $36.99 |
 
 **Notification:** None (no action taken per Step 7 rules).
+
+---
+
+## May 15 — EOD Snapshot (Day 10) [Daily Summary]
+**Portfolio:** $24,987.26 | **Cash:** $24,507.34 (98.08%) | **Day P&L:** -$13.58 (-0.0543%) | **Phase P&L:** -$12.74 (-0.0510%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| TEVA | 14 | $35.19 | $34.28 | -$1.03 (-2.917%) | -$12.74 (-2.586%) | $33.291 (10% trail, HWM $36.99) |
+
+**Notes:** No new trades today (Fri, week count 0/50). TEVA closed -2.917% ($35.31 prior → $34.28 close) on Powell→Warsh Fed-chair transition Day 1 + Warsh hawkish-first-day risk + SPX softness off 5/14 record close 7,501. Modest intraday recovery off morning low $33.82 → $34.315 midday gave way into close at $34.28. Phase first negative close (-$12.74 / -0.0510%) over 10 sessions — capital preservation mode still intact (-0.05% vs SPX trajectory). Trail stop $33.291 (10% trail, HWM $36.99) GTC unchanged — close $34.28 above stop by 2.95% buffer; above -7% cut threshold ($32.73) by 4.74%. Below +15% tighten threshold ($40.47) — no manual adjustment. Thesis intact (Q1 2026 beat $4B rev, >$1B adj EBITDA, EPS $0.53; innovative brands +41% YoY, Austedo $578M; MLX Bioscience $700M cash acquisition; >$10B peak-sales pipeline; 12/13 Buy/Strong Buy, PT avg $40.27 / $50 high). No new BEARISH_FLIP/STRONG_BEAR on held ticker. New TV signals today logged as buy-blocks (DUOL STRONG_BEAR @ $109.06) or INELIGIBLE (SOBKY non-US, DXY currency index, ADAUSDT crypto). Week count 0/50. VIX 17.90 NORMAL <20 (min CEO 70). Buy-side gate held all session — Powell→Warsh regime transition + F&G 66 Greed + sector rotation against tech/cons-disc + no fresh CTO STRONG_BULL on US common stocks <$200 in leading sectors = unfavorable entry tape. Tomorrow (Mon 05/18): Warsh-Fed second-day messaging + opening tone after weekend digestion of regime change; pre-market scoring on fresh CTO signals; PINS only on reclaim $21.29 + 2nd CTO confirmation + CEO ≥70; INTC only on pullback to $115–120 + fresh CTO signal; TEVA monitoring trail stop $33.291 (2.95% buffer at close) and +15% threshold ($40.47); PG/QFIN/ZURVY/VSEC/CSU/DUOL STRONG_BEAR logged as buy-blocks; watching for fresh CTO STRONG_BULL/BULLISH_FLIP on US common stocks <$200 in leading sectors (energy/industrials/staples/materials).
