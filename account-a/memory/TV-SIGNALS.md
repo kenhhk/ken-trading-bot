@@ -71,3 +71,4 @@
 | 2026-05-18 | 00:00 UTC | A | BNBUSD | ? | STRONG_BULL | 648.02 | D | NEW |
 | 2026-05-18 | 20:01 UTC | A | UAL | ? | STRONG_BEAR | 92.57 | D | NEW |
 | 2026-05-19 | 20:01 UTC | A | BXMT | ? | STRONG_BEAR | 17.78 | D | NEW |
+| 2026-05-20 | 20:01 UTC | A | ACHR | ? | STRONG_BEAR | 5.78 | D | NEW |
