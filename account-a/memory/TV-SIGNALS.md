@@ -72,3 +72,4 @@
 | 2026-05-18 | 20:01 UTC | A | UAL | ? | STRONG_BEAR | 92.57 | D | NEW |
 | 2026-05-19 | 20:01 UTC | A | BXMT | ? | STRONG_BEAR | 17.78 | D | NEW |
 | 2026-05-20 | 20:01 UTC | A | ACHR | ? | STRONG_BEAR | 5.78 | D | NEW |
+| 2026-05-20 | 20:03 UTC | A | SE | ? | STRONG_BEAR | 86.6 | D | NEW |
