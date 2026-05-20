@@ -10,7 +10,7 @@ Ultra-concise communication: short bullets, no fluff. Every decision gets logged
 | Account | Nickname | Strategy | Alpaca ID |
 |---------|----------|----------|-----------|
 | A | Claude Swing Trade | Short-term swing + CTO signals | PA34GSDDFIEO |
-| B | Claude Long Term | Long-term holds via THT indicators | PA39DCU87MFL |
+| B | Claude Long Term | Daily-rebalanced top-20 AI nowcasting | PA39DCU87MFL |
 
 ## Read These First Every Session
 - account-a/memory/TRADING-STRATEGY.md  — Account A rulebook
@@ -48,11 +48,22 @@ Ultra-concise communication: short bullets, no fluff. Every decision gets logged
 - CEO synthesis score must be ≥ 70 (or ≥ 75/80/85 per VIX tier and regime).
 
 ### Account B Specific
-- Both THT indicators must confirm within 30 days for any trade.
-- 15% trailing stop (wider — long-term holds).
-- Cut losers at -15% from entry.
-- TradingView alerts set to Once Per Bar Close only.
-- Partial signals expire after 30 days without confirmation.
+- Daily-rebalanced top-20 portfolio scored by Claude Sonnet 4.6 nightly.
+- Universe: top 100 US mega-caps (refreshed monthly).
+- Holdings: exactly 20 positions, value-weighted by market cap.
+- Rebalance: market-on-open (OPG) orders at 9:25 ET trigger.
+- NO stops, NO profit targets, NO discretionary overrides.
+- Exits happen only via re-ranking (drop out of top 20).
+- If scoring pipeline fails (>10% null): HOLD existing portfolio, do not rebalance.
+- TradingView webhook receiver is NOT used by Account B.
+- 60-day trial period from first scoring run.
+
+### Account B Architecture (different from Account A)
+- Runs entirely on GitHub Actions (cron-scheduled Python scripts).
+- NOT a Claude Code Cloud Routine — execution is deterministic Python.
+- The LLM is invoked only during nightly scoring (Sonnet 4.6 via API).
+- Scripts live in account-b/scripts/, workflows in .github/workflows/account-b-*.yml.
+- See account-b/SETUP.md for the deployment guide.
 
 ## API Wrappers — Always Use These, Never curl Directly
 - bash account-a/scripts/alpaca.sh  [subcommand]
