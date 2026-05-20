@@ -1,7 +1,7 @@
 {
-  "last_refreshed": "2026-05-20T19:07:27.962736+00:00",
+  "last_refreshed": "2026-05-20T19:16:44.677603+00:00",
   "source": "Hardcoded seed list \u2014 update TOP100 in refresh_universe.py monthly",
-  "method": "top 99 US common stocks by market cap (manual seed)",
+  "method": "top 100 US common stocks by market cap (manual seed)",
   "tickers": [
     "NVDA",
     "MSFT",
@@ -67,6 +67,7 @@
     "ADP",
     "MSTR",
     "CB",
+    "PGR",
     "PFE",
     "GILD",
     "BKNG",
@@ -422,6 +423,11 @@
     {
       "symbol": "CB",
       "name": "Chubb Limited",
+      "sector": "Financials"
+    },
+    {
+      "symbol": "PGR",
+      "name": "The Progressive Corporation",
       "sector": "Financials"
     },
     {
