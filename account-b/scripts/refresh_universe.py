@@ -91,7 +91,7 @@ TOP100 = [
     {"symbol": "ADP",   "name": "Automatic Data Processing Inc.",      "sector": "Technology"},
     {"symbol": "MSTR",  "name": "MicroStrategy Incorporated",          "sector": "Technology"},
     {"symbol": "CB",    "name": "Chubb Limited",                       "sector": "Financials"},
-    {"symbol": "MMC",   "name": "Marsh & McLennan Companies Inc.",     "sector": "Financials"},
+    {"symbol": "PGR",   "name": "The Progressive Corporation",          "sector": "Financials"},
     {"symbol": "PFE",   "name": "Pfizer Inc.",                         "sector": "Health Care"},
     {"symbol": "GILD",  "name": "Gilead Sciences Inc.",                "sector": "Health Care"},
     {"symbol": "BKNG",  "name": "Booking Holdings Inc.",               "sector": "Consumer Discretionary"},
