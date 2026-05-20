@@ -1,7 +1,7 @@
 {
-  "last_refreshed": "2026-05-20T00:00:00+00:00",
-  "source": "Hardcoded seed \u2014 top 100 US stocks by market cap May 2026",
-  "method": "Manual seed list; monthly refresh will update via Alpaca assets API",
+  "last_refreshed": "2026-05-20T19:07:27.962736+00:00",
+  "source": "Hardcoded seed list \u2014 update TOP100 in refresh_universe.py monthly",
+  "method": "top 99 US common stocks by market cap (manual seed)",
   "tickers": [
     "NVDA",
     "MSFT",
@@ -67,7 +67,6 @@
     "ADP",
     "MSTR",
     "CB",
-    "MMC",
     "PFE",
     "GILD",
     "BKNG",
@@ -426,11 +425,6 @@
       "sector": "Financials"
     },
     {
-      "symbol": "MMC",
-      "name": "Marsh & McLennan Companies Inc.",
-      "sector": "Financials"
-    },
-    {
       "symbol": "PFE",
       "name": "Pfizer Inc.",
       "sector": "Health Care"
@@ -606,5 +600,5 @@
       "sector": "Materials"
     }
   ],
-  "notes": "FMP stock screener requires paid tier; using hardcoded seed + Alpaca-based refresh"
+  "notes": "FMP free tier does not support screener; using curated seed list instead."
 }
