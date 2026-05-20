@@ -1,0 +1,7 @@
+{
+  "last_refreshed": null,
+  "source": "Alpaca assets API + Polygon-free market cap proxy via FMP",
+  "method": "top 100 US common stocks by market cap, Alpaca-tradeable",
+  "tickers": [],
+  "notes": "Populated by scripts/refresh_universe.py. Run that script before the first scoring job."
+}

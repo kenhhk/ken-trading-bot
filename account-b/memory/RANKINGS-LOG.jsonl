@@ -1,0 +1,1 @@
+{"_schema": "Append-only log. One JSON object per stock-day. Schema: {session_date, scored_at_utc, ticker, attractiveness_1d, attractiveness_1w, attractiveness_1m, attractiveness_3m, attractiveness_6m, attractiveness_1y, price_target_1d, eps_fy1, eps_fy2, sentiment, divergence, russell_1d, model, web_searches_used, error}"}
