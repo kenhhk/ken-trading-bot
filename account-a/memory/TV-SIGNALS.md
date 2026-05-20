@@ -77,3 +77,4 @@
 | 2026-05-20 | 20:07 UTC | A | BP | ? | STRONG_BULL | 45.14 | D | NEW |
 | 2026-05-20 | 20:10 UTC | A | KGC | ? | STRONG_BEAR | 28.64 | D | NEW |
 | 2026-05-20 | 20:16 UTC | A | ZURVY | ? | BULLISH_FLIP | 36.39 | D | NEW |
+| 2026-05-20 | 20:16 UTC | A | VISA | ? | STRONG_BULL | 30.38 | D | NEW |
