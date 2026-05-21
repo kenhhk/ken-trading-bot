@@ -71,16 +71,25 @@ def compute_target_portfolio(
     enriched.sort(key=lambda x: (-x[0], -x[1]))
     top = enriched[:TARGET_HOLDINGS]
 
-    total_mcap = sum(x[1] for x in top) or 1.0
-    target = {}
-    for score, mcap, row in top:
-        weight = mcap / total_mcap
-        target[row["ticker"]] = {
-            "weight": weight,
-            "dollar": equity * weight,
-            "score": score,
-            "mcap": mcap,
-        }
+    total_mcap = sum(x[1] for x in top)
+    if total_mcap == 0:
+        print("[rebalance] WARNING: no market cap data, using equal weighting")
+        for score, mcap, row in top:
+            target[row["ticker"]] = {
+                "weight": 1 / TARGET_HOLDINGS,
+                "dollar": equity / TARGET_HOLDINGS,
+                "score": score,
+                "mcap": 0,
+            }
+    else:
+        for score, mcap, row in top:
+            weight = mcap / total_mcap
+            target[row["ticker"]] = {
+                "weight": weight,
+                "dollar": equity * weight,
+                "score": score,
+                "mcap": mcap,
+            }
     return target
 
 
@@ -142,16 +151,17 @@ def get_reference_prices(tickers: list[str]) -> dict[str, float]:
 def main() -> int:
     print(f"[rebalance] start {datetime.now(timezone.utc).isoformat()}")
 
-    # Verify market is open today
+    # Verify today is a trading day (not weekend/holiday)
+    # OPG orders can be submitted any time after previous close up to 9:28 AM ET
     try:
-        clock = alpaca.get_clock()
-        next_open = datetime.fromisoformat(clock["next_open"].replace("Z", "+00:00"))
-        now = datetime.fromisoformat(clock["timestamp"].replace("Z", "+00:00"))
-        if next_open.date() != now.date() and not clock.get("is_open"):
-            print("[rebalance] market not open today; exiting")
+        today_str_check = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+        cal = alpaca.get_calendar(today_str_check, today_str_check)
+        if not cal or cal[0].get("date") != today_str_check:
+            print("[rebalance] today is not a trading day; exiting")
             return 0
+        print(f"[rebalance] confirmed trading day: {today_str_check}")
     except Exception as e:
-        notify.alert("rebalance clock check failed", str(e), sms=True)
+        notify.alert("rebalance calendar check failed", str(e), sms=True)
         return 1
 
     # Load today's scores
