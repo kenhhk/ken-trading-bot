@@ -35,9 +35,14 @@ ORDER_WAIT_SECONDS = 60
 
 
 def load_todays_scores() -> list[dict]:
-    """Read the JSONL file, return only rows for today's session_date."""
-    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    rows = []
+    """Return scores for the most recent session_date in the log.
+
+    Using latest session_date rather than today's date handles:
+    - Monday holidays (Friday scores labeled Tuesday still get picked up)
+    - GitHub Actions cron delays crossing midnight
+    - Any timezone edge cases around UTC date boundaries
+    """
+    all_rows: dict = {}
     with RANKINGS_FILE.open() as f:
         for line in f:
             line = line.strip()
@@ -47,9 +52,15 @@ def load_todays_scores() -> list[dict]:
                 row = json.loads(line)
             except json.JSONDecodeError:
                 continue
-            if row.get("session_date") == today and row.get("attractiveness_1d") is not None:
-                rows.append(row)
-    return rows
+            if row.get("attractiveness_1d") is not None:
+                sd = row.get("session_date")
+                if sd:
+                    all_rows.setdefault(sd, []).append(row)
+    if not all_rows:
+        return []
+    latest = max(all_rows.keys())
+    print(f"[rebalance] using scores for session_date={latest} ({len(all_rows[latest])} rows)")
+    return all_rows[latest]
 
 
 def load_universe_mcaps() -> dict[str, float]:
