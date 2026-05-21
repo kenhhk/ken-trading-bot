@@ -79,3 +79,4 @@
 | 2026-05-20 | 20:16 UTC | A | ZURVY | ? | BULLISH_FLIP | 36.39 | D | NEW |
 | 2026-05-20 | 20:16 UTC | A | VISA | ? | STRONG_BULL | 30.38 | D | NEW |
 | 2026-05-21 | 20:01 UTC | A | SCHW | ? | STRONG_BEAR | 90.4 | D | NEW |
+| 2026-05-21 | 20:16 UTC | A | BYDDY | ? | STRONG_BEAR | 11.54 | D | NEW |
