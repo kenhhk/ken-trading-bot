@@ -26,3 +26,15 @@ Each week appended below. Template:
 ```
 
 ---
+
+## Week ending 2026-05-22
+- Equity start: $25,000.00
+- Equity end: $25,000.00
+- Week return: +0.00% ($+0.00)
+- SPY: n/a
+- IWB: n/a
+- Phase return: +0.00%
+- Sharpe: n/a
+- Turnover: n/a
+- Top 5 holdings: 
+- Grade: ?
