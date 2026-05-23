@@ -82,3 +82,4 @@
 | 2026-05-21 | 20:16 UTC | A | BYDDY | ? | STRONG_BEAR | 11.54 | D | NEW |
 | 2026-05-22 | 20:01 UTC | A | RYLD | ? | STRONG_BULL | 15.64 | D | NEW |
 | 2026-05-22 | 20:16 UTC | A | GLO | ? | STRONG_BEAR | 0.67 | D | NEW |
+| 2026-05-23 | 00:01 UTC | A | BNBUSD | ? | STRONG_BULL | 649.19 | D | NEW |
