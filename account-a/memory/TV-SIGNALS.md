@@ -88,3 +88,4 @@
 | 2026-05-26 | 20:01 UTC | A | BN | ? | STRONG_BULL | 46.04 | D | NEW |
 | 2026-05-26 | 20:16 UTC | A | BAYRY | ? | STRONG_BEAR | 10.92 | D | NEW |
 | 2026-05-27 | 20:01 UTC | A | VRT | ? | STRONG_BULL | 319.75 | D | NEW |
+| 2026-05-27 | 20:16 UTC | A | CSU | ? | BULLISH_FLIP | 2647.0 | D | NEW |
