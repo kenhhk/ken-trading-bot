@@ -82,6 +82,7 @@ def compute_target_portfolio(
     enriched.sort(key=lambda x: (-x[0], -x[1]))
     top = enriched[:TARGET_HOLDINGS]
 
+    target: dict = {}
     total_mcap = sum(x[1] for x in top)
     if total_mcap == 0:
         print("[rebalance] WARNING: no market cap data, using equal weighting")
