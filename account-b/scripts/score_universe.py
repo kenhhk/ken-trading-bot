@@ -55,9 +55,9 @@ Then output a single attractiveness score on a scale of -5 to +5:
 Calibrate against the ENTIRE historical US equity universe since 1900. Scores above +3 or below -3 should be rare.
 
 Write 2-3 sentences of reasoning, then output exactly this on the last line:
-RESULT={score}
+RESULT={{score}}
 
-Where {score} is a single float. Example: RESULT=1.5"""
+Where {{score}} is a single float. Example: RESULT=1.5"""
 
 
 RESULT_PATTERN = re.compile(r"RESULT\s*=\s*(-?\d+(?:\.\d+)?)", re.IGNORECASE)
