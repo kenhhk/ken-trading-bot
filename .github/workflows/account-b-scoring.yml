@@ -1,19 +1,21 @@
-name: Acct-B Nightly Scoring
+name: Acct-B Nightly Scoring + Rebalance
 
 on:
   schedule:
     # Mon-Fri at 22:00 UTC = 18:00 ET (EDT) / 17:00 ET (EST)
-    # Runs ~2 hours after market close. Scoring takes ~15-30 min.
+    # Scoring runs ~2 hours after market close, then rebalance submits
+    # OPG orders immediately after. Orders sit in Alpaca queue overnight
+    # and fill at the 9:30 AM ET opening auction.
     - cron: '0 22 * * 1-5'
-  workflow_dispatch:  # manual trigger from GitHub UI
+  workflow_dispatch:
 
 permissions:
-  contents: write  # required for git push
+  contents: write
 
 jobs:
   score:
     runs-on: ubuntu-latest
-    timeout-minutes: 60  # generous; expected ~30 min
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
         with:
@@ -43,3 +45,20 @@ jobs:
           NOTIFY_EMAIL: ${{ secrets.NOTIFY_EMAIL }}
           NOTIFY_PHONE: ${{ secrets.NOTIFY_PHONE }}
         run: python account-b/scripts/score_universe.py
+
+      - name: Pull latest (scoring job commits RANKINGS-LOG)
+        run: git pull --rebase origin main
+
+      - name: Run rebalance
+        env:
+          ALPACA_KEY_B: ${{ secrets.ALPACA_KEY_B }}
+          ALPACA_SECRET_B: ${{ secrets.ALPACA_SECRET_B }}
+          ALPACA_ENDPOINT: https://paper-api.alpaca.markets/v2
+          ALPACA_DATA_ENDPOINT: https://data.alpaca.markets/v2
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPO: ${{ github.repository }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          NOTIFY_EMAIL: ${{ secrets.NOTIFY_EMAIL }}
+          NOTIFY_PHONE: ${{ secrets.NOTIFY_PHONE }}
+        run: python account-b/scripts/rebalance.py
