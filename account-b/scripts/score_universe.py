@@ -5,7 +5,7 @@ in UNIVERSE.json and appends scores to RANKINGS-LOG.jsonl.
 
 Cost-optimized version:
 - Stripped prompt to only what drives decisions (attractiveness_1d)
-- MAX_TOKENS = 400 (was 1500)
+- MAX_TOKENS = 600 (was 1500)
 - WEB_SEARCH_MAX = 1 (was 3)
 - Model: claude-haiku-4-5 for cost; swap to sonnet if quality is poor
 
@@ -38,26 +38,28 @@ REPO_ROOT = UNIVERSE_FILE.parent.parent.parent
 MODEL = "claude-haiku-4-5-20251001"   # cheapest capable model; swap to claude-sonnet-4-5-20250929 if needed
 MAX_RETRIES = 1
 WEB_SEARCH_MAX = 1                     # 1 search per stock keeps cost low
-MAX_TOKENS = 400                       # enough for reasoning + RESULT line
+MAX_TOKENS = 600                       # enough for reasoning + RESULT line
 FAILURE_THRESHOLD = 0.10
 
 
-# Lean prompt — only asks for what we actually use
+# Lean prompt — RESULT first to avoid token cutoff
 PROMPT_TEMPLATE = """You are an expert portfolio manager. Evaluate {ticker} for a 1-day horizon.
 
 Run 1 web search to get the latest news, price action, and analyst sentiment for {ticker}.
 
-Then output a single attractiveness score on a scale of -5 to +5:
+Respond in exactly this format — RESULT line FIRST, then reasoning:
+
+RESULT=<score>
+
+Reasoning: <2-3 sentences>
+
+Where <score> is a single float from -5 to +5:
   -5 = Strong Sell (extremely unattractive vs all US stocks historically)
    0 = Neutral
   +5 = Strong Buy (extremely attractive vs all US stocks historically)
 
 Calibrate against the ENTIRE historical US equity universe since 1900. Scores above +3 or below -3 should be rare.
-
-Write 2-3 sentences of reasoning, then output exactly this on the last line:
-RESULT={{score}}
-
-Where {{score}} is a single float. Example: RESULT=1.5"""
+Example: RESULT=1.5"""
 
 
 RESULT_PATTERN = re.compile(r"RESULT\s*=\s*(-?\d+(?:\.\d+)?)", re.IGNORECASE)
