@@ -38,3 +38,14 @@ Each week appended below. Template:
 - Turnover: n/a
 - Top 5 holdings: 
 - Grade: ?
+## Week ending 2026-05-29
+- Equity start: $25,000.00
+- Equity end: $25,000.00
+- Week return: +0.00% ($+0.00)
+- SPY: n/a
+- IWB: n/a
+- Phase return: +0.00%
+- Sharpe: n/a
+- Avg daily turnover (last 2 sessions): 75%
+- Top 5 holdings: 
+- Grade: ?
