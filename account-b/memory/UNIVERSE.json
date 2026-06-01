@@ -1,5 +1,5 @@
 {
-  "last_refreshed": "2026-05-20T19:16:44.677603+00:00",
+  "last_refreshed": "2026-06-01T23:20:29.403790+00:00",
   "source": "Hardcoded seed list \u2014 update TOP100 in refresh_universe.py monthly",
   "method": "top 100 US common stocks by market cap (manual seed)",
   "tickers": [
