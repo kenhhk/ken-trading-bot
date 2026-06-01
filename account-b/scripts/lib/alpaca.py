@@ -68,24 +68,30 @@ def get_latest_quote(symbol: str) -> Optional[dict]:
     return r.json().get("quote")
 
 
-def submit_opg_order(symbol: str, qty: float, side: str) -> dict:
-    """Submit a market-on-open (OPG) order. Fractional supported for 'market' type."""
+def submit_market_order(symbol: str, qty: float, side: str) -> dict:
+    """Submit a regular market order (time_in_force: day).
+
+    Fills immediately at current market price during market hours.
+    Much more reliable than OPG which expires if not filled at the opening auction.
+    Rebalance workflow fires at 9:35 AM ET so market is open when this runs.
+    """
     _require_keys()
-    # OPG TIF requires whole shares per Alpaca docs. For fractional we'd need market + day,
-    # but that fills immediately at market open if submitted just before 9:30. Use OPG with
-    # rounded shares; tiny dollar drift is acceptable on $25K capital.
     qty_int = max(1, int(round(qty)))
     body = {
         "symbol": symbol,
         "qty": str(qty_int),
         "side": side,
         "type": "market",
-        "time_in_force": "opg",
+        "time_in_force": "day",
     }
     r = requests.post(f"{ALPACA_BASE}/orders", headers=HEADERS, json=body, timeout=15)
     if r.status_code >= 400:
         return {"error": True, "status": r.status_code, "body": r.text, "submitted": body}
     return r.json()
+
+
+# Keep old name as alias for backward compatibility
+submit_opg_order = submit_market_order
 
 
 def list_orders(status: str = "all", limit: int = 100) -> list[dict]:
