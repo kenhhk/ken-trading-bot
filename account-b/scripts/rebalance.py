@@ -163,17 +163,18 @@ def get_reference_prices(tickers: list[str]) -> dict[str, float]:
 def main() -> int:
     print(f"[rebalance] start {datetime.now(timezone.utc).isoformat()}")
 
-    # Verify today is a trading day (not weekend/holiday)
-    # OPG orders can be submitted any time after previous close up to 9:28 AM ET
+    # Verify market is currently open (regular market hours 9:30-4:00 ET)
+    # Rebalance fires at 9:35 AM ET so market should be open.
+    # If GitHub delays push it past 4:00 PM ET, skip gracefully.
     try:
-        today_str_check = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-        cal = alpaca.get_calendar(today_str_check, today_str_check)
-        if not cal or cal[0].get("date") != today_str_check:
-            print("[rebalance] today is not a trading day; exiting")
+        clock = alpaca.get_clock()
+        if not clock.get("is_open"):
+            print("[rebalance] market is not open right now; exiting")
+            notify.alert("rebalance SKIPPED", "Market not open when rebalance ran. Check cron timing.", sms=False)
             return 0
-        print(f"[rebalance] confirmed trading day: {today_str_check}")
+        print(f"[rebalance] market is open, proceeding")
     except Exception as e:
-        notify.alert("rebalance calendar check failed", str(e), sms=True)
+        notify.alert("rebalance clock check failed", str(e), sms=True)
         return 1
 
     # Load today's scores
