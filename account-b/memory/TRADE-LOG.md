@@ -98,3 +98,12 @@ Today's target portfolio (top 20 by score, value-weighted by mcap):
   PLTR   score:+2.00 weight: 5.00% target: $1,250
   AMZN   score:+1.80 weight: 5.00% target: $1,250
 ```
+
+## 2026-06-01 — EOD Snapshot
+Equity: $25,024.93 | Cash: $23,987.92
+Day P&L: $+24.93 (+0.10%) | Phase P&L: $+24.93 (+0.10%)
+Positions: 1
+
+| Ticker | Qty | Avg Entry | Current | Market Value | Unrealized P&L |
+|--------|-----|-----------|---------|--------------|----------------|
+| MU | 1 | $1012.08 | $1037.01 | $1,037.01 | $+24.93 (+2.46%) |
