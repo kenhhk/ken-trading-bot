@@ -107,3 +107,32 @@ Positions: 1
 | Ticker | Qty | Avg Entry | Current | Market Value | Unrealized P&L |
 |--------|-----|-----------|---------|--------------|----------------|
 | MU | 1 | $1012.08 | $1037.01 | $1,037.01 | $+24.93 (+2.46%) |
+
+## 2026-06-02 — Rebalance
+```
+Equity: $25,020
+Target: 20 positions, sells: 1, buys: 20
+Filled: 21, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  NOW    score:+2.30 weight: 5.00% target: $1,251
+  GE     score:+2.20 weight: 5.00% target: $1,251
+  GEV    score:+2.20 weight: 5.00% target: $1,251
+  NVDA   score:+2.10 weight: 5.00% target: $1,251
+  ORCL   score:+2.10 weight: 5.00% target: $1,251
+  ANET   score:+2.10 weight: 5.00% target: $1,251
+  PH     score:+2.10 weight: 5.00% target: $1,251
+  WDAY   score:+2.10 weight: 5.00% target: $1,251
+  LLY    score:+2.00 weight: 5.00% target: $1,251
+  AMAT   score:+2.00 weight: 5.00% target: $1,251
+  PANW   score:+2.00 weight: 5.00% target: $1,251
+  ADI    score:+2.00 weight: 5.00% target: $1,251
+  LRCX   score:+2.00 weight: 5.00% target: $1,251
+  CRWD   score:+2.00 weight: 5.00% target: $1,251
+  CDNS   score:+2.00 weight: 5.00% target: $1,251
+  VRT    score:+2.00 weight: 5.00% target: $1,251
+  APH    score:+2.00 weight: 5.00% target: $1,251
+  META   score:+1.80 weight: 5.00% target: $1,251
+  MSFT   score:+1.20 weight: 5.00% target: $1,251
+  AMZN   score:+1.20 weight: 5.00% target: $1,251
+```
