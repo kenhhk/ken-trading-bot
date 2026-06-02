@@ -2,9 +2,6 @@ name: Acct-B Morning Rebalance
 
 on:
   schedule:
-    # Mon-Fri at 13:35 UTC = 09:35 ET (EDT)
-    # Regular market orders, not OPG. Market is open 9:30-4:00 ET.
-    # GitHub cron can be delayed 15-30 min — still fine, market stays open.
     - cron: '35 13 * * 1-5'
   workflow_dispatch:
 
@@ -34,15 +31,6 @@ jobs:
         env:
           ALPACA_KEY_B: ${{ secrets.ALPACA_KEY_B }}
           ALPACA_SECRET_B: ${{ secrets.ALPACA_SECRET_B }}
-          ALPACA_ENDPOINT: https://paper-api.alpaca.markets/v2
-          ALPACA_DATA_ENDPOINT: https://data.alpaca.markets/v2
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_REPO: ${{ github.repository }}
-          SMTP_USER: ${{ secrets.SMTP_USER }}
-          SMTP_PASS: ${{ secrets.SMTP_PASS }}
-          NOTIFY_EMAIL: ${{ secrets.NOTIFY_EMAIL }}
-          NOTIFY_PHONE: ${{ secrets.NOTIFY_PHONE }}
-        run: python account-b/scripts/rebalance.py
           ALPACA_ENDPOINT: https://paper-api.alpaca.markets/v2
           ALPACA_DATA_ENDPOINT: https://data.alpaca.markets/v2
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
