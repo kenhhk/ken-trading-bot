@@ -164,3 +164,32 @@ Positions: 20
 | ADI | 2 | $417.30 | $422.00 | $844.00 | $+9.40 (+1.13%) |
 | PH | 1 | $828.97 | $837.00 | $837.00 | $+8.03 (+0.97%) |
 | CRWD | 1 | $753.46 | $784.00 | $784.00 | $+30.54 (+4.05%) |
+
+## 2026-06-03 — Rebalance
+```
+Equity: $24,771
+Target: 20 positions, sells: 12, buys: 11
+Filled: 23, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  GE     score:+2.20 weight: 5.00% target: $1,239
+  APP    score:+2.20 weight: 5.00% target: $1,239
+  AVGO   score:+2.10 weight: 5.00% target: $1,239
+  AMD    score:+2.10 weight: 5.00% target: $1,239
+  AMAT   score:+2.10 weight: 5.00% target: $1,239
+  ADI    score:+2.10 weight: 5.00% target: $1,239
+  NVDA   score:+2.00 weight: 5.00% target: $1,239
+  LRCX   score:+2.00 weight: 5.00% target: $1,239
+  KLAC   score:+2.00 weight: 5.00% target: $1,239
+  CRWD   score:+2.00 weight: 5.00% target: $1,239
+  APH    score:+2.00 weight: 5.00% target: $1,239
+  AXON   score:+2.00 weight: 5.00% target: $1,239
+  GEV    score:+2.00 weight: 5.00% target: $1,239
+  CARR   score:+2.00 weight: 5.00% target: $1,239
+  GOOG   score:+1.80 weight: 5.00% target: $1,239
+  GOOGL  score:+1.20 weight: 5.00% target: $1,239
+  XOM    score:+1.20 weight: 5.00% target: $1,239
+  UNH    score:+1.20 weight: 5.00% target: $1,239
+  WMT    score:+1.20 weight: 5.00% target: $1,239
+  QCOM   score:+1.20 weight: 5.00% target: $1,239
+```
