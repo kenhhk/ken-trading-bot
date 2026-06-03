@@ -193,3 +193,32 @@ Today's target portfolio (top 20 by score, value-weighted by mcap):
   WMT    score:+1.20 weight: 5.00% target: $1,239
   QCOM   score:+1.20 weight: 5.00% target: $1,239
 ```
+
+## 2026-06-03 — Rebalance
+```
+Equity: $24,975
+Target: 20 positions, sells: 0, buys: 0
+Filled: 23, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  GE     score:+2.20 weight: 5.00% target: $1,249
+  APP    score:+2.20 weight: 5.00% target: $1,249
+  AVGO   score:+2.10 weight: 5.00% target: $1,249
+  AMD    score:+2.10 weight: 5.00% target: $1,249
+  AMAT   score:+2.10 weight: 5.00% target: $1,249
+  ADI    score:+2.10 weight: 5.00% target: $1,249
+  NVDA   score:+2.00 weight: 5.00% target: $1,249
+  LRCX   score:+2.00 weight: 5.00% target: $1,249
+  KLAC   score:+2.00 weight: 5.00% target: $1,249
+  CRWD   score:+2.00 weight: 5.00% target: $1,249
+  APH    score:+2.00 weight: 5.00% target: $1,249
+  AXON   score:+2.00 weight: 5.00% target: $1,249
+  GEV    score:+2.00 weight: 5.00% target: $1,249
+  CARR   score:+2.00 weight: 5.00% target: $1,249
+  GOOG   score:+1.80 weight: 5.00% target: $1,249
+  GOOGL  score:+1.20 weight: 5.00% target: $1,249
+  XOM    score:+1.20 weight: 5.00% target: $1,249
+  UNH    score:+1.20 weight: 5.00% target: $1,249
+  WMT    score:+1.20 weight: 5.00% target: $1,249
+  QCOM   score:+1.20 weight: 5.00% target: $1,249
+```
