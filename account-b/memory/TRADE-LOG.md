@@ -249,3 +249,32 @@ Positions: 19
 | ADI | 2 | $417.30 | $437.38 | $874.76 | $+40.16 (+4.81%) |
 | AVGO | 2 | $475.99 | $418.93 | $837.85 | $-114.13 (-11.99%) |
 | CRWD | 1 | $753.46 | $673.23 | $673.23 | $-80.23 (-10.65%) |
+
+## 2026-06-04 — Rebalance
+```
+Equity: $24,814
+Target: 20 positions, sells: 12, buys: 13
+Filled: 25, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  PH     score:+2.20 weight: 5.00% target: $1,241
+  CDNS   score:+2.20 weight: 5.00% target: $1,241
+  AMD    score:+2.10 weight: 5.00% target: $1,241
+  ADI    score:+2.10 weight: 5.00% target: $1,241
+  AMAT   score:+2.00 weight: 5.00% target: $1,241
+  CRWD   score:+2.00 weight: 5.00% target: $1,241
+  CARR   score:+2.00 weight: 5.00% target: $1,241
+  META   score:+1.80 weight: 5.00% target: $1,241
+  VRT    score:+1.80 weight: 5.00% target: $1,241
+  PM     score:+1.20 weight: 5.00% target: $1,241
+  RTX    score:+1.20 weight: 5.00% target: $1,241
+  GE     score:+1.20 weight: 5.00% target: $1,241
+  BLK    score:+1.20 weight: 5.00% target: $1,241
+  UBER   score:+1.20 weight: 5.00% target: $1,241
+  CB     score:+1.20 weight: 5.00% target: $1,241
+  DHR    score:+1.20 weight: 5.00% target: $1,241
+  WELL   score:+1.20 weight: 5.00% target: $1,241
+  APH    score:+1.20 weight: 5.00% target: $1,241
+  CVX    score:+1.20 weight: 5.00% target: $1,241
+  SNPS   score:+0.90 weight: 5.00% target: $1,241
+```
