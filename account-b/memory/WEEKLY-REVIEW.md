@@ -49,3 +49,14 @@ Each week appended below. Template:
 - Avg daily turnover (last 2 sessions): 75%
 - Top 5 holdings: 
 - Grade: ?
+## Week ending 2026-06-05
+- Equity start: $25,023.42
+- Equity end: $24,198.22
+- Week return: -3.30% ($-825.20)
+- SPY: n/a
+- IWB: n/a
+- Phase return: -3.21%
+- Sharpe-to-date (ann.): -3.94
+- Avg daily turnover (last 5 sessions): 54%
+- Top 5 holdings: PM (5.2%), NOW (5.1%), XOM (5.0%), UNH (4.9%), META (4.9%)
+- Grade: ?
