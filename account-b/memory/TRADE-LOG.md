@@ -306,3 +306,32 @@ Positions: 20
 | ADI | 2 | $417.30 | $424.70 | $849.40 | $+14.80 (+1.77%) |
 | CRWD | 1 | $753.46 | $718.01 | $718.01 | $-35.45 (-4.71%) |
 | META | 1 | $632.33 | $626.25 | $626.25 | $-6.08 (-0.96%) |
+
+## 2026-06-05 — Rebalance
+```
+Equity: $24,455
+Target: 20 positions, sells: 14, buys: 14
+Filled: 28, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  GOOG   score:+2.20 weight: 5.00% target: $1,223
+  KLAC   score:+2.20 weight: 5.00% target: $1,223
+  NVDA   score:+2.10 weight: 5.00% target: $1,223
+  LLY    score:+2.10 weight: 5.00% target: $1,223
+  BAC    score:+2.00 weight: 5.00% target: $1,223
+  AMAT   score:+2.00 weight: 5.00% target: $1,223
+  ANET   score:+2.00 weight: 5.00% target: $1,223
+  PH     score:+2.00 weight: 5.00% target: $1,223
+  UNH    score:+1.80 weight: 5.00% target: $1,223
+  META   score:+1.20 weight: 5.00% target: $1,223
+  V      score:+1.20 weight: 5.00% target: $1,223
+  XOM    score:+1.20 weight: 5.00% target: $1,223
+  PM     score:+1.20 weight: 5.00% target: $1,223
+  ABT    score:+1.20 weight: 5.00% target: $1,223
+  RTX    score:+1.20 weight: 5.00% target: $1,223
+  NOW    score:+1.20 weight: 5.00% target: $1,223
+  AXP    score:+1.20 weight: 5.00% target: $1,223
+  GE     score:+1.20 weight: 5.00% target: $1,223
+  ISRG   score:+1.20 weight: 5.00% target: $1,223
+  PANW   score:+1.20 weight: 5.00% target: $1,223
+```
