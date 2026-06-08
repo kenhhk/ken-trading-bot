@@ -362,3 +362,32 @@ Positions: 19
 | AMAT | 2 | $479.77 | $449.50 | $899.00 | $-60.54 (-6.31%) |
 | PH | 1 | $867.98 | $882.34 | $882.34 | $+14.36 (+1.65%) |
 | ISRG | 2 | $426.93 | $419.28 | $838.56 | $-15.30 (-1.79%) |
+
+## 2026-06-08 — Rebalance
+```
+Equity: $24,357
+Target: 20 positions, sells: 10, buys: 11
+Filled: 21, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  LLY    score:+2.20 weight: 5.00% target: $1,218
+  UBER   score:+2.10 weight: 5.00% target: $1,218
+  ORCL   score:+2.00 weight: 5.00% target: $1,218
+  MS     score:+2.00 weight: 5.00% target: $1,218
+  DHR    score:+2.00 weight: 5.00% target: $1,218
+  WDAY   score:+2.00 weight: 5.00% target: $1,218
+  RTX    score:+1.80 weight: 5.00% target: $1,218
+  AXON   score:+1.80 weight: 5.00% target: $1,218
+  APP    score:+1.50 weight: 5.00% target: $1,218
+  AAPL   score:+1.20 weight: 5.00% target: $1,218
+  AMZN   score:+1.20 weight: 5.00% target: $1,218
+  GOOG   score:+1.20 weight: 5.00% target: $1,218
+  V      score:+1.20 weight: 5.00% target: $1,218
+  UNH    score:+1.20 weight: 5.00% target: $1,218
+  TXN    score:+1.20 weight: 5.00% target: $1,218
+  AXP    score:+1.20 weight: 5.00% target: $1,218
+  GE     score:+1.20 weight: 5.00% target: $1,218
+  ISRG   score:+1.20 weight: 5.00% target: $1,218
+  PANW   score:+1.20 weight: 5.00% target: $1,218
+  LRCX   score:+1.20 weight: 5.00% target: $1,218
+```
