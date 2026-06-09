@@ -419,3 +419,32 @@ Positions: 20
 | AXP | 3 | $308.45 | $312.30 | $936.90 | $+11.55 (+1.25%) |
 | AAPL | 3 | $313.65 | $300.29 | $900.87 | $-40.08 (-4.26%) |
 | ISRG | 2 | $426.93 | $418.15 | $836.30 | $-17.56 (-2.06%) |
+
+## 2026-06-09 — Rebalance
+```
+Equity: $23,806
+Target: 20 positions, sells: 11, buys: 11
+Filled: 22, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  NVDA   score:+2.10 weight: 5.00% target: $1,190
+  LLY    score:+2.10 weight: 5.00% target: $1,190
+  APP    score:+2.10 weight: 5.00% target: $1,190
+  KLAC   score:+2.10 weight: 5.00% target: $1,190
+  CDNS   score:+2.10 weight: 5.00% target: $1,190
+  UNH    score:+2.00 weight: 5.00% target: $1,190
+  MU     score:+2.00 weight: 5.00% target: $1,190
+  APH    score:+2.00 weight: 5.00% target: $1,190
+  AAPL   score:+1.20 weight: 5.00% target: $1,190
+  AMZN   score:+1.20 weight: 5.00% target: $1,190
+  BRK.B  score:+1.20 weight: 5.00% target: $1,190
+  JPM    score:+1.20 weight: 5.00% target: $1,190
+  V      score:+1.20 weight: 5.00% target: $1,190
+  ORCL   score:+1.20 weight: 5.00% target: $1,190
+  XOM    score:+1.20 weight: 5.00% target: $1,190
+  WMT    score:+1.20 weight: 5.00% target: $1,190
+  RTX    score:+1.20 weight: 5.00% target: $1,190
+  PG     score:+1.20 weight: 5.00% target: $1,190
+  GE     score:+1.20 weight: 5.00% target: $1,190
+  HON    score:+1.20 weight: 5.00% target: $1,190
+```
