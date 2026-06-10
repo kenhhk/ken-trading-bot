@@ -475,3 +475,32 @@ Positions: 19
 | AMZN | 4 | $245.68 | $243.55 | $974.20 | $-8.52 (-0.87%) |
 | JPM | 3 | $310.51 | $312.09 | $936.27 | $+4.74 (+0.51%) |
 | MU | 1 | $864.85 | $919.04 | $919.04 | $+54.19 (+6.27%) |
+
+## 2026-06-10 — Rebalance
+```
+Equity: $23,846
+Target: 20 positions, sells: 10, buys: 10
+Filled: 20, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  MU     score:+2.50 weight: 5.00% target: $1,192
+  KLAC   score:+2.20 weight: 5.00% target: $1,192
+  CDNS   score:+2.10 weight: 5.00% target: $1,192
+  APH    score:+2.10 weight: 5.00% target: $1,192
+  UNH    score:+2.00 weight: 5.00% target: $1,192
+  AMAT   score:+2.00 weight: 5.00% target: $1,192
+  ADI    score:+1.80 weight: 5.00% target: $1,192
+  WMT    score:+1.50 weight: 5.00% target: $1,192
+  AMD    score:+1.50 weight: 5.00% target: $1,192
+  NVDA   score:+1.20 weight: 5.00% target: $1,192
+  LLY    score:+1.20 weight: 5.00% target: $1,192
+  V      score:+1.20 weight: 5.00% target: $1,192
+  RTX    score:+1.20 weight: 5.00% target: $1,192
+  PANW   score:+1.20 weight: 5.00% target: $1,192
+  LRCX   score:+1.20 weight: 5.00% target: $1,192
+  UBER   score:+1.20 weight: 5.00% target: $1,192
+  PH     score:+1.20 weight: 5.00% target: $1,192
+  CB     score:+1.20 weight: 5.00% target: $1,192
+  BKNG   score:+1.20 weight: 5.00% target: $1,192
+  DHR    score:+1.20 weight: 5.00% target: $1,192
+```
