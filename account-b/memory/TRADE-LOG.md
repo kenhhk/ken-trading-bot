@@ -531,3 +531,32 @@ Positions: 19
 | AMD | 2 | $453.81 | $443.55 | $887.10 | $-20.52 (-2.26%) |
 | MU | 1 | $864.85 | $875.61 | $875.61 | $+10.76 (+1.24%) |
 | PH | 1 | $891.55 | $875.25 | $875.25 | $-16.30 (-1.83%) |
+
+## 2026-06-11 — Rebalance
+```
+Equity: $23,908
+Target: 20 positions, sells: 11, buys: 12
+Filled: 23, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  LRCX   score:+2.20 weight: 5.00% target: $1,195
+  VRT    score:+2.20 weight: 5.00% target: $1,195
+  APH    score:+2.20 weight: 5.00% target: $1,195
+  GOOG   score:+2.10 weight: 5.00% target: $1,195
+  MS     score:+2.10 weight: 5.00% target: $1,195
+  KLAC   score:+2.10 weight: 5.00% target: $1,195
+  LLY    score:+2.00 weight: 5.00% target: $1,195
+  NOW    score:+2.00 weight: 5.00% target: $1,195
+  CDNS   score:+2.00 weight: 5.00% target: $1,195
+  WMT    score:+1.20 weight: 5.00% target: $1,195
+  RTX    score:+1.20 weight: 5.00% target: $1,195
+  TXN    score:+1.20 weight: 5.00% target: $1,195
+  GE     score:+1.20 weight: 5.00% target: $1,195
+  AMAT   score:+1.20 weight: 5.00% target: $1,195
+  MU     score:+1.20 weight: 5.00% target: $1,195
+  APP    score:+1.20 weight: 5.00% target: $1,195
+  ECL    score:+1.20 weight: 5.00% target: $1,195
+  SO     score:+1.20 weight: 5.00% target: $1,195
+  LIN    score:+1.20 weight: 5.00% target: $1,195
+  ANET   score:+1.00 weight: 5.00% target: $1,195
+```
