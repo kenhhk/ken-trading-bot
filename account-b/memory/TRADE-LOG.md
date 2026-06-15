@@ -644,3 +644,32 @@ Positions: 20
 | APP | 2 | $484.86 | $495.00 | $990.00 | $+20.28 (+2.09%) |
 | MU | 1 | $864.85 | $984.75 | $984.75 | $+119.90 (+13.86%) |
 | CRWD | 1 | $684.70 | $683.00 | $683.00 | $-1.70 (-0.25%) |
+
+## 2026-06-15 — Rebalance
+```
+Equity: $25,151
+Target: 20 positions, sells: 10, buys: 10
+Filled: 20, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  AMD    score:+2.50 weight: 5.00% target: $1,258
+  APP    score:+2.10 weight: 5.00% target: $1,258
+  PANW   score:+2.00 weight: 5.00% target: $1,258
+  VRT    score:+2.00 weight: 5.00% target: $1,258
+  ANET   score:+1.80 weight: 5.00% target: $1,258
+  TDG    score:+1.80 weight: 5.00% target: $1,258
+  NVDA   score:+1.20 weight: 5.00% target: $1,258
+  AAPL   score:+1.20 weight: 5.00% target: $1,258
+  GOOGL  score:+1.20 weight: 5.00% target: $1,258
+  GOOG   score:+1.20 weight: 5.00% target: $1,258
+  V      score:+1.20 weight: 5.00% target: $1,258
+  WMT    score:+1.20 weight: 5.00% target: $1,258
+  MS     score:+1.20 weight: 5.00% target: $1,258
+  AMGN   score:+1.20 weight: 5.00% target: $1,258
+  TXN    score:+1.20 weight: 5.00% target: $1,258
+  HON    score:+1.20 weight: 5.00% target: $1,258
+  AMAT   score:+1.20 weight: 5.00% target: $1,258
+  ADI    score:+1.20 weight: 5.00% target: $1,258
+  APH    score:+1.20 weight: 5.00% target: $1,258
+  ECL    score:+1.20 weight: 5.00% target: $1,258
+```
