@@ -701,3 +701,32 @@ Positions: 20
 | APP | 2 | $484.86 | $520.14 | $1,040.28 | $+70.56 (+7.28%) |
 | V | 3 | $324.43 | $324.01 | $972.03 | $-1.26 (-0.13%) |
 | ADI | 2 | $431.14 | $426.90 | $853.80 | $-8.48 (-0.98%) |
+
+## 2026-06-16 — Rebalance
+```
+Equity: $25,046
+Target: 20 positions, sells: 10, buys: 10
+Filled: 20, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  AMD    score:+2.80 weight: 5.00% target: $1,252
+  MU     score:+2.20 weight: 5.00% target: $1,252
+  CDNS   score:+2.20 weight: 5.00% target: $1,252
+  APH    score:+2.20 weight: 5.00% target: $1,252
+  AMAT   score:+2.10 weight: 5.00% target: $1,252
+  ANET   score:+2.10 weight: 5.00% target: $1,252
+  APP    score:+2.10 weight: 5.00% target: $1,252
+  PANW   score:+2.00 weight: 5.00% target: $1,252
+  UNH    score:+1.50 weight: 5.00% target: $1,252
+  NVDA   score:+1.20 weight: 5.00% target: $1,252
+  GOOGL  score:+1.20 weight: 5.00% target: $1,252
+  META   score:+1.20 weight: 5.00% target: $1,252
+  ORCL   score:+1.20 weight: 5.00% target: $1,252
+  COST   score:+1.20 weight: 5.00% target: $1,252
+  TXN    score:+1.20 weight: 5.00% target: $1,252
+  AXP    score:+1.20 weight: 5.00% target: $1,252
+  HON    score:+1.20 weight: 5.00% target: $1,252
+  PH     score:+1.20 weight: 5.00% target: $1,252
+  TT     score:+1.20 weight: 5.00% target: $1,252
+  APO    score:+1.20 weight: 5.00% target: $1,252
+```
