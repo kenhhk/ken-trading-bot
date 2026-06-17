@@ -758,3 +758,32 @@ Positions: 20
 | COST | 1 | $984.54 | $984.96 | $984.96 | $+0.42 (+0.04%) |
 | TT | 2 | $482.74 | $475.34 | $950.68 | $-14.80 (-1.53%) |
 | PH | 1 | $940.82 | $938.51 | $938.51 | $-2.31 (-0.25%) |
+
+## 2026-06-17 — Rebalance
+```
+Equity: $25,142
+Target: 20 positions, sells: 11, buys: 11
+Filled: 22, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  BKNG   score:+2.20 weight: 5.00% target: $1,257
+  META   score:+2.10 weight: 5.00% target: $1,257
+  AMAT   score:+2.10 weight: 5.00% target: $1,257
+  PANW   score:+2.10 weight: 5.00% target: $1,257
+  PH     score:+2.10 weight: 5.00% target: $1,257
+  CDNS   score:+2.10 weight: 5.00% target: $1,257
+  APH    score:+2.10 weight: 5.00% target: $1,257
+  COF    score:+2.10 weight: 5.00% target: $1,257
+  MU     score:+2.00 weight: 5.00% target: $1,257
+  CRWD   score:+2.00 weight: 5.00% target: $1,257
+  V      score:+1.20 weight: 5.00% target: $1,257
+  PM     score:+1.20 weight: 5.00% target: $1,257
+  QCOM   score:+1.20 weight: 5.00% target: $1,257
+  HON    score:+1.20 weight: 5.00% target: $1,257
+  ADI    score:+1.20 weight: 5.00% target: $1,257
+  VRT    score:+1.20 weight: 5.00% target: $1,257
+  ECL    score:+1.20 weight: 5.00% target: $1,257
+  APO    score:+1.20 weight: 5.00% target: $1,257
+  MCO    score:+1.20 weight: 5.00% target: $1,257
+  CARR   score:+1.20 weight: 5.00% target: $1,257
+```
