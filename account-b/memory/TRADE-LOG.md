@@ -815,3 +815,32 @@ Positions: 20
 | MCO | 2 | $465.75 | $456.22 | $912.44 | $-19.06 (-2.05%) |
 | ADI | 2 | $424.44 | $414.86 | $829.72 | $-19.16 (-2.26%) |
 | CRWD | 1 | $686.58 | $682.72 | $682.72 | $-3.86 (-0.56%) |
+
+## 2026-06-18 — Rebalance
+```
+Equity: $25,190
+Target: 20 positions, sells: 10, buys: 10
+Filled: 20, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  MU     score:+2.10 weight: 5.00% target: $1,260
+  APH    score:+2.10 weight: 5.00% target: $1,260
+  AMD    score:+2.00 weight: 5.00% target: $1,260
+  TXN    score:+2.00 weight: 5.00% target: $1,260
+  AMAT   score:+2.00 weight: 5.00% target: $1,260
+  VRT    score:+2.00 weight: 5.00% target: $1,260
+  MCO    score:+2.00 weight: 5.00% target: $1,260
+  GE     score:+1.80 weight: 5.00% target: $1,260
+  WELL   score:+1.80 weight: 5.00% target: $1,260
+  GOOG   score:+1.20 weight: 5.00% target: $1,260
+  V      score:+1.20 weight: 5.00% target: $1,260
+  NFLX   score:+1.20 weight: 5.00% target: $1,260
+  NOW    score:+1.20 weight: 5.00% target: $1,260
+  ANET   score:+1.20 weight: 5.00% target: $1,260
+  ADI    score:+1.20 weight: 5.00% target: $1,260
+  PH     score:+1.20 weight: 5.00% target: $1,260
+  CDNS   score:+1.20 weight: 5.00% target: $1,260
+  SNPS   score:+1.20 weight: 5.00% target: $1,260
+  BKNG   score:+1.20 weight: 5.00% target: $1,260
+  TT     score:+1.20 weight: 5.00% target: $1,260
+```
