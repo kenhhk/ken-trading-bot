@@ -71,3 +71,14 @@ Each week appended below. Template:
 - Avg daily turnover (last 5 sessions): 50%
 - Top 5 holdings: APH (5.0%), UNH (5.0%), VRT (5.0%), WMT (4.9%), AMZN (4.9%)
 - Grade: ?
+## Week ending 2026-06-19
+- Equity start: $24,512.56
+- Equity end: $25,137.86
+- Week return: +2.55% ($+625.30)
+- SPY: n/a
+- IWB: n/a
+- Phase return: +0.55%
+- Sharpe-to-date (ann.): 7.44
+- Avg daily turnover (last 5 sessions): 58%
+- Top 5 holdings: APH (5.2%), WELL (4.9%), NFLX (4.9%), NOW (4.9%), AMAT (4.9%)
+- Grade: ?
