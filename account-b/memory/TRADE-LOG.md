@@ -900,3 +900,30 @@ Positions: 20
 | SNPS | 2 | $458.10 | $455.51 | $911.02 | $-5.18 (-0.56%) |
 | MCO | 2 | $465.75 | $450.67 | $901.34 | $-30.16 (-3.24%) |
 | ADI | 2 | $424.44 | $434.46 | $868.92 | $+20.04 (+2.36%) |
+
+## 2026-06-22 — Rebalance
+```
+Equity: $25,219
+Target: 18 positions, sells: 9, buys: 8
+Filled: 17, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  MU     score:+2.50 weight: 5.00% target: $1,261
+  MA     score:+2.10 weight: 5.00% target: $1,261
+  NFLX   score:+2.10 weight: 5.00% target: $1,261
+  TXN    score:+2.10 weight: 5.00% target: $1,261
+  APP    score:+2.10 weight: 5.00% target: $1,261
+  VRT    score:+2.10 weight: 5.00% target: $1,261
+  APH    score:+2.10 weight: 5.00% target: $1,261
+  GEV    score:+2.00 weight: 5.00% target: $1,261
+  AVGO   score:+2.00 weight: 5.00% target: $1,261
+  AMD    score:+2.00 weight: 5.00% target: $1,261
+  LRCX   score:+2.00 weight: 5.00% target: $1,261
+  MCO    score:+2.00 weight: 5.00% target: $1,261
+  ANET   score:+2.00 weight: 5.00% target: $1,261
+  ADI    score:+2.00 weight: 5.00% target: $1,261
+  TT     score:+2.00 weight: 5.00% target: $1,261
+  UBER   score:+1.80 weight: 5.00% target: $1,261
+  QCOM   score:+1.80 weight: 5.00% target: $1,261
+  BKNG   score:+1.80 weight: 5.00% target: $1,261
+```
