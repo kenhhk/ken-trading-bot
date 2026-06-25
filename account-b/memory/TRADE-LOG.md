@@ -1067,3 +1067,32 @@ Positions: 20
 | ADI | 2 | $424.44 | $420.50 | $841.00 | $-7.88 (-0.93%) |
 | UNH | 2 | $408.51 | $403.95 | $807.90 | $-9.12 (-1.12%) |
 | CRWD | 1 | $689.50 | $671.99 | $671.99 | $-17.51 (-2.54%) |
+
+## 2026-06-25 — Rebalance
+```
+Equity: $24,251
+Target: 20 positions, sells: 12, buys: 12
+Filled: 24, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  MU     score:+2.20 weight: 5.00% target: $1,213
+  V      score:+2.10 weight: 5.00% target: $1,213
+  ADI    score:+2.10 weight: 5.00% target: $1,213
+  AMZN   score:+2.00 weight: 5.00% target: $1,213
+  QCOM   score:+2.00 weight: 5.00% target: $1,213
+  AMAT   score:+2.00 weight: 5.00% target: $1,213
+  UBER   score:+2.00 weight: 5.00% target: $1,213
+  WELL   score:+2.00 weight: 5.00% target: $1,213
+  BKNG   score:+1.80 weight: 5.00% target: $1,213
+  AVGO   score:+1.50 weight: 5.00% target: $1,213
+  GOOGL  score:+1.20 weight: 5.00% target: $1,213
+  GOOG   score:+1.20 weight: 5.00% target: $1,213
+  META   score:+1.20 weight: 5.00% target: $1,213
+  UNH    score:+1.20 weight: 5.00% target: $1,213
+  AXP    score:+1.20 weight: 5.00% target: $1,213
+  LRCX   score:+1.20 weight: 5.00% target: $1,213
+  CDNS   score:+1.20 weight: 5.00% target: $1,213
+  AON    score:+1.20 weight: 5.00% target: $1,213
+  GEV    score:+1.20 weight: 5.00% target: $1,213
+  ABNB   score:+1.20 weight: 5.00% target: $1,213
+```
