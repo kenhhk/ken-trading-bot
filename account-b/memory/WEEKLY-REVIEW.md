@@ -82,3 +82,14 @@ Each week appended below. Template:
 - Avg daily turnover (last 5 sessions): 58%
 - Top 5 holdings: APH (5.2%), WELL (4.9%), NFLX (4.9%), NOW (4.9%), AMAT (4.9%)
 - Grade: ?
+## Week ending 2026-06-26
+- Equity start: $25,254.51
+- Equity end: $23,998.41
+- Week return: -4.97% ($-1,256.10)
+- SPY: n/a
+- IWB: n/a
+- Phase return: -4.01%
+- Sharpe-to-date (ann.): -10.29
+- Avg daily turnover (last 5 sessions): 55%
+- Top 5 holdings: AMAT (5.2%), UBER (5.1%), LLY (5.0%), ABNB (4.9%), BAC (4.8%)
+- Grade: ?
