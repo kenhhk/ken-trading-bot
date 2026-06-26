@@ -1124,3 +1124,32 @@ Positions: 20
 | AON | 3 | $323.60 | $315.95 | $947.85 | $-22.95 (-2.36%) |
 | ADI | 2 | $424.44 | $417.50 | $835.00 | $-13.88 (-1.64%) |
 | UNH | 2 | $408.51 | $415.83 | $831.66 | $+14.64 (+1.79%) |
+
+## 2026-06-26 — Rebalance
+```
+Equity: $24,215
+Target: 20 positions, sells: 7, buys: 8
+Filled: 15, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  MU     score:+2.50 weight: 5.00% target: $1,211
+  UBER   score:+2.20 weight: 5.00% target: $1,211
+  NVDA   score:+2.10 weight: 5.00% target: $1,211
+  AMAT   score:+2.10 weight: 5.00% target: $1,211
+  GS     score:+2.00 weight: 5.00% target: $1,211
+  LRCX   score:+2.00 weight: 5.00% target: $1,211
+  BKNG   score:+2.00 weight: 5.00% target: $1,211
+  V      score:+1.80 weight: 5.00% target: $1,211
+  WELL   score:+1.80 weight: 5.00% target: $1,211
+  ABNB   score:+1.50 weight: 5.00% target: $1,211
+  META   score:+1.20 weight: 5.00% target: $1,211
+  AVGO   score:+1.20 weight: 5.00% target: $1,211
+  LLY    score:+1.20 weight: 5.00% target: $1,211
+  JPM    score:+1.20 weight: 5.00% target: $1,211
+  UNH    score:+1.20 weight: 5.00% target: $1,211
+  BAC    score:+1.20 weight: 5.00% target: $1,211
+  QCOM   score:+1.20 weight: 5.00% target: $1,211
+  AXP    score:+1.20 weight: 5.00% target: $1,211
+  CRM    score:+1.20 weight: 5.00% target: $1,211
+  ANET   score:+1.20 weight: 5.00% target: $1,211
+```
