@@ -1181,3 +1181,32 @@ Positions: 20
 | V | 3 | $330.16 | $336.11 | $1,008.33 | $+17.85 (+1.80%) |
 | JPM | 3 | $332.09 | $328.70 | $986.10 | $-10.18 (-1.02%) |
 | UNH | 2 | $408.51 | $426.76 | $853.52 | $+36.50 (+4.47%) |
+
+## 2026-06-29 — Rebalance
+```
+Equity: $24,391
+Target: 20 positions, sells: 14, buys: 14
+Filled: 28, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  QCOM   score:+2.20 weight: 5.00% target: $1,220
+  AMAT   score:+2.20 weight: 5.00% target: $1,220
+  LLY    score:+2.00 weight: 5.00% target: $1,220
+  NOW    score:+2.00 weight: 5.00% target: $1,220
+  BKNG   score:+2.00 weight: 5.00% target: $1,220
+  UNH    score:+1.80 weight: 5.00% target: $1,220
+  APP    score:+1.80 weight: 5.00% target: $1,220
+  WFC    score:+1.80 weight: 5.00% target: $1,220
+  DHR    score:+1.80 weight: 5.00% target: $1,220
+  CEG    score:+1.50 weight: 5.00% target: $1,220
+  AMZN   score:+1.20 weight: 5.00% target: $1,220
+  MA     score:+1.20 weight: 5.00% target: $1,220
+  NFLX   score:+1.20 weight: 5.00% target: $1,220
+  ANET   score:+1.20 weight: 5.00% target: $1,220
+  ADI    score:+1.20 weight: 5.00% target: $1,220
+  CRWD   score:+1.20 weight: 5.00% target: $1,220
+  GILD   score:+1.20 weight: 5.00% target: $1,220
+  MCO    score:+1.20 weight: 5.00% target: $1,220
+  WDAY   score:+1.20 weight: 5.00% target: $1,220
+  TFC    score:+1.20 weight: 5.00% target: $1,220
+```
