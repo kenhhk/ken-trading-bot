@@ -1238,3 +1238,32 @@ Positions: 20
 | MCO | 2 | $449.79 | $452.73 | $905.46 | $+5.88 (+0.65%) |
 | UNH | 2 | $408.51 | $419.43 | $838.86 | $+21.84 (+2.67%) |
 | CRWD | 1 | $748.04 | $745.00 | $745.00 | $-3.04 (-0.41%) |
+
+## 2026-06-30 — Rebalance
+```
+Equity: $24,376
+Target: 20 positions, sells: 12, buys: 12
+Filled: 24, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  AMAT   score:+2.10 weight: 5.00% target: $1,219
+  NOW    score:+2.00 weight: 5.00% target: $1,219
+  LRCX   score:+2.00 weight: 5.00% target: $1,219
+  CRWD   score:+2.00 weight: 5.00% target: $1,219
+  AMZN   score:+1.80 weight: 5.00% target: $1,219
+  BKNG   score:+1.80 weight: 5.00% target: $1,219
+  APH    score:+1.80 weight: 5.00% target: $1,219
+  GOOGL  score:+1.50 weight: 5.00% target: $1,219
+  APP    score:+1.50 weight: 5.00% target: $1,219
+  GOOG   score:+1.20 weight: 5.00% target: $1,219
+  META   score:+1.20 weight: 5.00% target: $1,219
+  WMT    score:+1.20 weight: 5.00% target: $1,219
+  BAC    score:+1.20 weight: 5.00% target: $1,219
+  CRM    score:+1.20 weight: 5.00% target: $1,219
+  ANET   score:+1.20 weight: 5.00% target: $1,219
+  WFC    score:+1.20 weight: 5.00% target: $1,219
+  UBER   score:+1.20 weight: 5.00% target: $1,219
+  PH     score:+1.20 weight: 5.00% target: $1,219
+  CDNS   score:+1.20 weight: 5.00% target: $1,219
+  PLTR   score:+1.20 weight: 5.00% target: $1,219
+```
