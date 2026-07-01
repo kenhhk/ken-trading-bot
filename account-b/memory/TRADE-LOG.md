@@ -1295,3 +1295,32 @@ Positions: 20
 | PH | 1 | $969.91 | $978.12 | $978.12 | $+8.21 (+0.85%) |
 | LRCX | 2 | $428.46 | $432.67 | $865.34 | $+8.42 (+0.98%) |
 | CRWD | 1 | $748.04 | $761.28 | $761.28 | $+13.24 (+1.77%) |
+
+## 2026-07-01 — Rebalance
+```
+Equity: $24,740
+Target: 20 positions, sells: 10, buys: 11
+Filled: 21, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  APH    score:+2.20 weight: 5.00% target: $1,237
+  WDAY   score:+2.20 weight: 5.00% target: $1,237
+  PM     score:+2.10 weight: 5.00% target: $1,237
+  TXN    score:+2.10 weight: 5.00% target: $1,237
+  CDNS   score:+2.10 weight: 5.00% target: $1,237
+  APP    score:+2.00 weight: 5.00% target: $1,237
+  CRWD   score:+2.00 weight: 5.00% target: $1,237
+  BKNG   score:+2.00 weight: 5.00% target: $1,237
+  GEV    score:+2.00 weight: 5.00% target: $1,237
+  AMZN   score:+1.80 weight: 5.00% target: $1,237
+  AON    score:+1.80 weight: 5.00% target: $1,237
+  MCO    score:+1.80 weight: 5.00% target: $1,237
+  V      score:+1.50 weight: 5.00% target: $1,237
+  GOOGL  score:+1.20 weight: 5.00% target: $1,237
+  GOOG   score:+1.20 weight: 5.00% target: $1,237
+  UNH    score:+1.20 weight: 5.00% target: $1,237
+  NOW    score:+1.20 weight: 5.00% target: $1,237
+  AXP    score:+1.20 weight: 5.00% target: $1,237
+  ANET   score:+1.20 weight: 5.00% target: $1,237
+  DHR    score:+1.20 weight: 5.00% target: $1,237
+```
