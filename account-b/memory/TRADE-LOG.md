@@ -1352,3 +1352,32 @@ Positions: 20
 | MCO | 2 | $471.98 | $468.38 | $936.76 | $-7.20 (-0.76%) |
 | UNH | 2 | $424.40 | $425.29 | $850.58 | $+1.78 (+0.21%) |
 | CRWD | 1 | $748.04 | $770.55 | $770.55 | $+22.51 (+3.01%) |
+
+## 2026-07-02 — Rebalance
+```
+Equity: $23,987
+Target: 20 positions, sells: 12, buys: 13
+Filled: 25, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  WFC    score:+2.30 weight: 5.00% target: $1,199
+  GOOG   score:+2.10 weight: 5.00% target: $1,199
+  SPGI   score:+2.10 weight: 5.00% target: $1,199
+  GEV    score:+2.10 weight: 5.00% target: $1,199
+  NOW    score:+2.00 weight: 5.00% target: $1,199
+  GE     score:+2.00 weight: 5.00% target: $1,199
+  PLTR   score:+2.00 weight: 5.00% target: $1,199
+  UNH    score:+1.80 weight: 5.00% target: $1,199
+  META   score:+1.20 weight: 5.00% target: $1,199
+  TSLA   score:+1.20 weight: 5.00% target: $1,199
+  V      score:+1.20 weight: 5.00% target: $1,199
+  ABT    score:+1.20 weight: 5.00% target: $1,199
+  RTX    score:+1.20 weight: 5.00% target: $1,199
+  TXN    score:+1.20 weight: 5.00% target: $1,199
+  CRM    score:+1.20 weight: 5.00% target: $1,199
+  BLK    score:+1.20 weight: 5.00% target: $1,199
+  ADI    score:+1.20 weight: 5.00% target: $1,199
+  APP    score:+1.20 weight: 5.00% target: $1,199
+  UBER   score:+1.20 weight: 5.00% target: $1,199
+  CRWD   score:+1.20 weight: 5.00% target: $1,199
+```
