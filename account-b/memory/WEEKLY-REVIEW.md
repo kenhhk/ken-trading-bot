@@ -93,3 +93,14 @@ Each week appended below. Template:
 - Avg daily turnover (last 5 sessions): 55%
 - Top 5 holdings: AMAT (5.2%), UBER (5.1%), LLY (5.0%), ABNB (4.9%), BAC (4.8%)
 - Grade: ?
+## Week ending 2026-07-03
+- Equity start: $24,021.00
+- Equity end: $23,990.25
+- Week return: -0.13% ($-30.75)
+- SPY: n/a
+- IWB: n/a
+- Phase return: -4.04%
+- Sharpe-to-date (ann.): -0.21
+- Avg daily turnover (last 5 sessions): 52%
+- Top 5 holdings: NOW (5.3%), WFC (5.0%), RTX (5.0%), UBER (5.0%), TXN (4.9%)
+- Grade: ?
