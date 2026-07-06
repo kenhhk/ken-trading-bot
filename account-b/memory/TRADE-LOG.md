@@ -1437,3 +1437,30 @@ Positions: 20
 | SPGI | 2 | $430.75 | $439.89 | $879.78 | $+18.28 (+2.12%) |
 | UNH | 2 | $424.40 | $425.36 | $850.72 | $+1.92 (+0.23%) |
 | TSLA | 2 | $399.30 | $393.45 | $786.90 | $-11.70 (-1.47%) |
+
+## 2026-07-06 — Rebalance
+```
+Equity: $24,335
+Target: 18 positions, sells: 11, buys: 8
+Filled: 19, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  NOW    score:+2.20 weight: 5.00% target: $1,217
+  V      score:+2.10 weight: 5.00% target: $1,217
+  APP    score:+2.10 weight: 5.00% target: $1,217
+  PLTR   score:+2.10 weight: 5.00% target: $1,217
+  PM     score:+2.10 weight: 5.00% target: $1,217
+  UNH    score:+2.00 weight: 5.00% target: $1,217
+  SPGI   score:+2.00 weight: 5.00% target: $1,217
+  BKNG   score:+2.00 weight: 5.00% target: $1,217
+  AXON   score:+2.00 weight: 5.00% target: $1,217
+  WELL   score:+2.00 weight: 5.00% target: $1,217
+  AXP    score:+1.80 weight: 5.00% target: $1,217
+  NFLX   score:+1.80 weight: 5.00% target: $1,217
+  WFC    score:+1.80 weight: 5.00% target: $1,217
+  AMZN   score:+1.20 weight: 5.00% target: $1,217
+  CRM    score:+1.50 weight: 5.00% target: $1,217
+  META   score:+1.20 weight: 5.00% target: $1,217
+  LLY    score:+1.20 weight: 5.00% target: $1,217
+  MA     score:+1.20 weight: 5.00% target: $1,217
+```
