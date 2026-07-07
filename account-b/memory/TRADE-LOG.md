@@ -1489,3 +1489,32 @@ Positions: 17
 | SPGI | 2 | $430.75 | $447.22 | $894.44 | $+32.94 (+3.82%) |
 | UNH | 2 | $424.40 | $417.57 | $835.14 | $-13.66 (-1.61%) |
 | AXON | 1 | $613.08 | $622.00 | $622.00 | $+8.92 (+1.46%) |
+
+## 2026-07-07 — Rebalance
+```
+Equity: $6,149
+Target: 20 positions, sells: 0, buys: 8
+Filled: 8, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  ANET   score:+2.20 weight: 5.00% target: $307
+  CRWD   score:+2.20 weight: 5.00% target: $307
+  VRT    score:+2.20 weight: 5.00% target: $307
+  PANW   score:+2.10 weight: 5.00% target: $307
+  APP    score:+2.10 weight: 5.00% target: $307
+  AVGO   score:+2.00 weight: 5.00% target: $307
+  V      score:+2.00 weight: 5.00% target: $307
+  AMD    score:+2.00 weight: 5.00% target: $307
+  USB    score:+1.80 weight: 5.00% target: $307
+  UNH    score:+1.50 weight: 5.00% target: $307
+  LLY    score:+1.20 weight: 5.00% target: $307
+  MA     score:+1.20 weight: 5.00% target: $307
+  WMT    score:+1.20 weight: 5.00% target: $307
+  BAC    score:+1.20 weight: 5.00% target: $307
+  QCOM   score:+1.20 weight: 5.00% target: $307
+  AMGN   score:+1.20 weight: 5.00% target: $307
+  TXN    score:+1.20 weight: 5.00% target: $307
+  AXP    score:+1.20 weight: 5.00% target: $307
+  ISRG   score:+1.20 weight: 5.00% target: $307
+  BLK    score:+1.20 weight: 5.00% target: $307
+```
