@@ -1551,3 +1551,32 @@ Positions: 25
 | WMT | 2 | $111.82 | $111.47 | $222.94 | $-0.70 (-0.31%) |
 | QCOM | 1 | $182.52 | $183.16 | $183.16 | $+0.64 (+0.35%) |
 | ANET | 1 | $167.84 | $166.19 | $166.19 | $-1.65 (-0.98%) |
+
+## 2026-07-08 — Rebalance
+```
+Equity: $24,596
+Target: 20 positions, sells: 16, buys: 14
+Filled: 30, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  NOW    score:+2.20 weight: 5.00% target: $1,230
+  AMAT   score:+2.20 weight: 5.00% target: $1,230
+  GILD   score:+2.20 weight: 5.00% target: $1,230
+  AMD    score:+2.10 weight: 5.00% target: $1,230
+  APP    score:+2.10 weight: 5.00% target: $1,230
+  WFC    score:+2.10 weight: 5.00% target: $1,230
+  META   score:+2.00 weight: 5.00% target: $1,230
+  PANW   score:+2.00 weight: 5.00% target: $1,230
+  VRT    score:+2.00 weight: 5.00% target: $1,230
+  V      score:+1.80 weight: 5.00% target: $1,230
+  XOM    score:+1.80 weight: 5.00% target: $1,230
+  MS     score:+1.80 weight: 5.00% target: $1,230
+  AXON   score:+1.80 weight: 5.00% target: $1,230
+  AMZN   score:+1.20 weight: 5.00% target: $1,230
+  GOOGL  score:+1.20 weight: 5.00% target: $1,230
+  GOOG   score:+1.20 weight: 5.00% target: $1,230
+  AVGO   score:+1.20 weight: 5.00% target: $1,230
+  LLY    score:+1.20 weight: 5.00% target: $1,230
+  ORCL   score:+1.20 weight: 5.00% target: $1,230
+  UNH    score:+1.20 weight: 5.00% target: $1,230
+```
