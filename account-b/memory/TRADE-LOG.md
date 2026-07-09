@@ -1608,3 +1608,32 @@ Positions: 20
 | AMD | 2 | $501.61 | $514.65 | $1,029.30 | $+26.08 (+2.60%) |
 | PANW | 3 | $318.65 | $322.40 | $967.20 | $+11.25 (+1.18%) |
 | UNH | 2 | $424.40 | $425.38 | $850.76 | $+1.96 (+0.23%) |
+
+## 2026-07-09 — Rebalance
+```
+Equity: $24,989
+Target: 20 positions, sells: 9, buys: 9
+Filled: 18, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  LRCX   score:+2.20 weight: 5.00% target: $1,249
+  VRT    score:+2.20 weight: 5.00% target: $1,249
+  GOOG   score:+2.10 weight: 5.00% target: $1,249
+  META   score:+2.10 weight: 5.00% target: $1,249
+  LLY    score:+2.10 weight: 5.00% target: $1,249
+  ANET   score:+2.10 weight: 5.00% target: $1,249
+  NOW    score:+2.00 weight: 5.00% target: $1,249
+  APP    score:+2.00 weight: 5.00% target: $1,249
+  ADI    score:+1.80 weight: 5.00% target: $1,249
+  GILD   score:+1.80 weight: 5.00% target: $1,249
+  AMZN   score:+1.20 weight: 5.00% target: $1,249
+  GOOGL  score:+1.20 weight: 5.00% target: $1,249
+  V      score:+1.20 weight: 5.00% target: $1,249
+  UNH    score:+1.20 weight: 5.00% target: $1,249
+  WMT    score:+1.20 weight: 5.00% target: $1,249
+  BAC    score:+1.20 weight: 5.00% target: $1,249
+  RTX    score:+1.20 weight: 5.00% target: $1,249
+  INTU   score:+1.20 weight: 5.00% target: $1,249
+  TXN    score:+1.20 weight: 5.00% target: $1,249
+  AXP    score:+1.20 weight: 5.00% target: $1,249
+```
