@@ -104,3 +104,14 @@ Each week appended below. Template:
 - Avg daily turnover (last 5 sessions): 52%
 - Top 5 holdings: NOW (5.3%), WFC (5.0%), RTX (5.0%), UBER (5.0%), TXN (4.9%)
 - Grade: ?
+## Week ending 2026-07-10
+- Equity start: $24,940.99
+- Equity end: $25,119.46
+- Week return: +0.72% ($+178.47)
+- SPY: n/a
+- IWB: n/a
+- Phase return: +0.48%
+- Sharpe-to-date (ann.): 3.81
+- Avg daily turnover (last 5 sessions): 58%
+- Top 5 holdings: META (5.3%), NVDA (5.0%), BAC (5.0%), TXN (5.0%), AMZN (4.9%)
+- Grade: ?
