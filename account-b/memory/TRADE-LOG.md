@@ -1665,3 +1665,32 @@ Positions: 20
 | APP | 2 | $493.45 | $517.50 | $1,035.00 | $+48.10 (+4.87%) |
 | TXN | 3 | $314.43 | $308.53 | $925.59 | $-17.70 (-1.88%) |
 | UNH | 2 | $424.40 | $431.22 | $862.44 | $+13.64 (+1.61%) |
+
+## 2026-07-10 — Rebalance
+```
+Equity: $25,089
+Target: 20 positions, sells: 11, buys: 12
+Filled: 23, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  TT     score:+2.20 weight: 5.00% target: $1,254
+  META   score:+2.10 weight: 5.00% target: $1,254
+  UNH    score:+2.10 weight: 5.00% target: $1,254
+  GS     score:+2.10 weight: 5.00% target: $1,254
+  NVDA   score:+1.80 weight: 5.00% target: $1,254
+  ORCL   score:+1.50 weight: 5.00% target: $1,254
+  ISRG   score:+1.50 weight: 5.00% target: $1,254
+  AMZN   score:+1.20 weight: 5.00% target: $1,254
+  GOOGL  score:+1.20 weight: 5.00% target: $1,254
+  LLY    score:+1.20 weight: 5.00% target: $1,254
+  AMD    score:+1.20 weight: 5.00% target: $1,254
+  PM     score:+1.20 weight: 5.00% target: $1,254
+  BAC    score:+1.20 weight: 5.00% target: $1,254
+  TXN    score:+1.20 weight: 5.00% target: $1,254
+  BLK    score:+1.20 weight: 5.00% target: $1,254
+  AMAT   score:+1.20 weight: 5.00% target: $1,254
+  LRCX   score:+1.20 weight: 5.00% target: $1,254
+  APP    score:+1.20 weight: 5.00% target: $1,254
+  BKNG   score:+1.20 weight: 5.00% target: $1,254
+  DHR    score:+1.20 weight: 5.00% target: $1,254
+```
