@@ -1722,3 +1722,32 @@ Positions: 20
 | APP | 2 | $493.45 | $506.61 | $1,013.22 | $+26.32 (+2.67%) |
 | TT | 2 | $480.20 | $479.70 | $959.40 | $-1.00 (-0.10%) |
 | UNH | 2 | $424.40 | $424.62 | $849.24 | $+0.44 (+0.05%) |
+
+## 2026-07-13 — Rebalance
+```
+Equity: $24,717
+Target: 20 positions, sells: 10, buys: 10
+Filled: 20, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  APH    score:+2.20 weight: 5.00% target: $1,236
+  APP    score:+2.10 weight: 5.00% target: $1,236
+  CDNS   score:+2.10 weight: 5.00% target: $1,236
+  META   score:+2.00 weight: 5.00% target: $1,236
+  LRCX   score:+2.00 weight: 5.00% target: $1,236
+  GEV    score:+2.00 weight: 5.00% target: $1,236
+  AMAT   score:+1.80 weight: 5.00% target: $1,236
+  WMT    score:+1.50 weight: 5.00% target: $1,236
+  NVDA   score:+1.20 weight: 5.00% target: $1,236
+  AMZN   score:+1.20 weight: 5.00% target: $1,236
+  AVGO   score:+1.20 weight: 5.00% target: $1,236
+  NFLX   score:+1.20 weight: 5.00% target: $1,236
+  BAC    score:+1.20 weight: 5.00% target: $1,236
+  TXN    score:+1.20 weight: 5.00% target: $1,236
+  ISRG   score:+1.20 weight: 5.00% target: $1,236
+  BLK    score:+1.20 weight: 5.00% target: $1,236
+  ANET   score:+1.20 weight: 5.00% target: $1,236
+  ADI    score:+1.20 weight: 5.00% target: $1,236
+  WFC    score:+1.20 weight: 5.00% target: $1,236
+  UBER   score:+1.20 weight: 5.00% target: $1,236
+```
