@@ -1779,3 +1779,32 @@ Positions: 20
 | BLK | 1 | $1038.14 | $1030.00 | $1,030.00 | $-8.14 (-0.78%) |
 | LRCX | 3 | $355.18 | $329.79 | $989.37 | $-76.18 (-7.15%) |
 | APP | 2 | $493.45 | $444.00 | $888.00 | $-98.90 (-10.02%) |
+
+## 2026-07-14 — Rebalance
+```
+Equity: $24,811
+Target: 20 positions, sells: 12, buys: 13
+Filled: 25, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  APP    score:+2.10 weight: 5.00% target: $1,241
+  APH    score:+2.00 weight: 5.00% target: $1,241
+  AMZN   score:+1.20 weight: 5.00% target: $1,241
+  GOOG   score:+1.20 weight: 5.00% target: $1,241
+  V      score:+1.20 weight: 5.00% target: $1,241
+  PM     score:+1.20 weight: 5.00% target: $1,241
+  TXN    score:+1.20 weight: 5.00% target: $1,241
+  AXP    score:+1.20 weight: 5.00% target: $1,241
+  ADI    score:+1.20 weight: 5.00% target: $1,241
+  UBER   score:+1.20 weight: 5.00% target: $1,241
+  CDNS   score:+1.20 weight: 5.00% target: $1,241
+  SNPS   score:+1.20 weight: 5.00% target: $1,241
+  VRT    score:+1.20 weight: 5.00% target: $1,241
+  CB     score:+1.20 weight: 5.00% target: $1,241
+  TT     score:+1.20 weight: 5.00% target: $1,241
+  USB    score:+1.20 weight: 5.00% target: $1,241
+  COF    score:+1.20 weight: 5.00% target: $1,241
+  DUK    score:+1.20 weight: 5.00% target: $1,241
+  COP    score:+1.20 weight: 5.00% target: $1,241
+  ANET   score:+1.00 weight: 5.00% target: $1,241
+```
