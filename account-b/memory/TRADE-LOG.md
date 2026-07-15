@@ -1836,3 +1836,32 @@ Positions: 20
 | TT | 2 | $482.71 | $483.55 | $967.10 | $+1.68 (+0.17%) |
 | APP | 2 | $493.45 | $449.00 | $898.00 | $-88.90 (-9.01%) |
 | SNPS | 2 | $433.90 | $425.90 | $851.80 | $-16.00 (-1.84%) |
+
+## 2026-07-15 — Rebalance
+```
+Equity: $24,679
+Target: 20 positions, sells: 10, buys: 10
+Filled: 20, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  GS     score:+2.20 weight: 5.00% target: $1,234
+  CRWD   score:+2.20 weight: 5.00% target: $1,234
+  NVDA   score:+2.10 weight: 5.00% target: $1,234
+  CDNS   score:+2.10 weight: 5.00% target: $1,234
+  AXP    score:+2.00 weight: 5.00% target: $1,234
+  TT     score:+1.80 weight: 5.00% target: $1,234
+  GOOG   score:+1.20 weight: 5.00% target: $1,234
+  V      score:+1.20 weight: 5.00% target: $1,234
+  BAC    score:+1.20 weight: 5.00% target: $1,234
+  AMGN   score:+1.20 weight: 5.00% target: $1,234
+  TXN    score:+1.20 weight: 5.00% target: $1,234
+  ADI    score:+1.20 weight: 5.00% target: $1,234
+  PH     score:+1.20 weight: 5.00% target: $1,234
+  DHR    score:+1.20 weight: 5.00% target: $1,234
+  APH    score:+1.20 weight: 5.00% target: $1,234
+  USB    score:+1.20 weight: 5.00% target: $1,234
+  PLTR   score:+1.20 weight: 5.00% target: $1,234
+  ABNB   score:+1.20 weight: 5.00% target: $1,234
+  NOW    score:+1.00 weight: 5.00% target: $1,234
+  AMZN   score:+0.80 weight: 5.00% target: $1,234
+```
