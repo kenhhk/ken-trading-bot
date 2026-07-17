@@ -115,3 +115,14 @@ Each week appended below. Template:
 - Avg daily turnover (last 5 sessions): 58%
 - Top 5 holdings: META (5.3%), NVDA (5.0%), BAC (5.0%), TXN (5.0%), AMZN (4.9%)
 - Grade: ?
+## Week ending 2026-07-17
+- Equity start: $24,530.02
+- Equity end: $23,807.15
+- Week return: -2.95% ($-722.87)
+- SPY: n/a
+- IWB: n/a
+- Phase return: -4.77%
+- Sharpe-to-date (ann.): -5.98
+- Avg daily turnover (last 5 sessions): 60%
+- Top 5 holdings: APH (5.1%), XOM (5.0%), BAC (4.9%), PM (4.9%), NOW (4.8%)
+- Grade: ?
