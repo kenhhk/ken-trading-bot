@@ -1950,3 +1950,32 @@ Positions: 20
 | LRCX | 3 | $325.85 | $322.27 | $966.81 | $-10.74 (-1.10%) |
 | UNH | 2 | $437.27 | $425.00 | $850.00 | $-24.54 (-2.81%) |
 | META | 1 | $675.82 | $662.94 | $662.94 | $-12.88 (-1.91%) |
+
+## 2026-07-17 — Rebalance
+```
+Equity: $23,925
+Target: 20 positions, sells: 10, buys: 10
+Filled: 20, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  BAC    score:+2.20 weight: 5.00% target: $1,196
+  ISRG   score:+2.20 weight: 5.00% target: $1,196
+  AVGO   score:+2.10 weight: 5.00% target: $1,196
+  UNH    score:+2.10 weight: 5.00% target: $1,196
+  ABT    score:+2.10 weight: 5.00% target: $1,196
+  GE     score:+2.10 weight: 5.00% target: $1,196
+  BLK    score:+2.00 weight: 5.00% target: $1,196
+  LRCX   score:+2.00 weight: 5.00% target: $1,196
+  CRWD   score:+2.00 weight: 5.00% target: $1,196
+  AMAT   score:+1.80 weight: 5.00% target: $1,196
+  APH    score:+1.50 weight: 5.00% target: $1,196
+  AMZN   score:+1.20 weight: 5.00% target: $1,196
+  GOOG   score:+1.20 weight: 5.00% target: $1,196
+  META   score:+1.20 weight: 5.00% target: $1,196
+  JPM    score:+1.20 weight: 5.00% target: $1,196
+  XOM    score:+1.20 weight: 5.00% target: $1,196
+  PM     score:+1.20 weight: 5.00% target: $1,196
+  MS     score:+1.20 weight: 5.00% target: $1,196
+  NOW    score:+1.20 weight: 5.00% target: $1,196
+  PANW   score:+1.20 weight: 5.00% target: $1,196
+```
