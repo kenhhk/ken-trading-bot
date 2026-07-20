@@ -2007,3 +2007,32 @@ Positions: 20
 | LRCX | 3 | $325.85 | $312.50 | $937.50 | $-40.05 (-4.10%) |
 | UNH | 2 | $437.27 | $425.49 | $850.98 | $-23.56 (-2.69%) |
 | META | 1 | $675.82 | $644.60 | $644.60 | $-31.22 (-4.62%) |
+
+## 2026-07-20 — Rebalance
+```
+Equity: $23,879
+Target: 20 positions, sells: 11, buys: 11
+Filled: 22, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  UNH    score:+2.10 weight: 5.00% target: $1,194
+  BLK    score:+2.10 weight: 5.00% target: $1,194
+  PANW   score:+2.10 weight: 5.00% target: $1,194
+  ADI    score:+2.10 weight: 5.00% target: $1,194
+  CRWD   score:+2.10 weight: 5.00% target: $1,194
+  USB    score:+2.10 weight: 5.00% target: $1,194
+  LRCX   score:+2.00 weight: 5.00% target: $1,194
+  GEV    score:+2.00 weight: 5.00% target: $1,194
+  LLY    score:+1.80 weight: 5.00% target: $1,194
+  BKNG   score:+1.80 weight: 5.00% target: $1,194
+  AMZN   score:+1.50 weight: 5.00% target: $1,194
+  MSFT   score:+1.20 weight: 5.00% target: $1,194
+  AAPL   score:+1.20 weight: 5.00% target: $1,194
+  AVGO   score:+1.20 weight: 5.00% target: $1,194
+  V      score:+1.20 weight: 5.00% target: $1,194
+  MA     score:+1.20 weight: 5.00% target: $1,194
+  PM     score:+1.20 weight: 5.00% target: $1,194
+  BAC    score:+1.20 weight: 5.00% target: $1,194
+  AXP    score:+1.20 weight: 5.00% target: $1,194
+  TMO    score:+1.20 weight: 5.00% target: $1,194
+```
