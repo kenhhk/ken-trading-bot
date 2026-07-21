@@ -2064,3 +2064,32 @@ Positions: 20
 | AAPL | 3 | $325.24 | $326.65 | $979.96 | $+4.24 (+0.43%) |
 | LRCX | 3 | $325.85 | $305.59 | $916.77 | $-60.78 (-6.22%) |
 | UNH | 2 | $437.27 | $420.25 | $840.51 | $-34.03 (-3.89%) |
+
+## 2026-07-21 — Rebalance
+```
+Equity: $23,766
+Target: 20 positions, sells: 13, buys: 14
+Filled: 27, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  ABT    score:+2.10 weight: 5.00% target: $1,188
+  GOOGL  score:+2.00 weight: 5.00% target: $1,188
+  CRWD   score:+2.00 weight: 5.00% target: $1,188
+  DHR    score:+2.00 weight: 5.00% target: $1,188
+  META   score:+1.80 weight: 5.00% target: $1,188
+  AMD    score:+1.80 weight: 5.00% target: $1,188
+  GOOG   score:+1.50 weight: 5.00% target: $1,188
+  UBER   score:+1.50 weight: 5.00% target: $1,188
+  JPM    score:+1.20 weight: 5.00% target: $1,188
+  V      score:+1.20 weight: 5.00% target: $1,188
+  MA     score:+1.20 weight: 5.00% target: $1,188
+  BAC    score:+1.20 weight: 5.00% target: $1,188
+  RTX    score:+1.20 weight: 5.00% target: $1,188
+  BLK    score:+1.20 weight: 5.00% target: $1,188
+  AMAT   score:+1.20 weight: 5.00% target: $1,188
+  MU     score:+1.20 weight: 5.00% target: $1,188
+  PANW   score:+1.20 weight: 5.00% target: $1,188
+  LRCX   score:+1.20 weight: 5.00% target: $1,188
+  WFC    score:+1.20 weight: 5.00% target: $1,188
+  VRT    score:+1.20 weight: 5.00% target: $1,188
+```
