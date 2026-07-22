@@ -2121,3 +2121,32 @@ Positions: 20
 | LRCX | 3 | $325.85 | $323.48 | $970.45 | $-7.10 (-0.73%) |
 | VRT | 3 | $302.43 | $305.20 | $915.60 | $+8.31 (+0.92%) |
 | META | 1 | $647.28 | $642.11 | $642.11 | $-5.17 (-0.80%) |
+
+## 2026-07-22 — Rebalance
+```
+Equity: $23,705
+Target: 20 positions, sells: 8, buys: 8
+Filled: 16, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  AMZN   score:+2.10 weight: 5.00% target: $1,185
+  GOOG   score:+2.10 weight: 5.00% target: $1,185
+  AMD    score:+2.10 weight: 5.00% target: $1,185
+  ABT    score:+2.10 weight: 5.00% target: $1,185
+  MU     score:+2.10 weight: 5.00% target: $1,185
+  CRWD   score:+2.10 weight: 5.00% target: $1,185
+  UNH    score:+2.00 weight: 5.00% target: $1,185
+  BLK    score:+2.00 weight: 5.00% target: $1,185
+  AMAT   score:+2.00 weight: 5.00% target: $1,185
+  UBER   score:+2.00 weight: 5.00% target: $1,185
+  USB    score:+2.00 weight: 5.00% target: $1,185
+  GOOGL  score:+1.80 weight: 5.00% target: $1,185
+  META   score:+1.50 weight: 5.00% target: $1,185
+  PM     score:+1.20 weight: 5.00% target: $1,185
+  BAC    score:+1.20 weight: 5.00% target: $1,185
+  MS     score:+1.20 weight: 5.00% target: $1,185
+  TXN    score:+1.20 weight: 5.00% target: $1,185
+  GE     score:+1.20 weight: 5.00% target: $1,185
+  ANET   score:+1.20 weight: 5.00% target: $1,185
+  WFC    score:+1.20 weight: 5.00% target: $1,185
+```
