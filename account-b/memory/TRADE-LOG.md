@@ -2178,3 +2178,32 @@ Positions: 20
 | AMZN | 4 | $243.63 | $241.24 | $964.96 | $-9.56 (-0.98%) |
 | UNH | 2 | $434.26 | $431.00 | $862.00 | $-6.53 (-0.75%) |
 | META | 1 | $647.28 | $617.70 | $617.70 | $-29.58 (-4.57%) |
+
+## 2026-07-23 — Rebalance
+```
+Equity: $23,257
+Target: 20 positions, sells: 8, buys: 8
+Filled: 16, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  TXN    score:+2.20 weight: 5.00% target: $1,163
+  AMD    score:+2.10 weight: 5.00% target: $1,163
+  BLK    score:+2.10 weight: 5.00% target: $1,163
+  AMAT   score:+2.10 weight: 5.00% target: $1,163
+  MU     score:+2.10 weight: 5.00% target: $1,163
+  VRT    score:+2.10 weight: 5.00% target: $1,163
+  MCO    score:+2.10 weight: 5.00% target: $1,163
+  NVDA   score:+2.00 weight: 5.00% target: $1,163
+  AMZN   score:+2.00 weight: 5.00% target: $1,163
+  META   score:+2.00 weight: 5.00% target: $1,163
+  UBER   score:+2.00 weight: 5.00% target: $1,163
+  CRWD   score:+2.00 weight: 5.00% target: $1,163
+  TMO    score:+1.50 weight: 5.00% target: $1,163
+  LLY    score:+1.20 weight: 5.00% target: $1,163
+  MA     score:+1.20 weight: 5.00% target: $1,163
+  UNH    score:+1.20 weight: 5.00% target: $1,163
+  BAC    score:+1.20 weight: 5.00% target: $1,163
+  ABT    score:+1.20 weight: 5.00% target: $1,163
+  AXP    score:+1.20 weight: 5.00% target: $1,163
+  ADI    score:+1.20 weight: 5.00% target: $1,163
+```
