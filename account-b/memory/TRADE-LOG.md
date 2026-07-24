@@ -2234,3 +2234,32 @@ Positions: 19
 | UNH | 2 | $434.26 | $423.20 | $846.40 | $-22.13 (-2.55%) |
 | META | 1 | $647.28 | $606.36 | $606.36 | $-40.92 (-6.32%) |
 | TMO | 1 | $577.48 | $569.00 | $569.00 | $-8.48 (-1.47%) |
+
+## 2026-07-24 — Rebalance
+```
+Equity: $23,144
+Target: 20 positions, sells: 10, buys: 11
+Filled: 21, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  TMO    score:+2.80 weight: 5.00% target: $1,157
+  NOW    score:+2.20 weight: 5.00% target: $1,157
+  AMD    score:+2.10 weight: 5.00% target: $1,157
+  MS     score:+2.10 weight: 5.00% target: $1,157
+  HON    score:+2.10 weight: 5.00% target: $1,157
+  UNH    score:+2.00 weight: 5.00% target: $1,157
+  RTX    score:+2.00 weight: 5.00% target: $1,157
+  ANET   score:+2.00 weight: 5.00% target: $1,157
+  WELL   score:+2.00 weight: 5.00% target: $1,157
+  TDG    score:+2.00 weight: 5.00% target: $1,157
+  ABT    score:+1.80 weight: 5.00% target: $1,157
+  MU     score:+1.80 weight: 5.00% target: $1,157
+  ORCL   score:+1.20 weight: 5.00% target: $1,157
+  GE     score:+1.20 weight: 5.00% target: $1,157
+  BLK    score:+1.20 weight: 5.00% target: $1,157
+  AMAT   score:+1.20 weight: 5.00% target: $1,157
+  ADI    score:+1.20 weight: 5.00% target: $1,157
+  CRWD   score:+1.20 weight: 5.00% target: $1,157
+  CDNS   score:+1.20 weight: 5.00% target: $1,157
+  APH    score:+1.20 weight: 5.00% target: $1,157
+```
