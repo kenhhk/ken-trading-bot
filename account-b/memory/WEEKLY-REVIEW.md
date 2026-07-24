@@ -126,3 +126,14 @@ Each week appended below. Template:
 - Avg daily turnover (last 5 sessions): 60%
 - Top 5 holdings: APH (5.1%), XOM (5.0%), BAC (4.9%), PM (4.9%), NOW (4.8%)
 - Grade: ?
+## Week ending 2026-07-24
+- Equity start: $23,755.16
+- Equity end: $23,015.27
+- Week return: -3.11% ($-739.89)
+- SPY: n/a
+- IWB: n/a
+- Phase return: -7.94%
+- Sharpe-to-date (ann.): -15.35
+- Avg daily turnover (last 5 sessions): 54%
+- Top 5 holdings: TMO (4.9%), ABT (4.9%), ADI (4.9%), CRWD (4.8%), AMAT (4.7%)
+- Grade: ?
