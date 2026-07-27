@@ -2290,3 +2290,32 @@ Positions: 19
 | HON | 4 | $243.51 | $243.15 | $972.60 | $-1.44 (-0.15%) |
 | MU | 1 | $956.40 | $915.70 | $915.70 | $-40.70 (-4.26%) |
 | UNH | 2 | $434.26 | $419.70 | $839.40 | $-29.13 (-3.35%) |
+
+## 2026-07-27 — Rebalance
+```
+Equity: $22,896
+Target: 20 positions, sells: 9, buys: 9
+Filled: 18, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  BLK    score:+2.30 weight: 5.00% target: $1,145
+  UNH    score:+2.20 weight: 5.00% target: $1,145
+  TMO    score:+2.20 weight: 5.00% target: $1,145
+  LLY    score:+2.10 weight: 5.00% target: $1,145
+  LRCX   score:+2.10 weight: 5.00% target: $1,145
+  APP    score:+2.10 weight: 5.00% target: $1,145
+  VRT    score:+2.10 weight: 5.00% target: $1,145
+  APH    score:+2.10 weight: 5.00% target: $1,145
+  AMD    score:+2.00 weight: 5.00% target: $1,145
+  NOW    score:+2.00 weight: 5.00% target: $1,145
+  ANET   score:+2.00 weight: 5.00% target: $1,145
+  KLAC   score:+2.00 weight: 5.00% target: $1,145
+  CRWD   score:+2.00 weight: 5.00% target: $1,145
+  AMAT   score:+1.80 weight: 5.00% target: $1,145
+  TT     score:+1.50 weight: 5.00% target: $1,145
+  JPM    score:+1.20 weight: 5.00% target: $1,145
+  V      score:+1.20 weight: 5.00% target: $1,145
+  ORCL   score:+1.20 weight: 5.00% target: $1,145
+  XOM    score:+1.20 weight: 5.00% target: $1,145
+  TXN    score:+1.20 weight: 5.00% target: $1,145
+```
