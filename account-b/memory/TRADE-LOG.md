@@ -2401,3 +2401,32 @@ Positions: 18
 | MU | 1 | $825.22 | $828.69 | $828.69 | $+3.47 (+0.42%) |
 | SNPS | 2 | $387.66 | $384.30 | $768.60 | $-6.72 (-0.87%) |
 | META | 1 | $595.36 | $594.84 | $594.84 | $-0.52 (-0.09%) |
+
+## 2026-07-29 — Rebalance
+```
+Equity: $22,508
+Target: 20 positions, sells: 13, buys: 13
+Filled: 26, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  CDNS   score:+2.10 weight: 5.00% target: $1,125
+  ITW    score:+2.10 weight: 5.00% target: $1,125
+  BLK    score:+2.00 weight: 5.00% target: $1,125
+  VRT    score:+2.00 weight: 5.00% target: $1,125
+  MCO    score:+2.00 weight: 5.00% target: $1,125
+  AMZN   score:+1.20 weight: 5.00% target: $1,125
+  GOOG   score:+1.20 weight: 5.00% target: $1,125
+  LLY    score:+1.20 weight: 5.00% target: $1,125
+  V      score:+1.20 weight: 5.00% target: $1,125
+  COST   score:+1.20 weight: 5.00% target: $1,125
+  WMT    score:+1.20 weight: 5.00% target: $1,125
+  NOW    score:+1.20 weight: 5.00% target: $1,125
+  TXN    score:+1.20 weight: 5.00% target: $1,125
+  CRM    score:+1.20 weight: 5.00% target: $1,125
+  HON    score:+1.20 weight: 5.00% target: $1,125
+  APP    score:+1.20 weight: 5.00% target: $1,125
+  PH     score:+1.20 weight: 5.00% target: $1,125
+  TMO    score:+1.20 weight: 5.00% target: $1,125
+  WELL   score:+1.20 weight: 5.00% target: $1,125
+  EMR    score:+1.20 weight: 5.00% target: $1,125
+```
