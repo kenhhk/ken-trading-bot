@@ -2457,3 +2457,32 @@ Positions: 19
 | VRT | 4 | $278.36 | $218.49 | $873.96 | $-239.48 (-21.51%) |
 | APP | 2 | $405.03 | $397.79 | $795.58 | $-14.48 (-1.79%) |
 | TMO | 1 | $578.64 | $576.46 | $576.46 | $-2.18 (-0.38%) |
+
+## 2026-07-30 — Rebalance
+```
+Equity: $22,219
+Target: 20 positions, sells: 12, buys: 13
+Filled: 25, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  XOM    score:+2.10 weight: 5.00% target: $1,111
+  MS     score:+2.10 weight: 5.00% target: $1,111
+  RTX    score:+2.10 weight: 5.00% target: $1,111
+  NOW    score:+2.10 weight: 5.00% target: $1,111
+  TMO    score:+2.10 weight: 5.00% target: $1,111
+  CRWD   score:+2.00 weight: 5.00% target: $1,111
+  ADP    score:+2.00 weight: 5.00% target: $1,111
+  APH    score:+2.00 weight: 5.00% target: $1,111
+  GOOGL  score:+1.80 weight: 5.00% target: $1,111
+  BKNG   score:+1.80 weight: 5.00% target: $1,111
+  AAPL   score:+1.20 weight: 5.00% target: $1,111
+  COST   score:+1.20 weight: 5.00% target: $1,111
+  UNH    score:+1.20 weight: 5.00% target: $1,111
+  NFLX   score:+1.20 weight: 5.00% target: $1,111
+  PM     score:+1.20 weight: 5.00% target: $1,111
+  CRM    score:+1.20 weight: 5.00% target: $1,111
+  HON    score:+1.20 weight: 5.00% target: $1,111
+  ADI    score:+1.20 weight: 5.00% target: $1,111
+  APP    score:+1.20 weight: 5.00% target: $1,111
+  PH     score:+1.20 weight: 5.00% target: $1,111
+```
