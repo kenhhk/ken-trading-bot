@@ -2543,3 +2543,32 @@ Today's target portfolio (top 20 by score, value-weighted by mcap):
   GOOG   score:+1.00 weight: 5.00% target: $1,119
   TMO    score:+1.00 weight: 5.00% target: $1,119
 ```
+
+## 2026-08-03 — Rebalance
+```
+Equity: $22,714
+Target: 20 positions, sells: 13, buys: 13
+Filled: 26, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  APH    score:+2.20 weight: 5.00% target: $1,136
+  AMZN   score:+2.00 weight: 5.00% target: $1,136
+  AVGO   score:+2.00 weight: 5.00% target: $1,136
+  BLK    score:+2.00 weight: 5.00% target: $1,136
+  ANET   score:+2.00 weight: 5.00% target: $1,136
+  SHW    score:+1.50 weight: 5.00% target: $1,136
+  V      score:+1.20 weight: 5.00% target: $1,136
+  ORCL   score:+1.20 weight: 5.00% target: $1,136
+  PM     score:+1.20 weight: 5.00% target: $1,136
+  MS     score:+1.20 weight: 5.00% target: $1,136
+  NOW    score:+1.20 weight: 5.00% target: $1,136
+  TXN    score:+1.20 weight: 5.00% target: $1,136
+  ISRG   score:+1.20 weight: 5.00% target: $1,136
+  HON    score:+1.20 weight: 5.00% target: $1,136
+  PANW   score:+1.20 weight: 5.00% target: $1,136
+  APP    score:+1.20 weight: 5.00% target: $1,136
+  WFC    score:+1.20 weight: 5.00% target: $1,136
+  UBER   score:+1.20 weight: 5.00% target: $1,136
+  PH     score:+1.20 weight: 5.00% target: $1,136
+  KKR    score:+1.20 weight: 5.00% target: $1,136
+```
