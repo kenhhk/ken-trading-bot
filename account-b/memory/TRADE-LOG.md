@@ -2600,3 +2600,32 @@ Positions: 20
 | PM | 5 | $192.42 | $188.30 | $941.50 | $-20.60 (-2.14%) |
 | APP | 2 | $403.99 | $408.98 | $817.96 | $+9.99 (+1.24%) |
 | AVGO | 2 | $388.65 | $392.27 | $784.54 | $+7.24 (+0.93%) |
+
+## 2026-08-04 — Rebalance
+```
+Equity: $23,241
+Target: 20 positions, sells: 15, buys: 15
+Filled: 30, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  AMZN   score:+2.10 weight: 5.00% target: $1,162
+  GOOGL  score:+2.10 weight: 5.00% target: $1,162
+  GE     score:+2.10 weight: 5.00% target: $1,162
+  AMAT   score:+2.10 weight: 5.00% target: $1,162
+  TMO    score:+2.10 weight: 5.00% target: $1,162
+  VRT    score:+2.10 weight: 5.00% target: $1,162
+  CDNS   score:+2.00 weight: 5.00% target: $1,162
+  PLTR   score:+2.00 weight: 5.00% target: $1,162
+  ITW    score:+1.80 weight: 5.00% target: $1,162
+  MSFT   score:+1.20 weight: 5.00% target: $1,162
+  META   score:+1.20 weight: 5.00% target: $1,162
+  LLY    score:+1.20 weight: 5.00% target: $1,162
+  V      score:+1.20 weight: 5.00% target: $1,162
+  ORCL   score:+1.20 weight: 5.00% target: $1,162
+  COST   score:+1.20 weight: 5.00% target: $1,162
+  BAC    score:+1.20 weight: 5.00% target: $1,162
+  ABT    score:+1.20 weight: 5.00% target: $1,162
+  RTX    score:+1.20 weight: 5.00% target: $1,162
+  NOW    score:+1.20 weight: 5.00% target: $1,162
+  ISRG   score:+1.20 weight: 5.00% target: $1,162
+```
