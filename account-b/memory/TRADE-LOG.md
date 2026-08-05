@@ -2657,3 +2657,32 @@ Positions: 20
 | COST | 1 | $944.79 | $949.00 | $949.00 | $+4.21 (+0.45%) |
 | ITW | 3 | $293.57 | $295.06 | $885.18 | $+4.47 (+0.51%) |
 | META | 1 | $583.77 | $586.97 | $586.97 | $+3.20 (+0.55%) |
+
+## 2026-08-05 — Rebalance
+```
+Equity: $22,374
+Target: 20 positions, sells: 11, buys: 12
+Filled: 23, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  AMD    score:+2.20 weight: 5.00% target: $1,119
+  MU     score:+2.20 weight: 5.00% target: $1,119
+  GOOG   score:+2.10 weight: 5.00% target: $1,119
+  V      score:+2.10 weight: 5.00% target: $1,119
+  LRCX   score:+2.10 weight: 5.00% target: $1,119
+  AXON   score:+2.10 weight: 5.00% target: $1,119
+  PLTR   score:+2.10 weight: 5.00% target: $1,119
+  AMZN   score:+2.00 weight: 5.00% target: $1,119
+  GOOGL  score:+2.00 weight: 5.00% target: $1,119
+  AMAT   score:+2.00 weight: 5.00% target: $1,119
+  VRT    score:+2.00 weight: 5.00% target: $1,119
+  ADP    score:+1.50 weight: 5.00% target: $1,119
+  MS     score:+1.20 weight: 5.00% target: $1,119
+  ABT    score:+1.20 weight: 5.00% target: $1,119
+  NOW    score:+1.20 weight: 5.00% target: $1,119
+  SPGI   score:+1.20 weight: 5.00% target: $1,119
+  BLK    score:+1.20 weight: 5.00% target: $1,119
+  PANW   score:+1.20 weight: 5.00% target: $1,119
+  CEG    score:+1.20 weight: 5.00% target: $1,119
+  SNPS   score:+1.20 weight: 5.00% target: $1,119
+```
