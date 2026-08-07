@@ -2743,3 +2743,32 @@ Positions: 21
 | SPGI | 2 | $410.48 | $406.41 | $812.82 | $-8.14 (-0.99%) |
 | GOOG | 2 | $375.01 | $357.82 | $715.64 | $-34.38 (-4.58%) |
 | AXON | 1 | $597.87 | $522.00 | $522.00 | $-75.87 (-12.69%) |
+
+## 2026-08-07 — Rebalance
+```
+Equity: $23,289
+Target: 20 positions, sells: 17, buys: 16
+Filled: 33, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  GS     score:+2.10 weight: 5.00% target: $1,164
+  PH     score:+2.10 weight: 5.00% target: $1,164
+  LLY    score:+2.00 weight: 5.00% target: $1,164
+  V      score:+2.00 weight: 5.00% target: $1,164
+  TXN    score:+2.00 weight: 5.00% target: $1,164
+  ANET   score:+2.00 weight: 5.00% target: $1,164
+  BKNG   score:+2.00 weight: 5.00% target: $1,164
+  PLTR   score:+2.00 weight: 5.00% target: $1,164
+  MCO    score:+2.00 weight: 5.00% target: $1,164
+  NFLX   score:+1.80 weight: 5.00% target: $1,164
+  AMZN   score:+1.20 weight: 5.00% target: $1,164
+  GOOG   score:+1.20 weight: 5.00% target: $1,164
+  BRK.B  score:+1.20 weight: 5.00% target: $1,164
+  MA     score:+1.20 weight: 5.00% target: $1,164
+  UNH    score:+1.20 weight: 5.00% target: $1,164
+  PM     score:+1.20 weight: 5.00% target: $1,164
+  RTX    score:+1.20 weight: 5.00% target: $1,164
+  AMGN   score:+1.20 weight: 5.00% target: $1,164
+  AXP    score:+1.20 weight: 5.00% target: $1,164
+  GE     score:+1.20 weight: 5.00% target: $1,164
+```
