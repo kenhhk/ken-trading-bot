@@ -148,3 +148,14 @@ Each week appended below. Template:
 - Avg daily turnover (last 5 sessions): 62%
 - Top 5 holdings: APH (5.0%), NOW (4.9%), AMZN (4.8%), GE (4.8%), RTX (4.8%)
 - Grade: ?
+## Week ending 2026-08-07
+- Equity start: $22,900.70
+- Equity end: $23,241.44
+- Week return: +1.49% ($+340.74)
+- SPY: n/a
+- IWB: n/a
+- Phase return: -7.03%
+- Sharpe-to-date (ann.): 2.76
+- Avg daily turnover (last 5 sessions): 59%
+- Top 5 holdings: PLTR (5.2%), TXN (4.9%), PM (4.9%), ANET (4.9%), RTX (4.8%)
+- Grade: ?
