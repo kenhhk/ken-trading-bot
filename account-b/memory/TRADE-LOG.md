@@ -2799,3 +2799,29 @@ Positions: 19
 | AMGN | 2 | $406.14 | $410.35 | $820.70 | $+8.42 (+1.04%) |
 | UNH | 2 | $409.03 | $407.00 | $814.00 | $-4.06 (-0.50%) |
 | MA | 1 | $569.14 | $564.02 | $564.02 | $-5.12 (-0.90%) |
+
+## 2026-08-10 — Rebalance
+```
+Equity: $23,325
+Target: 17 positions, sells: 9, buys: 6
+Filled: 15, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  GE     score:+2.20 weight: 5.00% target: $1,166
+  VRT    score:+2.20 weight: 5.00% target: $1,166
+  BKNG   score:+2.00 weight: 5.00% target: $1,166
+  GS     score:+2.10 weight: 5.00% target: $1,166
+  PH     score:+2.10 weight: 5.00% target: $1,166
+  LRCX   score:+2.10 weight: 5.00% target: $1,166
+  CEG    score:+2.10 weight: 5.00% target: $1,166
+  LLY    score:+2.00 weight: 5.00% target: $1,166
+  V      score:+2.00 weight: 5.00% target: $1,166
+  TXN    score:+2.00 weight: 5.00% target: $1,166
+  ANET   score:+2.00 weight: 5.00% target: $1,166
+  PLTR   score:+2.00 weight: 5.00% target: $1,166
+  MCO    score:+2.00 weight: 5.00% target: $1,166
+  CDNS   score:+2.00 weight: 5.00% target: $1,166
+  ABNB   score:+2.00 weight: 5.00% target: $1,166
+  NFLX   score:+1.80 weight: 5.00% target: $1,166
+  ABT    score:+1.80 weight: 5.00% target: $1,166
+```
