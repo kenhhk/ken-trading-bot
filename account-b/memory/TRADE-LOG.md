@@ -2849,3 +2849,32 @@ Positions: 16
 | CDNS | 3 | $340.13 | $331.91 | $995.73 | $-24.66 (-2.42%) |
 | MCO | 2 | $480.42 | $478.14 | $956.28 | $-4.56 (-0.47%) |
 | LRCX | 3 | $309.38 | $306.40 | $919.20 | $-8.94 (-0.96%) |
+
+## 2026-08-11 — Rebalance
+```
+Equity: $22,441
+Target: 20 positions, sells: 11, buys: 13
+Filled: 24, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  AMD    score:+2.10 weight: 5.00% target: $1,122
+  ANET   score:+2.10 weight: 5.00% target: $1,122
+  ABT    score:+2.00 weight: 5.00% target: $1,122
+  AMAT   score:+2.00 weight: 5.00% target: $1,122
+  VRT    score:+2.00 weight: 5.00% target: $1,122
+  TDG    score:+2.00 weight: 5.00% target: $1,122
+  BLK    score:+1.80 weight: 5.00% target: $1,122
+  CEG    score:+1.80 weight: 5.00% target: $1,122
+  AMGN   score:+1.50 weight: 5.00% target: $1,122
+  MSFT   score:+1.20 weight: 5.00% target: $1,122
+  AMZN   score:+1.20 weight: 5.00% target: $1,122
+  LLY    score:+1.20 weight: 5.00% target: $1,122
+  COST   score:+1.20 weight: 5.00% target: $1,122
+  WMT    score:+1.20 weight: 5.00% target: $1,122
+  PM     score:+1.20 weight: 5.00% target: $1,122
+  BAC    score:+1.20 weight: 5.00% target: $1,122
+  MU     score:+1.20 weight: 5.00% target: $1,122
+  ADI    score:+1.20 weight: 5.00% target: $1,122
+  WFC    score:+1.20 weight: 5.00% target: $1,122
+  CRWD   score:+1.20 weight: 5.00% target: $1,122
+```
