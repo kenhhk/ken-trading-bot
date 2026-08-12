@@ -2903,3 +2903,32 @@ Positions: 17
 | MU | 1 | $854.06 | $866.22 | $866.22 | $+12.16 (+1.42%) |
 | AMGN | 2 | $413.98 | $413.95 | $827.90 | $-0.06 (-0.01%) |
 | ADI | 2 | $391.79 | $386.00 | $772.00 | $-11.58 (-1.48%) |
+
+## 2026-08-12 — Rebalance
+```
+Equity: $23,703
+Target: 20 positions, sells: 10, buys: 13
+Filled: 23, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  ANET   score:+2.20 weight: 5.00% target: $1,185
+  NVDA   score:+2.10 weight: 5.00% target: $1,185
+  LLY    score:+2.10 weight: 5.00% target: $1,185
+  CEG    score:+2.10 weight: 5.00% target: $1,185
+  KKR    score:+2.10 weight: 5.00% target: $1,185
+  AVGO   score:+2.00 weight: 5.00% target: $1,185
+  MU     score:+2.00 weight: 5.00% target: $1,185
+  AON    score:+2.00 weight: 5.00% target: $1,185
+  LRCX   score:+1.80 weight: 5.00% target: $1,185
+  BRK.B  score:+1.20 weight: 5.00% target: $1,185
+  WMT    score:+1.20 weight: 5.00% target: $1,185
+  NFLX   score:+1.20 weight: 5.00% target: $1,185
+  AMD    score:+1.20 weight: 5.00% target: $1,185
+  NOW    score:+1.20 weight: 5.00% target: $1,185
+  AMGN   score:+1.20 weight: 5.00% target: $1,185
+  TXN    score:+1.20 weight: 5.00% target: $1,185
+  AXP    score:+1.20 weight: 5.00% target: $1,185
+  GE     score:+1.20 weight: 5.00% target: $1,185
+  AMAT   score:+1.20 weight: 5.00% target: $1,185
+  ADI    score:+1.20 weight: 5.00% target: $1,185
+```
