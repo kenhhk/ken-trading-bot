@@ -2959,3 +2959,32 @@ Positions: 19
 | MU | 1 | $854.06 | $912.48 | $912.48 | $+58.42 (+6.84%) |
 | AMGN | 2 | $413.98 | $416.61 | $833.22 | $+5.26 (+0.64%) |
 | AVGO | 2 | $421.86 | $415.37 | $830.74 | $-12.98 (-1.54%) |
+
+## 2026-08-13 — Rebalance
+```
+Equity: $23,880
+Target: 20 positions, sells: 13, buys: 13
+Filled: 26, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  NVDA   score:+2.50 weight: 5.00% target: $1,194
+  ANET   score:+2.10 weight: 5.00% target: $1,194
+  PH     score:+2.10 weight: 5.00% target: $1,194
+  AXON   score:+2.10 weight: 5.00% target: $1,194
+  ITW    score:+2.10 weight: 5.00% target: $1,194
+  GOOGL  score:+2.00 weight: 5.00% target: $1,194
+  MA     score:+2.00 weight: 5.00% target: $1,194
+  GOOG   score:+1.80 weight: 5.00% target: $1,194
+  PM     score:+1.80 weight: 5.00% target: $1,194
+  MU     score:+1.80 weight: 5.00% target: $1,194
+  VRT    score:+1.80 weight: 5.00% target: $1,194
+  AVGO   score:+1.20 weight: 5.00% target: $1,194
+  LLY    score:+1.20 weight: 5.00% target: $1,194
+  V      score:+1.20 weight: 5.00% target: $1,194
+  WMT    score:+1.20 weight: 5.00% target: $1,194
+  BAC    score:+1.20 weight: 5.00% target: $1,194
+  ABT    score:+1.20 weight: 5.00% target: $1,194
+  NOW    score:+1.20 weight: 5.00% target: $1,194
+  ISRG   score:+1.20 weight: 5.00% target: $1,194
+  BLK    score:+1.20 weight: 5.00% target: $1,194
+```
