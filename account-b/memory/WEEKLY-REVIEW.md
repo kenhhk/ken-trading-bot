@@ -159,3 +159,14 @@ Each week appended below. Template:
 - Avg daily turnover (last 5 sessions): 59%
 - Top 5 holdings: PLTR (5.2%), TXN (4.9%), PM (4.9%), ANET (4.9%), RTX (4.8%)
 - Grade: ?
+## Week ending 2026-08-14
+- Equity start: $23,260.90
+- Equity end: $23,775.89
+- Week return: +2.21% ($+514.99)
+- SPY: n/a
+- IWB: n/a
+- Phase return: -4.90%
+- Sharpe-to-date (ann.): 63.05
+- Avg daily turnover (last 5 sessions): 61%
+- Top 5 holdings: ANET (5.0%), WELL (5.0%), TMO (4.9%), BLK (4.9%), HON (4.9%)
+- Grade: ?
