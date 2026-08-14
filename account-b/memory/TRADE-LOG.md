@@ -3015,3 +3015,32 @@ Positions: 19
 | AVGO | 2 | $421.86 | $419.20 | $838.40 | $-5.32 (-0.63%) |
 | ISRG | 2 | $400.19 | $400.60 | $801.20 | $+0.82 (+0.10%) |
 | AXON | 1 | $606.04 | $615.78 | $615.78 | $+9.74 (+1.61%) |
+
+## 2026-08-14 — Rebalance
+```
+Equity: $23,771
+Target: 20 positions, sells: 14, buys: 15
+Filled: 29, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  WDAY   score:+2.50 weight: 5.00% target: $1,189
+  MU     score:+2.20 weight: 5.00% target: $1,189
+  CEG    score:+2.10 weight: 5.00% target: $1,189
+  BKNG   score:+2.10 weight: 5.00% target: $1,189
+  WELL   score:+2.10 weight: 5.00% target: $1,189
+  NVDA   score:+2.00 weight: 5.00% target: $1,189
+  ANET   score:+2.00 weight: 5.00% target: $1,189
+  LRCX   score:+2.00 weight: 5.00% target: $1,189
+  CDNS   score:+2.00 weight: 5.00% target: $1,189
+  COST   score:+1.20 weight: 5.00% target: $1,189
+  GS     score:+1.20 weight: 5.00% target: $1,189
+  AMGN   score:+1.20 weight: 5.00% target: $1,189
+  TXN    score:+1.20 weight: 5.00% target: $1,189
+  SPGI   score:+1.20 weight: 5.00% target: $1,189
+  BLK    score:+1.20 weight: 5.00% target: $1,189
+  HON    score:+1.20 weight: 5.00% target: $1,189
+  UBER   score:+1.20 weight: 5.00% target: $1,189
+  PH     score:+1.20 weight: 5.00% target: $1,189
+  TMO    score:+1.20 weight: 5.00% target: $1,189
+  EMR    score:+1.20 weight: 5.00% target: $1,189
+```
