@@ -3072,3 +3072,32 @@ Positions: 20
 | COST | 1 | $961.41 | $961.10 | $961.10 | $-0.31 (-0.03%) |
 | SPGI | 2 | $415.80 | $418.80 | $837.60 | $+6.00 (+0.72%) |
 | AMGN | 2 | $412.96 | $414.80 | $829.60 | $+3.67 (+0.44%) |
+
+## 2026-08-17 — Rebalance
+```
+Equity: $23,793
+Target: 20 positions, sells: 13, buys: 14
+Filled: 27, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  WDAY   score:+2.80 weight: 5.00% target: $1,190
+  MU     score:+2.20 weight: 5.00% target: $1,190
+  SPGI   score:+2.10 weight: 5.00% target: $1,190
+  NFLX   score:+2.00 weight: 5.00% target: $1,190
+  ANET   score:+2.00 weight: 5.00% target: $1,190
+  BKNG   score:+2.00 weight: 5.00% target: $1,190
+  USB    score:+2.00 weight: 5.00% target: $1,190
+  APO    score:+2.00 weight: 5.00% target: $1,190
+  PM     score:+1.80 weight: 5.00% target: $1,190
+  AMZN   score:+1.20 weight: 5.00% target: $1,190
+  LLY    score:+1.20 weight: 5.00% target: $1,190
+  AMD    score:+1.20 weight: 5.00% target: $1,190
+  ABT    score:+1.20 weight: 5.00% target: $1,190
+  RTX    score:+1.20 weight: 5.00% target: $1,190
+  GE     score:+1.20 weight: 5.00% target: $1,190
+  CRM    score:+1.20 weight: 5.00% target: $1,190
+  BLK    score:+1.20 weight: 5.00% target: $1,190
+  ADI    score:+1.20 weight: 5.00% target: $1,190
+  LRCX   score:+1.20 weight: 5.00% target: $1,190
+  KLAC   score:+1.20 weight: 5.00% target: $1,190
+```
