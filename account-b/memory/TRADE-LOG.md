@@ -3129,3 +3129,32 @@ Positions: 20
 | AMD | 2 | $510.84 | $505.32 | $1,010.64 | $-11.04 (-1.08%) |
 | MU | 1 | $854.06 | $1009.51 | $1,009.51 | $+155.45 (+18.20%) |
 | SPGI | 2 | $415.80 | $411.00 | $822.00 | $-9.60 (-1.15%) |
+
+## 2026-08-18 — Rebalance
+```
+Equity: $23,501
+Target: 20 positions, sells: 14, buys: 14
+Filled: 28, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  MU     score:+2.10 weight: 5.00% target: $1,175
+  PANW   score:+2.10 weight: 5.00% target: $1,175
+  CDNS   score:+2.10 weight: 5.00% target: $1,175
+  TMO    score:+2.00 weight: 5.00% target: $1,175
+  APH    score:+2.00 weight: 5.00% target: $1,175
+  WDAY   score:+2.00 weight: 5.00% target: $1,175
+  RTX    score:+1.50 weight: 5.00% target: $1,175
+  NVDA   score:+1.20 weight: 5.00% target: $1,175
+  V      score:+1.20 weight: 5.00% target: $1,175
+  BAC    score:+1.20 weight: 5.00% target: $1,175
+  ABT    score:+1.20 weight: 5.00% target: $1,175
+  NOW    score:+1.20 weight: 5.00% target: $1,175
+  BLK    score:+1.20 weight: 5.00% target: $1,175
+  PLD    score:+1.20 weight: 5.00% target: $1,175
+  UBER   score:+1.20 weight: 5.00% target: $1,175
+  CRWD   score:+1.20 weight: 5.00% target: $1,175
+  PH     score:+1.20 weight: 5.00% target: $1,175
+  MSTR   score:+1.20 weight: 5.00% target: $1,175
+  BKNG   score:+1.20 weight: 5.00% target: $1,175
+  WELL   score:+1.20 weight: 5.00% target: $1,175
+```
