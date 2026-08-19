@@ -3186,3 +3186,32 @@ Positions: 20
 | WELL | 4 | $237.91 | $235.85 | $943.40 | $-8.24 (-0.87%) |
 | MU | 1 | $854.06 | $939.77 | $939.77 | $+85.71 (+10.04%) |
 | TMO | 1 | $588.00 | $589.09 | $589.09 | $+1.09 (+0.18%) |
+
+## 2026-08-19 — Rebalance
+```
+Equity: $22,337
+Target: 20 positions, sells: 10, buys: 11
+Filled: 21, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  V      score:+2.10 weight: 5.00% target: $1,117
+  NFLX   score:+2.10 weight: 5.00% target: $1,117
+  AMD    score:+2.10 weight: 5.00% target: $1,117
+  VRT    score:+2.10 weight: 5.00% target: $1,117
+  APH    score:+2.10 weight: 5.00% target: $1,117
+  LRCX   score:+2.00 weight: 5.00% target: $1,117
+  TMO    score:+1.80 weight: 5.00% target: $1,117
+  MSFT   score:+1.20 weight: 5.00% target: $1,117
+  AMZN   score:+1.20 weight: 5.00% target: $1,117
+  GOOG   score:+1.20 weight: 5.00% target: $1,117
+  ABT    score:+1.20 weight: 5.00% target: $1,117
+  RTX    score:+1.20 weight: 5.00% target: $1,117
+  TXN    score:+1.20 weight: 5.00% target: $1,117
+  BLK    score:+1.20 weight: 5.00% target: $1,117
+  HON    score:+1.20 weight: 5.00% target: $1,117
+  KLAC   score:+1.20 weight: 5.00% target: $1,117
+  UBER   score:+1.20 weight: 5.00% target: $1,117
+  CRWD   score:+1.20 weight: 5.00% target: $1,117
+  PH     score:+1.20 weight: 5.00% target: $1,117
+  ICE    score:+1.20 weight: 5.00% target: $1,117
+```
