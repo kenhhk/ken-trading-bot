@@ -3243,3 +3243,32 @@ Positions: 20
 | LRCX | 3 | $312.70 | $307.80 | $923.40 | $-14.70 (-1.57%) |
 | HON | 4 | $225.12 | $222.33 | $889.32 | $-11.16 (-1.24%) |
 | TMO | 1 | $588.00 | $613.54 | $613.54 | $+25.54 (+4.34%) |
+
+## 2026-08-20 — Rebalance
+```
+Equity: $23,394
+Target: 20 positions, sells: 14, buys: 13
+Filled: 27, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  LLY    score:+2.20 weight: 5.00% target: $1,170
+  AXON   score:+2.10 weight: 5.00% target: $1,170
+  NOW    score:+2.00 weight: 5.00% target: $1,170
+  PANW   score:+2.00 weight: 5.00% target: $1,170
+  ANET   score:+2.00 weight: 5.00% target: $1,170
+  ICE    score:+1.50 weight: 5.00% target: $1,170
+  NFLX   score:+1.20 weight: 5.00% target: $1,170
+  ABT    score:+1.20 weight: 5.00% target: $1,170
+  AMGN   score:+1.20 weight: 5.00% target: $1,170
+  HON    score:+1.20 weight: 5.00% target: $1,170
+  LRCX   score:+1.20 weight: 5.00% target: $1,170
+  UBER   score:+1.20 weight: 5.00% target: $1,170
+  MSTR   score:+1.20 weight: 5.00% target: $1,170
+  EMR    score:+1.20 weight: 5.00% target: $1,170
+  AON    score:+1.20 weight: 5.00% target: $1,170
+  TDG    score:+1.20 weight: 5.00% target: $1,170
+  COF    score:+1.20 weight: 5.00% target: $1,170
+  COP    score:+1.20 weight: 5.00% target: $1,170
+  MCO    score:+1.20 weight: 5.00% target: $1,170
+  WDAY   score:+1.20 weight: 5.00% target: $1,170
+```
