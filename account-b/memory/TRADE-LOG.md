@@ -3298,3 +3298,32 @@ Positions: 18
 | LRCX | 3 | $312.70 | $310.88 | $932.64 | $-5.46 (-0.58%) |
 | AMGN | 2 | $435.60 | $433.74 | $867.48 | $-3.72 (-0.43%) |
 | AXON | 1 | $633.42 | $611.55 | $611.55 | $-21.87 (-3.45%) |
+
+## 2026-08-21 — Rebalance
+```
+Equity: $23,512
+Target: 20 positions, sells: 11, buys: 11
+Filled: 22, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  NVDA   score:+2.10 weight: 5.00% target: $1,176
+  LLY    score:+2.10 weight: 5.00% target: $1,176
+  PANW   score:+2.10 weight: 5.00% target: $1,176
+  ADI    score:+2.10 weight: 5.00% target: $1,176
+  CDNS   score:+2.10 weight: 5.00% target: $1,176
+  COP    score:+2.10 weight: 5.00% target: $1,176
+  XOM    score:+2.00 weight: 5.00% target: $1,176
+  MSTR   score:+2.00 weight: 5.00% target: $1,176
+  WDAY   score:+2.00 weight: 5.00% target: $1,176
+  NOW    score:+1.50 weight: 5.00% target: $1,176
+  V      score:+1.20 weight: 5.00% target: $1,176
+  MA     score:+1.20 weight: 5.00% target: $1,176
+  ORCL   score:+1.20 weight: 5.00% target: $1,176
+  COST   score:+1.20 weight: 5.00% target: $1,176
+  INTU   score:+1.20 weight: 5.00% target: $1,176
+  AMGN   score:+1.20 weight: 5.00% target: $1,176
+  BLK    score:+1.20 weight: 5.00% target: $1,176
+  AMAT   score:+1.20 weight: 5.00% target: $1,176
+  MU     score:+1.20 weight: 5.00% target: $1,176
+  ANET   score:+1.20 weight: 5.00% target: $1,176
+```
