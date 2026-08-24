@@ -3353,3 +3353,32 @@ Positions: 18
 | COST | 1 | $942.40 | $946.63 | $946.63 | $+4.23 (+0.45%) |
 | AMGN | 2 | $435.60 | $439.33 | $878.66 | $+7.46 (+0.86%) |
 | MA | 1 | $578.59 | $580.98 | $580.98 | $+2.39 (+0.41%) |
+
+## 2026-08-24 — Rebalance
+```
+Equity: $23,427
+Target: 20 positions, sells: 11, buys: 12
+Filled: 23, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  NOW    score:+2.10 weight: 5.00% target: $1,171
+  ANET   score:+2.10 weight: 5.00% target: $1,171
+  MSTR   score:+2.10 weight: 5.00% target: $1,171
+  AVGO   score:+2.00 weight: 5.00% target: $1,171
+  LLY    score:+2.00 weight: 5.00% target: $1,171
+  XOM    score:+2.00 weight: 5.00% target: $1,171
+  CRWD   score:+2.00 weight: 5.00% target: $1,171
+  AXON   score:+2.00 weight: 5.00% target: $1,171
+  TT     score:+2.00 weight: 5.00% target: $1,171
+  PLTR   score:+2.00 weight: 5.00% target: $1,171
+  WDAY   score:+2.00 weight: 5.00% target: $1,171
+  AMGN   score:+1.80 weight: 5.00% target: $1,171
+  BKNG   score:+1.80 weight: 5.00% target: $1,171
+  V      score:+1.20 weight: 5.00% target: $1,171
+  AMD    score:+1.20 weight: 5.00% target: $1,171
+  BLK    score:+1.20 weight: 5.00% target: $1,171
+  HON    score:+1.20 weight: 5.00% target: $1,171
+  PH     score:+1.20 weight: 5.00% target: $1,171
+  TMO    score:+1.20 weight: 5.00% target: $1,171
+  GILD   score:+1.20 weight: 5.00% target: $1,171
+```
