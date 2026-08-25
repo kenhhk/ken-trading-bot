@@ -3409,3 +3409,32 @@ Positions: 19
 | AMGN | 2 | $435.60 | $443.23 | $886.46 | $+15.26 (+1.75%) |
 | TMO | 1 | $624.96 | $628.74 | $628.74 | $+3.78 (+0.60%) |
 | AXON | 1 | $619.75 | $598.01 | $598.01 | $-21.74 (-3.51%) |
+
+## 2026-08-25 — Rebalance
+```
+Equity: $23,456
+Target: 20 positions, sells: 13, buys: 13
+Filled: 26, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  PANW   score:+2.20 weight: 5.00% target: $1,173
+  AMZN   score:+2.10 weight: 5.00% target: $1,173
+  NOW    score:+2.10 weight: 5.00% target: $1,173
+  ICE    score:+2.10 weight: 5.00% target: $1,173
+  V      score:+2.00 weight: 5.00% target: $1,173
+  MA     score:+2.00 weight: 5.00% target: $1,173
+  ADI    score:+2.00 weight: 5.00% target: $1,173
+  WELL   score:+2.00 weight: 5.00% target: $1,173
+  WDAY   score:+2.00 weight: 5.00% target: $1,173
+  MSTR   score:+1.80 weight: 5.00% target: $1,173
+  APH    score:+1.80 weight: 5.00% target: $1,173
+  ABNB   score:+1.80 weight: 5.00% target: $1,173
+  MSFT   score:+1.20 weight: 5.00% target: $1,173
+  LLY    score:+1.20 weight: 5.00% target: $1,173
+  NFLX   score:+1.20 weight: 5.00% target: $1,173
+  PM     score:+1.20 weight: 5.00% target: $1,173
+  GS     score:+1.20 weight: 5.00% target: $1,173
+  BLK    score:+1.20 weight: 5.00% target: $1,173
+  HON    score:+1.20 weight: 5.00% target: $1,173
+  PLD    score:+1.20 weight: 5.00% target: $1,173
+```
