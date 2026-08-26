@@ -3465,3 +3465,32 @@ Positions: 19
 | PANW | 3 | $347.57 | $339.50 | $1,018.50 | $-24.21 (-2.32%) |
 | MSFT | 2 | $486.72 | $490.51 | $981.02 | $+7.58 (+0.78%) |
 | WDAY | 5 | $196.25 | $193.93 | $969.65 | $-11.62 (-1.18%) |
+
+## 2026-08-26 — Rebalance
+```
+Equity: $23,513
+Target: 20 positions, sells: 10, buys: 11
+Filled: 21, Rejected/Cancelled: 0
+
+Today's target portfolio (top 20 by score, value-weighted by mcap):
+  ADI    score:+2.20 weight: 5.00% target: $1,176
+  VRT    score:+2.20 weight: 5.00% target: $1,176
+  MS     score:+2.10 weight: 5.00% target: $1,176
+  MSTR   score:+2.10 weight: 5.00% target: $1,176
+  WDAY   score:+2.10 weight: 5.00% target: $1,176
+  NOW    score:+2.00 weight: 5.00% target: $1,176
+  CRWD   score:+2.00 weight: 5.00% target: $1,176
+  BKNG   score:+2.00 weight: 5.00% target: $1,176
+  APH    score:+2.00 weight: 5.00% target: $1,176
+  AMZN   score:+1.80 weight: 5.00% target: $1,176
+  AAPL   score:+1.20 weight: 5.00% target: $1,176
+  LLY    score:+1.20 weight: 5.00% target: $1,176
+  V      score:+1.20 weight: 5.00% target: $1,176
+  AMGN   score:+1.20 weight: 5.00% target: $1,176
+  GE     score:+1.20 weight: 5.00% target: $1,176
+  BLK    score:+1.20 weight: 5.00% target: $1,176
+  HON    score:+1.20 weight: 5.00% target: $1,176
+  MU     score:+1.20 weight: 5.00% target: $1,176
+  ANET   score:+1.20 weight: 5.00% target: $1,176
+  TMO    score:+1.20 weight: 5.00% target: $1,176
+```
