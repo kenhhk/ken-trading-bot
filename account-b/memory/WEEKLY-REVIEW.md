@@ -181,3 +181,14 @@ Each week appended below. Template:
 - Avg daily turnover (last 5 sessions): 60%
 - Top 5 holdings: MSTR (5.1%), XOM (4.9%), NOW (4.9%), ANET (4.8%), ADI (4.8%)
 - Grade: ?
+## Week ending 2026-08-29
+- Equity start: $23,409.49
+- Equity end: $23,830.00
+- Week return: +1.80% ($+420.51)
+- SPY: n/a
+- IWB: n/a
+- Phase return: -4.68%
+- Sharpe-to-date (ann.): 17.42
+- Avg daily turnover (last 5 sessions): 58%
+- Top 5 holdings: CRWD (5.5%), NOW (5.5%), MSTR (5.3%), WDAY (5.2%), ANET (4.9%)
+- Grade: ?
